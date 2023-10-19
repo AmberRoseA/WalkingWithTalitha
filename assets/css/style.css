@@ -5,7 +5,13 @@
     box-sizing: border-boxgi;
 }
 
-
+/* Starter styles*/ 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+/* Starter styles*/
 
 /*Header****/
 
@@ -20,6 +26,8 @@ header {
 
 main {
     background-color: lightgreen;
+    /*move footer to bottom*/
+    flex: 1 0 auto; 
 }
 
 
