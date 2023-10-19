@@ -82,3 +82,11 @@ WIREFRAMES
 
 Features 
 Existing Features 
+
+
+
+
+CREDITS 
+
+Favicon Generator - Image to Favicon - favicon.io <https://favicon.io/favicon-converter
+For generating the logo into a favicon zipfile
