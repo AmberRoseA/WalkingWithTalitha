@@ -1,0 +1,36 @@
+/*overide default styles*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-boxgi;
+}
+
+
+
+/*Header****/
+
+header {
+    background-color: green;
+}
+
+
+/*eEader^^^^*/
+
+/*Main*****/
+
+main {
+    background-color: lightgreen;
+}
+
+
+/*Main^^^^*/
+
+/*Footer****/
+
+footer {
+    background-color: yellow;
+
+}
+
+
+/*Footer^^^^*/
