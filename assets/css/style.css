@@ -1,3 +1,7 @@
+/*GoogleFonts link*/
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Carter+One&family=Playfair+Display:wght@600&display=swap');
+
+
 /*overide default styles*/
 * {
     margin: 0;
@@ -10,6 +14,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: 'Carter One';
 }
 /* Starter styles*/
 
