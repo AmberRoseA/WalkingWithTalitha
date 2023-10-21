@@ -177,11 +177,21 @@ footer {
     }
 
     #logo {
-        line-height: 75px;
-        margin: 0 0 .5rem;
+        width: 25rem;
     }
+
 
     main {
         margin-top: 79px;
+    }
+}
+
+
+/*Medai Large screen size min width 992px*/
+
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-radius: 1px solid #ffff;
+        color: #ffff
     }
 }
