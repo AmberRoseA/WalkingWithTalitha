@@ -193,9 +193,15 @@ footer {
         display: flex;
     }
 
-    h2 {
-        width: 100%
-    }
+    #wwt {
+        position: fixed;
+        top: 0;
+        right: 0;
+        padding: 10px;
+        font-size: 45px;
+        padding-top: 1rem;
+         
+        }
 
     .page-titles {
        width: 300px;
