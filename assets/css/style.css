@@ -41,17 +41,13 @@ header a {
     color: inherit;
 }
 
-h1 {
-    text-transform: uppercase;
-    color: #012708;
-}
-
 h2 {
     font-family: 'Lobster', sans-serif;
+    font-size: xx-large;
     word-spacing: 2px;
     letter-spacing: 3px;
     color: #d7f9de;
-    padding-left: 2px;
+    padding-left: 1rem;
 }
 
 #page-titles {
@@ -59,9 +55,10 @@ h2 {
     text-transform: capitalize;
     color: #012708;
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 100%;
+    font-size: larger;
     letter-spacing: 2px;
-    padding-left: 1px;
+    word-spacing: 2px;
+    padding-left: 2rem;
 
 }
 
@@ -102,7 +99,7 @@ nav {
     width: 100%;
     left: 0;
     padding: 0;
-    box-shadow: 0 2px 1px #527a5a;
+    box-shadow: 0 2px 4px #527a5a;
     display: none;
     top: 100%;
 }
@@ -120,6 +117,7 @@ nav {
 .nav-drop-label {
     font-size: 2rem;
     color: #012708;
+    padding-left: 1rem;
 }
 
 
@@ -128,7 +126,7 @@ nav {
 /*Main*****/
 
 main {
-    background-color: rgb(193, 246, 185);
+    background-color: #ffff;
     /*move footer to bottom*/
     flex: 1 0 auto;
     margin-top: 80px;
