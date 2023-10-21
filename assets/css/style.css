@@ -30,6 +30,8 @@ header {
     position: fixed;
     z-index: 99;
     box-shadow: 0 2px 4px #527a5a;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -44,7 +46,10 @@ h1 {
 
 #page-titles {
     background-color: rgba(215, 242, 221, 0.5);
+    font-size: 100%;
+    text-transform: capitalize;
 }
+
 
 #menu {
     background-color: #527a5a;
@@ -62,15 +67,36 @@ h1 {
 }
 
 .active {
-    border-bottom: 5px #ffff;
+    border-bottom: 1px #ffff;
     color: #ffff;
 }
-    
 
-.header-link {
-    display: flex;
-    align-items: center;
+/*Toggle nav setting*/
+nav {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 4px #527a5a;
+    display: none;
+    top: 100%;
 }
+
+/* Toggle*/
+#nav-drop:checked~nav {
+    display: block;
+   
+}
+
+#nav-drop {
+    display: none;
+}
+
+.nav-drop-label {
+    font-size: 2rem;
+    color: #012708;
+}
+
 
 /*eEader^^^^*/
 
