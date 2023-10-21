@@ -65,6 +65,11 @@ h2 {
 
 }
 
+#logo {
+    width: 120%;
+    padding-right: 5rem;
+}
+
 .fa-solid-fa-paw {
     color: #527a5a;
 }
