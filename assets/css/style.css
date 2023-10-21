@@ -22,15 +22,20 @@ body {
 
 header {
     background-color: green;
+    padding: 0 1 rem;
+    position: fixed;
+    z-index: 99;
 }
 
 #logo-image {
-    
-    width: 100px;
-    height: auto;
     top: 0;
     left: 0;
-    position: absolute;
+    
+}
+
+.header-link {
+    display: flex;
+    align-items: center;
 }
 
 /*eEader^^^^*/
