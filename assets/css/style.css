@@ -22,9 +22,6 @@ body {
 /*Header****/
 
 header {
-    background-image: url(../images/header-image.jpg);
-    background-size: auto;
-    background-repeat: no-repeat;
     background-color: #527a5a;
     width: 100%;
     height: max-content;
@@ -34,6 +31,12 @@ header {
     box-shadow: 0 0 4px #527a5a;
     justify-content: space-between;
     align-items: baseline;
+}
+
+#header-img {
+    background-image: url(../images/header-image.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
 }
 
 header a {
