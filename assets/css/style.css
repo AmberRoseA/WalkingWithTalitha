@@ -42,6 +42,10 @@ h1 {
     color: #012708;
 }
 
+#page-titles {
+    background-color: rgba(215, 242, 221, 0.5);
+}
+
 #menu {
     background-color: #527a5a;
     font-style: 'Carter One' cursive;
