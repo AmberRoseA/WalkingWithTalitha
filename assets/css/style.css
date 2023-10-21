@@ -35,8 +35,12 @@ header {
 
 #header-img {
     background-image: url(../images/header-image.jpg);
-    background-size: auto;
+    width: 100%;
+    height: 400px;
+    background-position: center center;
+    background-size: cover;
     background-repeat: no-repeat;
+    position: relative;
 }
 
 header a {
@@ -51,6 +55,7 @@ h2 {
     letter-spacing: 3px;
     color: #d7f9de;
     padding-left: 1rem;
+    padding-bottom: 5rem;
 }
 
 #page-titles {
@@ -62,11 +67,15 @@ h2 {
     letter-spacing: 2px;
     word-spacing: 2px;
     padding-left: 2rem;
+    position: absolute;
+    bottom: 1px;
+    width: 100%;
+    min-height: 50px;
 
 }
 
 #logo {
-    width: 120%;
+    width: 125%;
     padding-right: 5rem;
 }
 
@@ -181,6 +190,17 @@ footer {
 
     #logo {
         width: 25rem;
+        display: flex;
+    }
+
+    h2 {
+        width: 100%
+    }
+
+    .page-titles {
+       width: 300px;
+       right: 50px;
+
     }
 
 
