@@ -1,5 +1,5 @@
 /*GoogleFonts link*/
-@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Sarabun:ital,wght@0,200;0,600;0,800;1,700&display=swap');
 
 
 /*overide default styles*/
@@ -9,13 +9,14 @@
     box-sizing: border-box;
 }
 
-/* Starter styles*/ 
+/* Starter styles*/
 body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: 'Carter One' cursive;
+    font-family: 'Bebas Neue' sans-serif;
 }
+
 /* Starter styles*/
 
 /*Header****/
@@ -45,10 +46,27 @@ h1 {
     color: #012708;
 }
 
+h2 {
+    font-family: 'Lobster', sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 3px;
+    color: #d7f9de;
+    padding-left: 2px;
+}
+
 #page-titles {
     background-color: rgba(215, 242, 221, 0.5);
-    font-size: 100%;
     text-transform: capitalize;
+    color: #012708;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 100%;
+    letter-spacing: 2px;
+    padding-left: 1px;
+
+}
+
+.fa-solid-fa-paw {
+    color: #527a5a;
 }
 
 
@@ -60,12 +78,12 @@ h1 {
     font-size: 110%;
     text-align: center;
     letter-spacing: 2px;
-    
+
 }
 
 #menu li {
     text-transform: uppercase;
-    
+
 }
 
 .active {
@@ -87,7 +105,7 @@ nav {
 /* Toggle*/
 #nav-drop:checked~nav {
     display: block;
-   
+
 }
 
 #nav-drop {
@@ -107,7 +125,7 @@ nav {
 main {
     background-color: rgb(193, 246, 185);
     /*move footer to bottom*/
-    flex: 1 0 auto; 
+    flex: 1 0 auto;
     margin-top: 80px;
 }
 
@@ -126,6 +144,7 @@ footer {
 
 /* Media Tablets and Larger (min width - 768+)*/
 @media screen and (min-width: 768px) {
+
     /*Header*/
     nav {
         background-color: #527a5a;
@@ -137,9 +156,11 @@ footer {
         text-align: justify;
         font-size: larger;
     }
+
     #menu {
         display: flex;
     }
+
     #menu li {
         padding-top: 1rem;
         word-spacing: 20%;
@@ -147,8 +168,17 @@ footer {
         width: 100%;
         height: 50%;
     }
+
     .nav-drop-label {
         display: none;
     }
-}
 
+    #logo {
+        line-height: 75px;
+        margin: 0 0 .5rem;
+    }
+
+    main {
+        margin-top: 79px;
+    }
+}
