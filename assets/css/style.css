@@ -26,6 +26,7 @@ header {
     background-repeat: no-repeat;
     background-color: #57c66f;
     width: 100%;
+    height: max-content;
     padding: 0 1 rem;
     position: fixed;
     z-index: 99;
@@ -56,7 +57,7 @@ h1 {
     font-style: 'Carter One' cursive;
     letter-spacing: 5px;
     list-style-type: none;
-    display: flex;
+    display: column;
     font-size: 110%;
     width: 100%
 }
@@ -103,9 +104,10 @@ nav {
 /*Main*****/
 
 main {
-    background-color: white;
+    background-color: rgb(193, 246, 185);
     /*move footer to bottom*/
     flex: 1 0 auto; 
+    margin-top: 80px;
 }
 
 
