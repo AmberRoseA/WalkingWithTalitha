@@ -22,7 +22,7 @@ body {
 
 header {
     background-image: url(../images/header-image.jpg);
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat;
     background-color: #57c66f;
     width: 100%;
@@ -30,7 +30,7 @@ header {
     padding: 0 1 rem;
     position: fixed;
     z-index: 99;
-    box-shadow: 0 2px 4px #527a5a;
+    box-shadow: 0 0 4px #527a5a;
     justify-content: space-between;
     align-items: baseline;
 }
@@ -54,17 +54,18 @@ h1 {
 
 #menu {
     background-color: #527a5a;
-    font-style: 'Carter One' cursive;
-    letter-spacing: 5px;
-    list-style-type: none;
+    width: 100%;
     display: column;
+    list-style-type: none;
     font-size: 110%;
-    width: 100%
+    text-align: center;
+    letter-spacing: 2px;
+    
 }
 
 #menu li {
-    margin-bottom: 1em;
-    margin-top: 1em;
+    text-transform: uppercase;
+    
 }
 
 .active {
@@ -78,7 +79,7 @@ nav {
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 4px #527a5a;
+    box-shadow: 0 2px 1px #527a5a;
     display: none;
     top: 100%;
 }
@@ -122,3 +123,29 @@ footer {
 
 
 /*Footer^^^^*/
+
+/* Media Tablets and Larger (min width - 768+)*/
+@media screen and (min-width: 768px) {
+    /*Header*/
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: 100%;
+        text-align: justify;
+        padding-right: 1rem;
+    }
+    #menu {
+        display: flex;
+    }
+    #menu li {
+        padding-left: 1rem;
+        word-spacing: 20%;
+        text-align: center;
+        width: 100%;
+    }
+    .nav-drop-label {
+        display: none;
+    }
+}
+
