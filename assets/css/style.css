@@ -19,7 +19,7 @@ body {
 
 /* Starter styles*/
 
-/*Header****/
+/*...........Header.........*/
 
 #the-header {
     background-color: #527a5a;
@@ -133,17 +133,33 @@ nav {
     color: #012708;
     padding-left: 1rem;
 }
+/*.......^^..Header.^.^.....*/
 
-
-/*eEader^^^^*/
-
-/*Main*****/
+/*...........Main..............*/
 
 #content {
     background-color: #ffff;
     /*move footer to bottom*/
     flex: 1 0 auto;
 }
+
+/*.........HomePage..........*/
+
+
+/*......^^^HomePage^^^.......*/
+/*.........Servicepage..........*/
+
+
+/*......^^^Servicepage^^^.......*/
+/*.........Aboutpage..........*/
+
+
+
+/*......^^^Aboutpage^^^.......*/
+/*........Contactpage..........*/
+
+
+
 
 /*Map*/
 #map {
@@ -153,10 +169,11 @@ nav {
     width: 100%;
 
 }
+/*.....^^^Contactpage^^^.......*/
 
-/*Main^^^^*/
+/*.......^^^Main^^^........*/
 
-/*Footer****/
+/*.........Footer......*/
 footer {
     z-index: 1;
 }
@@ -176,7 +193,7 @@ footer {
     padding: 5px;
 }
 
-/*Footer^^^^*/
+/*.........^^^Footer^^^........*/
 
 /* Media Tablets and Larger (min width - 768+)*/
 @media screen and (min-width: 768px) {
