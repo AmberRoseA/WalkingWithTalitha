@@ -11,9 +11,9 @@
 
 /* Starter styles*/
 body {
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
     font-family: 'Bebas Neue' sans-serif;
 }
 
@@ -21,7 +21,7 @@ body {
 
 /*Header****/
 
-header {
+#the-header {
     background-color: #527a5a;
     width: 100%;
     height: max-content;
@@ -139,11 +139,10 @@ nav {
 
 /*Main*****/
 
-main {
+#content {
     background-color: #ffff;
     /*move footer to bottom*/
     flex: 1 0 auto;
-    margin-top: 100rem;
 }
 
 /*Map*/
