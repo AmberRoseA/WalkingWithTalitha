@@ -148,12 +148,20 @@ main {
 /*Main^^^^*/
 
 /*Footer****/
-
-footer {
-    background-color: yellow;
-
+#social-net {
+    background-color: #527a5a;
+    text-align: center;
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
 
+#social-net i {
+    font-size: 250%;
+    color: #ffff;
+    padding: 5px;
+}
 
 /*Footer^^^^*/
 
