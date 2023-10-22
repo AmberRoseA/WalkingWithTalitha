@@ -146,10 +146,22 @@ main {
     margin-top: 80px;
 }
 
+/*Map*/
+#map {
+    position: fixed;
+    bottom: 0;
+    height: 20%;
+    width: 100%;
+
+}
 
 /*Main^^^^*/
 
 /*Footer****/
+footer {
+    z-index: 1;
+}
+
 #social-net {
     background-color: #527a5a;
     text-align: center;
