@@ -48,14 +48,14 @@ header a {
     color: inherit;
 }
 
-h2 {
+#wwt {
     font-family: 'Lobster', sans-serif;
     font-size: xx-large;
     word-spacing: 2px;
     letter-spacing: 3px;
     color: #d7f9de;
     padding-left: 1rem;
-    padding-bottom: 5rem;
+    padding-bottom: 10rem;
     text-decoration: underline;
 }
 
@@ -249,5 +249,30 @@ main {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         color: white;
+    }
+
+}
+
+/*media larger screen size minwidth 1200px*/
+
+@media screen and (min-width: 1200px) {
+
+    #wwt {
+        font-size: 65px;
+    }
+
+    #page-titles {
+        font-size: 160%;
+        padding-top: 5px;
+        padding-left: 8rem;
+        bottom: 10px;
+    
+    
+    }
+
+    #logo {
+        width: 35rem;
+        right: -6rem;
+        top: -1rem;
     }
 }
