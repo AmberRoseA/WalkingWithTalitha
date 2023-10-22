@@ -177,16 +177,16 @@ main {
     }
 
     #page-titles {
-        font-size: 150%;
+        font-size: 140%;
         letter-spacing: 2px;
         word-spacing: 2px;
         padding-top: 5px;
-        text-align: center;
+        text-align: left;
         position: absolute;
         right: 0;
         bottom: 30px;
-        width: 60%;
-        min-height: 110px;
+        width: 100%;
+        min-height: 100px;
 
     }
 
@@ -218,14 +218,19 @@ main {
     }
 
     #logo {
-        width: 25rem;
+        position: absolute;
+        top: 10%;
+        right: -7rem;
+        width: 28rem;
         display: flex;
+        z-index: 1;
+
     }
 
     #wwt {
         position: fixed;
         top: 0;
-        right: 0;
+        left: 0;
         padding: 10px;
         font-size: 45px;
         padding-top: 1rem;
