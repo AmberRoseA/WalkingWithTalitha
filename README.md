@@ -42,25 +42,29 @@ User Experience
 
 USER Stories-
 
-       As a shopperpet owner:
+       As a pet owner:
        
-        1.I want to find a local dog walker company to care for my pup while I'm at work.
-        2.I want to discover a local dog walker company to ensure my dog's well-being during my vacation.
-        3.I want to connect with a local dog walker company for my puppy's exercise and socialization.
-        4.I want to find a local dog walker company for my dog's exercise needs due to my limited mobility.
-        5.I want to hire a local dog walker company with flexible services that can adapt to my changing schedule.
-        6.I want to locate a local dog sitter company capable of caring for all my dogs.
-        7.I want to connect with an experienced dog walker from a local dog walker company for my fearful dog's special needs.
-        8.I want to hire a local dog walker from a reputable company for a few hours while I explore a new city as a tourist.
-        9.I want to find a local dog sitter company to care for my dog during a special event.
-        10.I want to locate a reliable local dog walker company that provides on-demand services for my unpredictable work schedule.
+        1. I want to find a local dog walker company to care for my pup while I'm at work.
+        2. I want to discover a local dog walker company to ensure my dog's well-being during my vacation.
+        3. I want to connect with a local dog walker company for my puppy's exercise and socialization.
+        4. I want to find a local dog walker company for my dog's exercise needs due to my limited mobility.
+        5. I want to hire a local dog walker company with flexible services that can adapt to my changing schedule.
+        6. I want to locate a local dog sitter company capable of caring for all my dogs.
+        7. I want to connect with an experienced dog walker from a local dog walker company for my fearful dog's special needs.
+        8. I want to hire a local dog walker from a reputable company for a few hours while I explore a new city as a tourist.
+        9. I want to find a local dog sitter company to care for my dog during a special event.
+        10. I want to locate a reliable local dog walker company that provides on-demand services for my unpredictable work schedule.
+        11. As a dog owner, I want to visit the individual dog walker's website to learn about their experience, services, and pricing, so I can make an informed decision about hiring them to walk my dog.
+        12. As a dog owner, I want to access a calendar on the website to check the available time slots for dog walks and choose a convenient time for my dog's exercise.
+        13. As a dog owner, I want to read reviews and testimonials from other clients on the website to gain confidence in the dog walker's reliability and the quality of their service.
          
-       As business owner
-        1
-        2
-        3
-        4
-        5  
+    As business owner
+    
+        1. I want to have a professional and informative website that showcases my services, experience, and testimonials, so I can attract potential clients and build trust with them.
+        2. As a business owner, I want to have an easy-to-use content management system on my website, allowing me to update my services, pricing, and availability in real-time, so I can keep my clients informed and my website up-to-date.
+        3. I want to include a contact form on my website, enabling potential clients to reach out to me easily, so I can quickly respond to inquiries and schedule dog walking appointments.
+        4. I want to integrate a scheduling and booking system into my website, allowing clients to request and book dog walks online, streamlining the appointment process and reducing administrative tasks.
+        5. I want to utilize analytics and reporting tools on my website to track user engagement, monitor the effectiveness of marketing efforts, and gather data to make informed decisions to grow and improve my dog walking business.  
 
 Key Features
 
