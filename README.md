@@ -40,18 +40,20 @@ User Experience
 
     The website prioritizes user experience for people with disabilities, offering clear, informative, and comforting content. The homepage provides a warm and welcoming atmosphere with a gallery or collage of happy furry dog customers, accompanied by images of reviews integrated into the visuals.
 
-USER Stories 
-       As a shopper
-         1
-         2
-         3
-         4
-         5
-         6
-         7
-         8
-         9
-         10
+USER Stories-
+
+       As a shopperpet owner:
+       
+        1.I want to find a local dog walker company to care for my pup while I'm at work.
+        2.I want to discover a local dog walker company to ensure my dog's well-being during my vacation.
+        3.I want to connect with a local dog walker company for my puppy's exercise and socialization.
+        4.I want to find a local dog walker company for my dog's exercise needs due to my limited mobility.
+        5.I want to hire a local dog walker company with flexible services that can adapt to my changing schedule.
+        6.I want to locate a local dog sitter company capable of caring for all my dogs.
+        7.I want to connect with an experienced dog walker from a local dog walker company for my fearful dog's special needs.
+        8.I want to hire a local dog walker from a reputable company for a few hours while I explore a new city as a tourist.
+        9.I want to find a local dog sitter company to care for my dog during a special event.
+        10.I want to locate a reliable local dog walker company that provides on-demand services for my unpredictable work schedule.
          
        As business owner
         1
