@@ -58,7 +58,7 @@ USER Stories-
         12. As a dog owner, I want to access a calendar on the website to check the available time slots for dog walks and choose a convenient time for my dog's exercise.
         13. As a dog owner, I want to read reviews and testimonials from other clients on the website to gain confidence in the dog walker's reliability and the quality of their service.
          
-    As business owner
+    As business owner:
     
         1. I want to have a professional and informative website that showcases my services, experience, and testimonials, so I can attract potential clients and build trust with them.
         2. As a business owner, I want to have an easy-to-use content management system on my website, allowing me to update my services, pricing, and availability in real-time, so I can keep my clients informed and my website up-to-date.
