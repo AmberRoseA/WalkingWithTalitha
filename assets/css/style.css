@@ -55,7 +55,6 @@ header a {
     letter-spacing: 3px;
     color: #d7f9de;
     padding-left: 1rem;
-    padding-bottom: 10rem;
     text-decoration: underline;
 }
 
@@ -90,8 +89,9 @@ header a {
     width: 100%;
     list-style-type: none;
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 200%;
-    text-align: center;
+    font-size: 150%;
+    text-align: left;
+    padding-left: 3rem;
     letter-spacing: 2px;
 
 }
@@ -109,13 +109,13 @@ header a {
 
 /*Toggle nav setting*/
 nav {
-    position: absolute;
     width: 100%;
     left: 0;
     padding: 0;
     box-shadow: 0 2px 4px #527a5a;
     display: none;
-    top: 100%;
+    position: fixed;
+    top: 48%;
 }
 
 /* Toggle*/
@@ -131,9 +131,12 @@ nav {
 }
 
 .nav-drop-label {
-    font-size: 2rem;
+    font-size: 3rem;
     color: #012708;
     padding-left: 1rem;
+    position: fixed;
+    top: 48%;
+    display: block;
 
 }
 
@@ -141,11 +144,6 @@ nav {
 
 /*...........Main..............*/
 
-#content {
-    background-color: #ffff;
-    /*move footer to bottom*/
-    flex: 1 0 auto;
-}
 
 /*.........HomePage..........*/
 
