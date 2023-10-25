@@ -94,5 +94,7 @@ Existing Features
 
 CREDITS 
 
-Favicon Generator - Image to Favicon - favicon.io <https://favicon.io/favicon-converter
+1. Favicon Generator - Image to Favicon - favicon.io <https://favicon.io/favicon-converter
 For generating the logo into a favicon zipfile
+2. WomansDay - "70 Paws-itively Hilarious Dog Puns to Use as Instagram Captions and More" -<https://www.womansday.com/life/pet-care/a30928651/dog-puns/>
+For the great dog pun inspiration.
