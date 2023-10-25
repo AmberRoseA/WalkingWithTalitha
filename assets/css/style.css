@@ -34,6 +34,7 @@ body {
 
 #welcome {
     font-family: 'Lobster', sans-serif;
+    box-shadow:  2px 4px #527a5a;
     position: relative;
     text-align: end;
     padding-right: 1rem;
@@ -138,7 +139,7 @@ nav {
     left: 0;
     padding: 0;
     box-shadow: 0 2px 4px #527a5a;
-    display: inline-block;
+    display: block;
     position: relative;
     top: 82%;
 }
@@ -216,7 +217,7 @@ footer {
 #social-net {
     background-color: rgb(184, 225, 193);
     text-align: center;
-    padding: 5px 0;
+    padding: 1px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
@@ -235,44 +236,42 @@ footer {
     /*Header*/
     #header-img {
         height: 300px;
+        background-position: left;
 
     }
 
     #page-titles {
-        font-size: 140%;
+        background-color: rgb(184 225 193 / 80%);
+        font-size: 120%;
         letter-spacing: 2px;
         word-spacing: 2px;
         padding-top: 5px;
-        text-align: left;
-        position: absolute;
-        right: 0;
+        padding-left: 50px;
+        left: 0;
         bottom: 30px;
-        width: 100%;
+        width: 60%;
         min-height: 100px;
 
     }
 
     nav {
-        background-color: #527a5a;
+        box-shadow: 20px 20px 20px #527a5a;
         display: block;
         position: relative;
-        box-shadow: none;
+        top: 100%;
         width: 100%;
-        height: 55px;
-        text-align: justify;
+        height: 100px;
         font-size: larger;
     }
 
     #menu {
         display: flex;
+
     }
 
     #menu li {
-        padding-top: 1rem;
         word-spacing: 20%;
         text-align: center;
-        width: 100%;
-        height: 50%;
     }
 
     .nav-drop-label {
@@ -281,21 +280,24 @@ footer {
 
     #logo {
         position: absolute;
-        top: 10%;
+        top: -1.1rem;
         right: -7rem;
-        width: 28rem;
+        width: 50%;
         display: flex;
         z-index: 1;
 
     }
 
+    #welcome {
+        padding: 1rem 5rem;
+        font-size: 200%;
+    }
+
     #wwt {
-        position: fixed;
-        top: 0;
-        left: 0;
-        padding: 10px;
-        font-size: 45px;
-        padding-top: 1rem;
+        position: relative;
+        top: 10%;
+        left: 50%;
+        font-size: 40px;
 
     }
 
