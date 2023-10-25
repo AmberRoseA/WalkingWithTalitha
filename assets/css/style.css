@@ -267,8 +267,15 @@ strong {
     padding-bottom: 10px;
 }
 
+td {
+    color: #527a5a;
+}
+
 th, td {
-    border: px solid #01330b
+    border: 1px solid;
+    border-color: yellowgreen;
+    padding: 8px;
+
 }
 
 #service-side {
