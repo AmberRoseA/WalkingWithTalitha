@@ -208,12 +208,13 @@ nav {
 
 /*.........Footer......*/
 footer {
+    box-shadow: 0 2px 4px 4px #527a5a;
     z-index: 1;
 
 }
 
 #social-net {
-    background-color: #527a5a;
+    background-color: rgb(184, 225, 193);
     text-align: center;
     padding: 5px 0;
     display: flex;
@@ -223,7 +224,7 @@ footer {
 
 #social-net i {
     font-size: 250%;
-    color: #ffff;
+    color: #012708;
     padding: 5px;
 }
 
