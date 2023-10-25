@@ -125,6 +125,7 @@ header a {
 #active-back {
     background-color: #074701;
     width: 100%;
+    height: 100%
 }
 
 .active {
@@ -269,7 +270,7 @@ footer {
     }
 
     #menu li {
-        word-spacing: 20%;
+        font-size: 180%;
         text-align: center;
         width: 100%;
     }
@@ -313,6 +314,8 @@ footer {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         color: white;
+        background-color: #074701;
+        text-decoration: 2px solid underline;
     }
 
 }
@@ -321,22 +324,35 @@ footer {
 
 @media screen and (min-width: 1200px) {
 
+    #header-img {
+        background-size: 200%;
+        background-position: 30%;
+    }
+
+
     #wwt {
-        font-size: 65px;
+        font-size: 75px;
+        width: 80%;
+        left: 28%;
+        top: 5%;
+
     }
 
     #page-titles {
-        font-size: 160%;
-        padding-top: 5px;
-        padding-left: 8rem;
-        bottom: 10px;
+        font-size: 135%;
+        display: inline-flex;
+        padding-left: 20px;
+        bottom: -2.1rem;
+        width: 100%;
+        height: 10px;
+        letter-spacing: 5px;
+        text-align: center;
 
-
+        
     }
 
     #logo {
-        width: 35rem;
-        right: -6rem;
-        top: -1rem;
+        width: 44%;
+
     }
 }
