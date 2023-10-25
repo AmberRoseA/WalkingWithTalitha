@@ -62,40 +62,39 @@ header a {
     background-color: rgba(255, 255, 255, 0.8);
     color: #527a5a;
     font-family: 'Lobster', sans-serif;
-    font-size: 150%;
+    font-size: 158%;
     width: 50%;
-    word-spacing: 2px;
+    word-spacing: 4px;
     letter-spacing: 3px;
     padding-left: 10px;
     padding-right: 5px;
     text-decoration: underline;
     text-align: center;
     position: absolute;
-    top: 2.5rem;
+    top: 1.5rem;
     right: 0;
 }
 
 #page-titles {
-    background-color: rgba(215, 242, 221);
+    background-color: rgb(184, 225, 193);
     box-shadow: 0 2px 4px #527a5a;
     text-transform: capitalize;
     color: #012708;
     font-family: 'Bebas Neue', sans-serif;
     letter-spacing: 2px;
     word-spacing: 2px;
-    padding-left: 3rem;
+    padding: 5px 5px 5px 5rem;
     position: absolute;
     bottom: -3rem;
     width: 100%;
 
-
 }
 
 #logo {
-    width: 55%;
+    width: 58%;
     position: absolute;
-    top: 0;
-    right: 50%;
+    top: -8px;
+    left: -25px;
     z-index: 3;
 }
 
@@ -106,37 +105,42 @@ header a {
 
 #menu {
     background-color: rgba(215, 242, 221);
-    color: #074701;
     width: 100%;
     list-style-type: none;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 130%;
-    padding-left: 2rem;
-    left: 4rem;
-    letter-spacing: 2px;
 
 }
 
 #menu li {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #074701;
+    font-size: 130%;
+    text-align: center;
     text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 55px;
 
 }
 
+#active-back {
+    background-color: #074701;
+    width: 100%;
+}
+
 .active {
-    border-bottom: 1px #ffff;
+    text-decoration: 2px solid underline;
     color: #ffff;
 
 }
 
 /*Toggle nav setting*/
 nav {
-    width: 40%;
+    width: 20%;
     left: 0;
     padding: 0;
     box-shadow: 0 2px 4px #527a5a;
-    display: none;
-    position: fixed;
-    top: 28%;
+    display: inline-block;
+    position: relative;
+    top: 82%;
 }
 
 /* Toggle*/
@@ -152,12 +156,16 @@ nav {
 }
 
 .nav-drop-label {
+    background-color: rgba(215, 242, 221);
     font-size: 3rem;
     color: #012708;
-    padding-left: 1rem;
+    padding: 1.1rem;
     display: block;
-    position: fixed;
-    top: 28%;
+    position: relative;
+    top: 80%;
+    width: 20%;
+    height: 50%;
+    border-radius: 2px;
 
 }
 
