@@ -322,27 +322,41 @@ th, td {
     color: #2f4834;
     font-family: 'Sarabun 700 Bold Italic', sans-serif;
     font-weight: 900;
-    font-size: 90%;
+    font-size: 96%;
     width: 95%;
+    height: 70%;
     margin: 0 auto;
     position: relative;
     padding: 5% 5% 5% 5%;
-    text-transform: capitalize;
     text-align: center;
 }
 
 #breakdown > h3 {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 26px;
+    font-size: 40px;
     font-weight: 900;
     text-align: center;
     text-decoration: underline;
     margin: 0 auto;
-    padding: 15px 8px 15px 8px;
+    padding: 25px 8px 25px 8px;
     color: #074701;
+    background-color: rgba(255, 217, 0, 0.281);;
     letter-spacing: 2px;
     word-spacing: 4px;
-    width: 70%;
+    width: 98%;
+
+}
+
+#breakdown > p {
+    font-family: 'Sarabun ExtraBold 800' sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    width: 90%;
+    text-align: left;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    line-height: 28px;
+    padding: 10px 0 20px 50px;
 
 }
 
