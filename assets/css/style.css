@@ -306,7 +306,17 @@ th, td {
 
 /*Paragraph*/
 #all-service-section > p {
-    
+    background-color: rgba(255, 217, 0, 0.281);
+    color: #2f4834;
+    font-family: 'Sarabun 700 Bold Italic', sans-serif;
+    font-weight: 900;
+    font-size: 90%;
+    width: 95%;
+    margin: 0 auto;
+    position: relative;
+    padding: 5% 5% 5% 5%;
+    text-transform: capitalize;
+    text-align: center;
 }
 
 /*......^^^Servicepage^^^.......*/
