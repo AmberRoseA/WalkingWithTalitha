@@ -144,6 +144,7 @@ nav {
     display: block;
     position: relative;
     top: 82%;
+    z-index: 2;
 }
 
 /* Toggle*/
@@ -176,7 +177,11 @@ nav {
 
 /*...........Main..............*/
 #main {
+    display: inline-block;
     flex: 1;
+    position: relative;
+    margin-top: 20%;
+    z-index: 1;
 }
 
 /*.........HomePage..........*/
