@@ -331,7 +331,20 @@ th, td {
     text-align: center;
 }
 
-#breakdown 
+#breakdown > h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 26px;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: underline;
+    margin: 0 auto;
+    padding: 15px 8px 15px 8px;
+    color: #074701;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    width: 70%;
+
+}
 
 /*......^^^Servicepage^^^.......*/
 /*.........Aboutpage..........*/
