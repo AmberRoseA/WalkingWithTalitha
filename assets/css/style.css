@@ -216,8 +216,10 @@ strong {
 /*Table*/
 #table-container {
     background-color: rgb(220 246 226 / 80%);
-    width: 98%;
-    height: 64vh;
+    width: 95%;
+    height: fit-content;
+    position: relative;
+    font-weight: 700;
     margin: 0 auto;
     border-collapse: collapse;
     border: solid #01330b;
@@ -228,11 +230,21 @@ strong {
     color: #ffff;
     font-family: 'Sarabun 700 Bold Italic', sans-serif;
     font-size: 120%;
+    width: 100%;
     text-transform: uppercase;
     text-decoration: underline;
-    text-align: center;
-    border: 1px solid 01330b;
+    text-align: left;
 }
+
+.serv-left {
+    padding-left: 30px;
+    width: 48px;
+}
+
+.c-t-mid {
+    text-align: center;
+}
+
 
 .top-row-table {
     height: 50px;
@@ -252,9 +264,25 @@ th, td {
     font-family: 'Sarabun ExtraLight 200', sans-serif;
     font-size: larger;
     text-align: left;
+    width: 45%;
     padding-left: 8px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#cost-side {
+    font-family: 'Sarabun ExtraLight 200', sans-serif;
+    font-size: large;
+    text-align: center;
+
+}
+
+#time-side {
+    font-family: 'Sarabun ExtraLight 200', sans-serif;
+    font-size: large;
+    text-align: end;
+    padding-right: 10px;
+    text-transform: capitalize;
 }
 /*Table*/
 
@@ -283,6 +311,8 @@ th, td {
 
 /*.........Footer......*/
 footer {
+    position: relative;
+    bottom: 0;
     box-shadow: 0 2px 4px 4px #527a5a;
     z-index: 1;
 
