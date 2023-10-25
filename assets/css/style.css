@@ -149,7 +149,7 @@ nav {
 /* Toggle*/
 
 #nav-drop:checked~nav {
-    display: block;
+    display: none;
 
 }
 
@@ -276,7 +276,7 @@ footer {
         width: 100%;
     }
 
-    .nav-drop-label {
+    .nav-drop, .nav-drop-label {
         display: none;
     }
 
