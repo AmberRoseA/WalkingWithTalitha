@@ -189,7 +189,38 @@ nav {
 
 /*......^^^HomePage^^^.......*/
 /*.........Servicepage..........*/
+/*Serviceheader*/
+#Service-head {
+    font-family: 'Bebas Neue', sans-serif;
+    color:#074701;
+    font-size: 250%;
+    text-decoration: overline;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 1rem 1rem;
+}
+/*Serviceheader*/
 
+/*Table*/
+#table-container {
+    width: 98%;
+    height: auto;
+    border-collapse: collapse;
+}
+
+#underline {
+    font-family: 'Sarabun 700 Bold Italic', sans-serif;
+    font-size: 120%;
+    padding-left: 2rem;
+    text-decoration: underline;
+}
+
+th, td {
+    border: 2px solid #527a5a;
+    padding; 8px;
+    text-align: left;
+}
+/*Table*/
 
 /*......^^^Servicepage^^^.......*/
 /*.........Aboutpage..........*/
