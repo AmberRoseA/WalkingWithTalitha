@@ -368,7 +368,33 @@ th, td {
 /*......^^^Aboutpage^^^.......*/
 /*........Contactpage..........*/
 
+.leash-head {
+    font-family: 'Lobster', sans-serif;
+    font-size: 19px;
+    color: #527a5a;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    width: 70%;
+    font-weight:300;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 20px;
+}
 
+.contact-form {
+    
+}
+
+.leash-head {
+    background-image: url(../images/wow-pupps.jpg);
+    width: 100%;
+    height: max-content;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
 
 
 /*Map*/
