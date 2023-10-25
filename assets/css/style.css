@@ -203,22 +203,46 @@ nav {
 
 /*Table*/
 #table-container {
+    background-color: rgb(220 246 226 / 80%);
     width: 98%;
-    height: auto;
+    height: 64vh;
+    margin: 0 auto;
     border-collapse: collapse;
+    border: 1px solid #01330b;
 }
 
-#underline {
+#top-row-table {
+    background-color: #074701;
+    color: #ffff;
     font-family: 'Sarabun 700 Bold Italic', sans-serif;
     font-size: 120%;
-    padding-left: 2rem;
+    text-transform: uppercase;
     text-decoration: underline;
+    text-align: center;
+    border: 1px solid 01330b;
+}
+
+.top-row-table {
+    height: 50px;
+    width: 100%;
+}
+
+.row {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 th, td {
-    border: 2px solid #527a5a;
-    padding; 8px;
+    border: px solid #01330b
+}
+
+#service-side {
+    font-family: 'Sarabun ExtraLight 200', sans-serif;
+    font-size: larger;
     text-align: left;
+    padding-left: 8px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 /*Table*/
 
