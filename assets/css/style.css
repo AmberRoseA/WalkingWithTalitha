@@ -183,7 +183,8 @@ nav {
     display: inline-block;
     flex: 1;
     position: relative;
-    margin-top: 20%;
+    margin-top: 15%;
+    margin-bottom: 30%;
     z-index: 1;
 }
 
@@ -384,11 +385,22 @@ th, td {
 
 }
 
+.contact-details h4 {
+    background-color: #83b48dbe;
+    color: #2f4834;
+    font-size: 20px;
+    width: 80%;
+    padding-bottom: 10px; 
+    padding-top: 10px;
+    text-align: center;
+
+}
+
 #ql {
     font-family: 'Lobster', sans-serif;
     font-size: 28px;
     background-color: #83b48d;
-    color: #f7faf8;
+    color: #2f483;
     word-spacing: 3px;
     letter-spacing: 1px;
     width: 100%;
