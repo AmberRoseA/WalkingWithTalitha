@@ -368,6 +368,22 @@ th, td {
 /*......^^^Aboutpage^^^.......*/
 /*........Contactpage..........*/
 
+/*contactInfor*/
+
+.contact-details h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #2f4834;
+    padding-bottom: 5px;
+    padding-top: 9px;
+    text-align: center;
+    
+
+
+}
+
 #ql {
     font-family: 'Lobster', sans-serif;
     font-size: 28px;
@@ -380,6 +396,7 @@ th, td {
     text-align: center;
     margin: auto;
     padding-bottom: 11px;
+    text-transform: capitalize;
 }
 
 /*ContactForm*/
