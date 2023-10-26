@@ -383,9 +383,6 @@ th, td {
 }
 
 /*ContactForm*/
-.leash-head {
-    
-}
 
 .contact-form {
     background-color: rgba(255, 255, 255, 0.1);
@@ -405,7 +402,7 @@ form select,
 form textarea {
     width: 100%;
     margin-bottom: 10px;
-    padding: 5px;
+    padding: 3px;
     border: 1px solid #ccc;
     border-radius: 5px;
 
@@ -421,6 +418,7 @@ form textarea {
     color: #ffff;
     font-family: 'Bebas Neue', sans-serif;
     font-size: 15px;
+    letter-spacing: 2px;
 }
 
 .leash-head {
@@ -433,6 +431,12 @@ form textarea {
     position: relative;
     left: 0;
     
+}
+
+input[type="submit"] {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 15px;
+    letter-spacing: 5px;
 }
 
 input[type="submit"]:active {
