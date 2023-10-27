@@ -115,12 +115,13 @@ The website's color scheme is inspired by the business logo, emphasizing greens 
 ### CREDITS
 *Chrome DevTools --Inspect elements/ Development tools
 *Love Running Project --Initial direction
-*Love Runnig README --Inital direction
-*Code Institute
+*Love Runnig README --Initial direction
+*Code Institute --Initial learning
 *Google
-*Google Fonts
+*Google Fonts -- Fonts used
 *Font Awesome --Icons used
 *Favicon.io <https://favicon.io/favicon-converter> --Favicon Generator
+*https://developer.mozilla.org/en-US/ --Referancing/ reminding of HTML and CSS codes
 *WomansDay/ "70 Paws-itively Hilarious Dog Puns to Use as Instagram Captions and More" https://www.womansday.com/life/pet-care/a30928651/dog-puns/ --For the great dog pun inspiration.
 *AsiaWi/hygge_life https://github.com/AsiaWi/hygge_life/tree/main --README file
 *Cheat Sheet https://docs.emmet.io/cheat-sheet/ --code shortcuts
