@@ -174,15 +174,22 @@ nav {
 }
 
 /*.........HomePage..........*/
+#home-page div {
+    box-shadow: 0 4px 10px #527a5a;
+}
+
 #home-page h2 {
-    font-family: 'Lobster', sans-serif;
-    font-size: 30px;
+    font-family: 'Bebas Neue',sans-serif;
+    font-size: 39px;
     color: #527a5a;
+    text-decoration: underline;
     letter-spacing: 2px;
-    word-spacing: 3px;
-    text-transform: capitalize;
     text-align: center;
+    padding-bottom: 10px;
     margin-top: 1px;
+    position: relative;
+    top: 0;
+
 }
 
 #home-page h3 {
@@ -198,7 +205,7 @@ nav {
 
 #head1 {
     width: 55%;
-    position: absolute;
+    position: relative;
     top: 45%;
     left: 45%;
     text-align: right;
@@ -233,7 +240,7 @@ nav {
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
-    position: relative;
+    position: relativea;
     margin-top: 5%;
     margin-bottom: 5%;
     
@@ -432,19 +439,32 @@ th, td {
 
 }
 
-#breakdown > p {
+#breakdown > div p {
     font-family: 'Sarabun ExtraBold 800' sans-serif;
-    font-size: 18px;
-    font-weight: 800;
-    width: 90%;
-    text-align: left;
+    font-size: 21px;
+    font-weight: 900;
+    background-color:rgb(252, 254, 253, 0.5);
+    width: 100%;
+    text-align: center;
     letter-spacing: 1px;
     word-spacing: 3px;
-    line-height: 28px;
-    padding: 10px 0 20px 50px;
+    line-height: 21px;
+    padding: 5%;
+    
 
 }
 
+.p-img1 {
+    background-image: url(../images/dogon-hay.jpg);
+    background-size: cover;
+    
+}
+
+.p-img4 {
+    background-image: url(../images/pretty-dog.jpg);
+    background-size: cover;
+    background-position: 20%;
+}
 /*......^^^Servicepage^^^.......*/
 /*.........Aboutpage..........*/
 
@@ -487,7 +507,7 @@ th, td {
     font-family: 'Lobster', sans-serif;
     font-size: 28px;
     background-color: #83b48d;
-    color: #2f483;
+    color: rgba(253, 240, 167);
     word-spacing: 3px;
     letter-spacing: 1px;
     width: 100%;
@@ -594,7 +614,7 @@ footer {
 
 #social-net i {
     font-size: 250%;
-    color: rgb(220 246 226);
+    color: rgb(252, 254, 253);
     padding: 5px;
 }
 
