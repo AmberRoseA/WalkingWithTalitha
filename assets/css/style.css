@@ -503,7 +503,9 @@ th, td {
 }
 /*......^^^Servicepage^^^.......*/
 /*.........Aboutpage..........*/
-
+#about h2 {
+    font-family: ''
+}
 /*Gallery/Reviews*/
 
 #customers img {
@@ -661,6 +663,12 @@ footer {
 }
 
 /*.........^^^Footer^^^........*/
+/*Media large or landscape (576px and up)*/
+@media screen and (min-width: 576px) {
+    column-count: 2;
+    column-gap: 0;
+}
+
 
 /* Media Tablets and Larger (min width - 768+)*/
 @media screen and (min-width: 768px) {
@@ -736,6 +744,11 @@ footer {
     main {
         margin-top: 79px;
     }
+
+    /*Gallery*/
+    #customers {
+        column-count: 3;
+    }
 }
 
 
@@ -748,6 +761,8 @@ footer {
         text-decoration: 2px solid underline;
     }
 
+ 
+ 
 }
 
 /*media larger screen size minwidth 1200px*/
