@@ -85,6 +85,15 @@ The website's color scheme is inspired by the business logo, emphasizing greens 
 
 
 ### WIREFRAMES
+#### Mobile Screens
+*Home Screen 
+    *![home_page](assets/doc/home-page-mobile-wireframe.JPG)
+*included two essential anchors on all screen sizes:
+Logo Anchor: The website logo, when clicked, serves as an anchor to bring the viewer back to the index.html page, offering a convenient way to return to the homepage.
+Top Right Welcome Sign: In the top right corner of the navigation bar, you will find a welcome sign. Clicking this sign also acts as an anchor to return to the homepage, ensuring easy and intuitive navigation.    
+    *![home_page~nav](assets/doc/home-page-navtoggle-wireframe.jpg)
+**The navigation toggle bar is positioned at the top of the mobile screen. Placing it at the top ensures it's the first element a viewer sees when they access the website. This prominent placement enhances accessibility and encourages users to interact with the navigation options.        
+
 ### Database structure(PP3, PP4, PP5)
 
 
