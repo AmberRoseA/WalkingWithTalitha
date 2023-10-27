@@ -113,6 +113,7 @@ The website's color scheme is inspired by the business logo, emphasizing greens 
 
 
 ### CREDITS
+*Chrome DevTools --Inspect elements/ Development tools
 *Love Running Project --Initial direction
 *Love Runnig README --Inital direction
 *Code Institute
