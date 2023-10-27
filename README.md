@@ -131,5 +131,10 @@ Existing Features
 *Talitha Bailey/ Walking With Talitha --Being my muse
 
 ## MEDIA
+*Walking With Talitha Logo --Designed by Amber Andrews (me) intellectual property of Talitha Bailey, the owner of 'Walking with Talitha'.
+*The Header image --featuring the dog, is the intellectual property of Talitha Bailey. It has been edited with an AI-generated background from Pixelcut [Link to Pixelcut: https://www.pixelcut.ai/]."
+*All images on this website, including those on the Home Page, About page gallery, Services page background, etc., are used with permission and are the intellectual property of Talitha Bailey, the owner of 'Walking with Talitha' [Link to Facebook page: https://www.facebook.com/WalkingwithTalitha.]
+*Font Awesome --Icons used
+*Favicon.io <https://favicon.io/favicon-converter> --Favicon Generator
 
 ## FUTURE FEATURES
