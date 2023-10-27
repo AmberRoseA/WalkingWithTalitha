@@ -17,6 +17,19 @@ body {
     font-family: 'Bebas Neue' sans-serif;
 }
 
+p {
+    color: #2f4834;
+    font-family: 'Sarabun 700 Bold Italic', sans-serif;
+    font-weight: 900;
+    font-size: 96%;
+    width: 95%;
+    height: 70%;
+    margin: 0 auto;
+    position: relative;
+    padding: 5% 5% 5% 5%;
+    text-align: center;
+}
+
 /* Starter styles*/
 
 /*...........Header.........*/
@@ -412,15 +425,7 @@ th, td {
 #all-service-section > p {
     background-color: rgba(255, 217, 0, 0.281);
     color: #2f4834;
-    font-family: 'Sarabun 700 Bold Italic', sans-serif;
-    font-weight: 900;
-    font-size: 96%;
-    width: 95%;
-    height: 70%;
-    margin: 0 auto;
-    position: relative;
-    padding: 5% 5% 5% 5%;
-    text-align: center;
+    
 }
 
 #breakdown > h3 {
@@ -540,8 +545,18 @@ ul strong {
 
 #about ul {
     list-style-type: none;
-    font-family: 'Sarabun ExtraLight 200', sans-serif;
+    background-color: rgba(12, 80, 2, 0.5);
+    color: rgba(253, 240, 167);
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 20px;
 
+}
+
+#about ul li {
+    margin-bottom: 50px;
+    padding: 14px 10px;
+    
 }
 
 
