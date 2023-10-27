@@ -85,25 +85,21 @@ The website's color scheme is inspired by the business logo, emphasizing greens 
 
 
 ### WIREFRAMES
-
-Features 
-Existing Features
-
 ### Database structure(PP3, PP4, PP5)
 
 
 ## TESTING
-
 ### Validator Testing
 (W3C VALIDATOR AND JISSAW VALIDATOR INCLUDE IMG)
-
 ### Unfixed Bugs
 
 ## DEPLOYMENT
 ### Steps
 
-## TECHNOLOGIES
 
+## SOURCE CITATION
+
+### TECHNOLOGIES
 *Photoshop --To create wireframes
 *HTML --To create content
 *CSS --To style content
@@ -116,8 +112,7 @@ Existing Features
 *W£C validator --WILL USE
 
 
-## CREDITS
-
+### CREDITS
 *Love Running Project --Initial direction
 *Love Runnig README --Inital direction
 *Code Institute
@@ -130,7 +125,7 @@ Existing Features
 *Cheat Sheet https://docs.emmet.io/cheat-sheet/ --code shortcuts
 *Talitha Bailey/ Walking With Talitha --Being my muse
 
-## MEDIA
+### MEDIA
 *Walking With Talitha Logo --Designed by Amber Andrews (me) intellectual property of Talitha Bailey, the owner of 'Walking with Talitha'.
 *The Header image --featuring the dog, is the intellectual property of Talitha Bailey. It has been edited with an AI-generated background from Pixelcut [Link to Pixelcut: https://www.pixelcut.ai/]."
 *All images on this website, including those on the Home Page, About page gallery, Services page background, etc., are used with permission and are the intellectual property of Talitha Bailey, the owner of 'Walking with Talitha' [Link to Facebook page: https://www.facebook.com/WalkingwithTalitha.]
