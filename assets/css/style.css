@@ -504,7 +504,13 @@ th, td {
 /*......^^^Servicepage^^^.......*/
 /*.........Aboutpage..........*/
 
+/*Gallery/Reviews*/
 
+#customers img {
+    width: 100%;
+    line-height: 1em;
+
+}
 
 /*......^^^Aboutpage^^^.......*/
 /*........Contactpage..........*/
