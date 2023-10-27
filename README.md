@@ -1,12 +1,11 @@
-Walking With Talitha - Professional Dog Walking and Sitting Services
+#Walking With Talitha - Professional Dog Walking and Sitting Services
 
-Welcome to the README for the "Walking With Talitha" project. This project aims to create a professional website for an independent dog walking and sitting service business. The website will reflect a high level of care and professionalism while maintaining a warm and inviting atmosphere to showcase trustworthiness and qualifications in handling beloved pets.
-So embark on this exciting new journey with ‘Walking with Talitha’, an independent business that's been on an incredible journey since 2020, offering top-quality dog walking and sitting services.
+Welcome to the README for "Walking With Talitha". This web design aims to create a professional website for an independent dog walking and sitting service business. The website will reflect a high level of care and professionalism while maintaining a warm and inviting atmosphere to showcase trustworthiness and qualifications in handling beloved pets.
 
-As the business has boomed, we're thrilled to announce the next evolutionary stage for this continuously expanding business – a brand-new, high-quality website!
+The business owner, after great success in starting her own business back in 2020 has decided the next evolutionary stage for this continuously expanding business – a brand-new, high-quality website!
 
 
-Project Overview
+##Project Overview
 
 
 UX/UI Section
@@ -60,11 +59,11 @@ USER Stories-
          
     As business owner:
     
-        1. I want to have a professional and informative website that showcases my services, experience, and testimonials, so I can attract potential clients and build trust with them.
-        2. As a business owner, I want to have an easy-to-use content management system on my website, allowing me to update my services, pricing, and availability in real-time, so I can keep my clients informed and my website up-to-date.
-        3. I want to include a contact form on my website, enabling potential clients to reach out to me easily, so I can quickly respond to inquiries and schedule dog walking appointments.
-        4. I want to integrate a scheduling and booking system into my website, allowing clients to request and book dog walks online, streamlining the appointment process and reducing administrative tasks.
-        5. I want to utilize analytics and reporting tools on my website to track user engagement, monitor the effectiveness of marketing efforts, and gather data to make informed decisions to grow and improve my dog walking business.  
+        14. I want to have a professional and informative website that showcases my services, experience, and testimonials, so I can attract potential clients and build trust with them.
+        15. As a business owner, I want to have an easy-to-use content management system on my website, allowing me to update my services, pricing, and availability in real-time, so I can keep my clients informed and my website up-to-date.
+        16. I want to include a contact form on my website, enabling potential clients to reach out to me easily, so I can quickly respond to inquiries and schedule dog walking appointments.
+        17. I want to integrate a scheduling and booking system into my website, allowing clients to request and book dog walks online, streamlining the appointment process and reducing administrative tasks.
+        18. I want to utilize analytics and reporting tools on my website to track user engagement, monitor the effectiveness of marketing efforts, and gather data to make informed decisions to grow and improve my dog walking business.  
 
 Key Features
 
@@ -87,14 +86,32 @@ The website's color scheme is inspired by the business logo, emphasizing greens 
 WIREFRAMES
 
 Features 
-Existing Features 
+Existing Features
+
+##Technologies
+
+*Photoshop --To create wireframes
+*HTML --To create content
+*CSS --To style content
+*Codeanywhere --Integrated Development Environment  (write, edit and develop code)
+*Github --Host source code and deploy
+*ChatGBT --Explaining elements in more detail/ reminding me on how create the code I want/ giving me examples of good content for my site ext.
+*Favicon.io --Favicon Generator
+*Replit --First coding platform I practiced with
+*Wave Evaluation Tool --WILL USe
+*W£C validator --WILL USE
 
 
+##Credits
 
-
-CREDITS 
-
-1. Favicon Generator - Image to Favicon - favicon.io <https://favicon.io/favicon-converter
-For generating the logo into a favicon zipfile
-2. WomansDay - "70 Paws-itively Hilarious Dog Puns to Use as Instagram Captions and More" -<https://www.womansday.com/life/pet-care/a30928651/dog-puns/>
-For the great dog pun inspiration.
+*Love Running Project --Initial direction
+*Love Runnig README --Inital direction
+*Code Institute
+*Google
+*Google Fonts
+*Font Awesome --Icons used
+*Favicon.io <https://favicon.io/favicon-converter> --Favicon Generator
+*WomansDay/ "70 Paws-itively Hilarious Dog Puns to Use as Instagram Captions and More" https://www.womansday.com/life/pet-care/a30928651/dog-puns/ --For the great dog pun inspiration.
+*AsiaWi/hygge_life https://github.com/AsiaWi/hygge_life/tree/main --README file
+*Cheat Sheet https://docs.emmet.io/cheat-sheet/ --code shortcuts
+*Talitha Bailey/ Walking With Talitha --Being my muse
