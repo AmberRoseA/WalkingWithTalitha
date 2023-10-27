@@ -446,14 +446,13 @@ th, td {
 
 #breakdown > div p {
     font-family: 'Sarabun ExtraBold 800' sans-serif;
-    font-size: 21px;
+    font-size: 20px;
     font-weight: 900;
     background-color:rgb(252, 254, 253, 0.5);
     width: 100%;
     text-align: center;
-    letter-spacing: 1px;
-    word-spacing: 3px;
-    line-height: 21px;
+    word-spacing: 4px;
+    line-height: 20px;
     padding: 5%;
     
 
