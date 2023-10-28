@@ -728,6 +728,22 @@ footer {
     .nav-drop-label {
         display: none;
     }
+
+    nav {
+        display: flex;
+        lign-items: stretch;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        flex-direction: row;
+        align-content: center;
+        width: 100%;
+        left: 0;
+        padding: 0;
+        box-shadow: 0 2px 4px #527a5a;
+        position: relative;
+        z-index: 4;
+    }
+    
 }
 /* Media query for larger screens (adjust the max-width to your specific breakpoint) */
 @media (min-width: 768px) {
