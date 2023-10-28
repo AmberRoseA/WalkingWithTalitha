@@ -56,7 +56,8 @@ p {
 }
 
 nav-section
-nav-responsive
+.nav-responsive #menu-list
+
 #menu-list {
     background-color: rgba(215, 242, 221);
     width: 100%;
@@ -124,7 +125,7 @@ nav {
     color: #012708;
     text-align: left;
     display: block;
-    position: absolute;
+    position: relative;
     top: 0;
     padding-left: 15px;
 
