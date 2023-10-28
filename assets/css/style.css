@@ -132,6 +132,15 @@ nav {
 
 }
 
+#logo {
+    width: 100%;
+    max-width: 300px;
+    position: absolute;
+    top: 7%;
+    left: 0;
+    z-index: 3;
+}
+
 #header-img {
     background-image: url(../images/Header-Image.jpg);
     width: 100%;
@@ -163,15 +172,6 @@ header a {
     top: 350px;
     width: 100%;
 
-}
-
-#logo {
-    width:90%;
-    max-width: 300px;
-    position: absolute;
-    top: 7%;
-    left: 0;
-    z-index: 3;
 }
 
 .fa-solid-fa-paw {
@@ -724,6 +724,7 @@ footer {
 /*.........^^^Footer^^^........*/
 /*Media large or landscape (576px and up)*/
 @media screen and (min-width: 576px) {
+    /*HEADER*/
     #customers  {
         column-count: 2;
         column-gap: 0;
@@ -754,13 +755,12 @@ footer {
         position: relative;
         z-index: 4;
     }
-    
-    }
-    
+      
 }
 /* Media query for larger screens (adjust the max-width to your specific breakpoint) */
 @media (min-width: 768px) {
     #logo {
-    min-width: 40%
+    min-width: 45%;
+    top: 0;
   }
 }  
