@@ -56,7 +56,13 @@ p {
 }
 
 nav-section
-.nav-responsive #menu-list
+#nav-drop:checked + .nav-responsive nav {
+    display: block;
+    position: absolute;
+    top: 100%;
+    /* Position it below the label */
+    left: 0;
+} 
 
 #menu-list {
     background-color: rgba(215, 242, 221);
@@ -101,8 +107,7 @@ nav {
     padding: 0;
     box-shadow: 0 2px 4px #527a5a;
     display: none;
-    position: absolute;
-    top: 0;
+    position: relative;
     z-index: 4;
 }
 
