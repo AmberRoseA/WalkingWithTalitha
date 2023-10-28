@@ -49,11 +49,6 @@ Holiday Goers: The worries of leaving your pet behind made at ease with services
 
 Those with injuries or disabilities: Those that may not be physically able to keep up with the demand of their energetic pooch.
 
-
-### USER Experience
-
-The website prioritizes user experience for people with disabilities, offering clear, informative, and comforting content. The homepage provides a warm and welcoming atmosphere with a gallery or collage of happy furry dog customers, accompanied by images of reviews integrated into the visuals.
-
 ### USER Stories-
 
 #### As A Pet Owner:       
@@ -76,13 +71,14 @@ The website prioritizes user experience for people with disabilities, offering c
 *As a business owner, I want to have an easy-to-use content management system on my website, allowing me to update my services, pricing, and availability in real-time, so I can keep my clients informed and my website up-to-date.
 *I want to include a contact form on my website, enabling potential clients to reach out to me easily, so I can quickly respond to inquiries and schedule dog walking appointments.
 *I want to integrate a scheduling and booking system into my website, allowing clients to request and book dog walks online, streamlining the appointment process and reducing administrative tasks.
-*I want to utilize analytics and reporting tools on my website to track user engagement, monitor the effectiveness of marketing efforts, and gather data to make informed decisions to grow and improve my dog walking business and attract more customers.  
+*I want to utilize analytics and reporting tools on my website to track user engagement, monitor the effectiveness of marketing efforts, and gather data to make informed decisions to grow and improve my dog walking business and attract more customers. 
+
+
 
 ### DESIGN
 Typography and Color Scheme
 The website's color scheme is inspired by the business logo, emphasizing greens and pastel light colors for a visually appealing contrast. The font choice, "Wellfleet," is both readable and gentle, in line with the nurturing image the business aims to project.
-
-
+---INSERT MOOD BORED WITH COLORS IMAGES AND TYPOGRapghy----
 
 ### WIREFRAMES
 #### Mobile Screens
@@ -160,3 +156,7 @@ Incorporating images of reviews from satisfied customers adds authenticity and c
 *Favicon.io <https://favicon.io/favicon-converter> --Favicon Generator
 
 ## FUTURE FEATURES
+*Future elements I would incorporate in this site would be :
+    *Booking or Scheduling System: An optional feature that allows clients to book and schedule services online. This can include a calendar, availability, and payment options. Saving time on the owner doing manual admin.
+    *Testimonials and Reviews page: A dedicated section for client testimonials and reviews that they can put straight on the site.
+    *Blog or News Section: Articles, updates, or blog posts related to dog care, training tips, or pet health. Regularly updated content to engage visitors and position the dog walker as an expert. Also gets the viewers/customers enaging with the site on a social level not just a consumer level.
