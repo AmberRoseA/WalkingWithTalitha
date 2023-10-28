@@ -90,7 +90,8 @@ header a {
 }
 
 #logo {
-    width: 90%;
+    width:90%;
+    max-width: 300px;
     position: absolute;
     top: 74px;
     left: -28px;
@@ -720,11 +721,14 @@ footer {
 /*.........^^^Footer^^^........*/
 /*Media large or landscape (576px and up)*/
 @media screen and (min-width: 576px) {
-    column-count: 2;
-    column-gap: 0;
+    #customers  {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
-
-
-/* Media Tablets and Larger (min width - 768+)*/
-@media screen and (min-width: 768px) {
-   
+/* Media query for larger screens (adjust the max-width to your specific breakpoint) */
+@media (min-width: 768px) {
+    #logo {
+    min-width: 40%
+  }
+}  
