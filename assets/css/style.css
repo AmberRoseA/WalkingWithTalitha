@@ -725,6 +725,9 @@ footer {
         column-count: 2;
         column-gap: 0;
     }
+    .nav-drop-label {
+        display: none;
+    }
 }
 /* Media query for larger screens (adjust the max-width to your specific breakpoint) */
 @media (min-width: 768px) {
