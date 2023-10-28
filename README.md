@@ -101,10 +101,12 @@ The nav and footer would move as the screen scrolls being in a fixed or sticky p
 The service page is a vital one in this site as has all the importan information about the services provided, it needs to be readable and clear so the viewer has all the information possible to hand. Would start with a table element then after a more detail explantion of each service underneath.
 
 *About Screen
-*
-        *![about_page](assets/doc/about-contact-mobile-wireframe.jpg)
+*aim to make this section more intimate by allowing viewers to get to know the owner on a personal level. Through a brief and friendly introduction, we provide insights into her background, passion for the business, and what drives her commitment to providing exceptional services. This personal touch is a key factor in securing viewers' trust to create a sense of familiarity and relatability, building trust and rapport with the audience.
+Incorporating images of reviews from satisfied customers adds authenticity and credibility through the gallery showcasing these qualities. To add an endearing and charming element to our "About" section, we include images of our happy dog customers. This not only showcases the love and care we provide to our furry clients but also brings a smile to the viewer's face. It's a delightful way to create an emotional connection with our audience.
+        *![about_page, contact_page](assets/doc/about-contact-mobile-wireframe.jpg)
 *Contact Screen
-*
+*One of the primary features of the "Contact" page is the inclusion of a user-friendly contact form. This form is designed to allow visitors to email the owner directly through the website. It provides an efficient and convenient means of communication, particularly for those who prefer not to phone or navigate through various social media channels. With all fields classed as REQUIRED, no accidental email will be sent without all the require information being keyed in.
+*For those who prefer to explore the owner's social media accounts, we've placed prominent links in the footer of the website. These links are designed to open in a new tab, ensuring that users don't lose access to the website
 
 #### Medium to Large screens Wireframes
 
