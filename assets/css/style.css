@@ -56,12 +56,10 @@ p {
 }
 
 nav-section
-#nav-drop:checked + .nav-responsive nav {
-    display: block;
+#nav-drop:checked > #menu-list {
+    display: grid;
     position: absolute;
-    top: 100%;
-    /* Position it below the label */
-    left: 0;
+
 } 
 
 #menu-list {
@@ -69,8 +67,6 @@ nav-section
     width: 100%;
     position: relative;
     top: 10%;
-    display: grid;
-
 
 }
 
@@ -736,6 +732,16 @@ footer {
         display: none;
     }
 
+    #menu-list {
+        display: flex;
+    }
+    
+    #menu-list li {
+        display: flex;
+        padding-left: 55px;
+
+    }
+
     nav {
         display: flex;
         align-items: stretch;
@@ -748,32 +754,6 @@ footer {
         position: relative;
         z-index: 4;
     }
-
-    #menu {
-        display: flex;
-        position: sticky;
-        top: 0;
-        align-items: center;
-        justify-content: space-between;
-        padding: 10px 20px;
-        width: 100%;
-        z-index: 4;
-        box-shadow: 0 2px 4px #527a5a
-       
-    }
-
-    #menu.fixed {
-        position: fixed;
-        top: 0;
-    }
-    
-    #menu li {
-        font-size: 150%;
-        font-weight: 900;
-        text-align: center;
-        letter-spacing: 4px;
-        line-height: 30px;
-    
     
     }
     
