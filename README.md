@@ -7,7 +7,33 @@ Welcome to the README for "Walking With Talitha". This web design aims to create
 The business owner, after great success in starting her own business back in 2020 has decided the next evolutionary stage for this continuously expanding business – a brand-new, high-quality website!
 
 ## FEAUTURES
-Key Features
+
+Key Existing Features
+
+### Navigation 
+
+### Home Page Header Image & Logo
+
+### Home Page 'Your Trusted Dog Walking Companion' - 
+
+### Footer
+
+### Services Page
+
+#### 'Su-Paw-Star Service' table section
+
+#### 'Paw-sibilities: Our Service in Bone-fide Detail' service breakdown section
+
+### About Page
+
+#### Happy Customer Gallery
+
+### Contact Page 
+
+#### Contact Form
+
+
+
 
       1.  Navigation Bar: The navigation bar provides easy access to Home, Services, About, and Contact sections, featuring a header image of a dog walking in fields and the business logo.
 
