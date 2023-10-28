@@ -113,32 +113,33 @@ The website's color scheme is inspired by the business logo, emphasizing greens 
 #### Mobile Screens
 
 ##### Home Screen 
-        *![home_page](assets/doc/home-page-mobile-wireframe.JPG)
+
+*![home_page](assets/doc/home-page-mobile-wireframe.JPG)
         
 Included two essential anchors on all screen sizes:
 Logo Anchor: The website logo, when clicked, serves as an anchor to bring the viewer back to the index.html page, offering a convenient way to return to the homepage.
 Top Right Welcome Sign: In the top right corner of the navigation bar, you will find a welcome sign. Clicking this sign also acts as an anchor to return to the homepage, ensuring easy and intuitive navigation.
 
-        *![home_page~nav](assets/doc/home-page-navtoggle-wireframe.jpg)
+*![home_page~nav](assets/doc/home-page-navtoggle-wireframe.jpg)
         
  The navigation toggle bar is positioned at the top of the mobile screen. Placing it at the top ensures it's the first element a viewer sees when they access the website. This prominent placement enhances accessibility and encourages users to interact with the navigation options.
 
-Service Screen
+##### Service Screen
 
-        *![service_page](assets/doc/service-page-mobile-wireframe.jpg)
+*![service_page](assets/doc/service-page-mobile-wireframe.jpg)
 
 Please note at this point that the wireframe images, specifically the nav and footer do not match the previous wireframes, they would still have the same layout on the web doc. 
 The nav and footer would move as the screen scrolls being in a fixed or sticky positions. The heading elements and image would also be on this page like all the other pages but would not be visable as we scroll down.
 The service page is a vital one in this site as has all the importan information about the services provided, it needs to be readable and clear so the viewer has all the information possible to hand. Would start with a table element then after a more detail explantion of each service underneath.
 
-About Screen
+##### About Screen
 
 Aim to make this section more intimate by allowing viewers to get to know the owner on a personal level. Through a brief and friendly introduction, we provide insights into her background, passion for the business, and what drives her commitment to providing exceptional services. This personal touch is a key factor in securing viewers' trust to create a sense of familiarity and relatability, building trust and rapport with the audience.
 Incorporating images of reviews from satisfied customers adds authenticity and credibility through the gallery showcasing these qualities. To add an endearing and charming element to our "About" section, we include images of our happy dog customers. This not only showcases the love and care we provide to our furry clients but also brings a smile to the viewer's face. It's a delightful way to create an emotional connection with our audience.
 
 *![about_page, contact_page](assets/doc/about-contact-mobile-wireframe.jpg)
         
-Contact Screen
+##### Contact Screen
 
 One of the primary features of the "Contact" page is the inclusion of a user-friendly contact form. This form is designed to allow visitors to email the owner directly through the website. It provides an efficient and convenient means of communication, particularly for those who prefer not to phone or navigate through various social media channels. With all fields classed as REQUIRED, no accidental email will be sent without all the require information being keyed in.
 *For those who prefer to explore the owner's social media accounts, we've placed prominent links in the footer of the website. These links are designed to open in a new tab, ensuring that users don't lose access to the website
