@@ -55,7 +55,7 @@ p {
     
 }
 
-nav-section
+
 #nav-drop:checked > #menu-list {
     display: grid;
     position: absolute;
@@ -764,5 +764,9 @@ footer {
     top: 0;
   }
 
-  /*#header-img
-}  */
+    #header-img {
+        background-position: center;
+        background-size:
+
+    }
+}  
