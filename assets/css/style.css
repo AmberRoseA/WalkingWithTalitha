@@ -770,6 +770,8 @@ footer {
 
     }
 
+    /*HomePage*/
+
     strong {
         font-size: 80px
     }
@@ -778,7 +780,26 @@ footer {
         font-size: 55px;
     } 
 
+    #home-page h3 {
+        font-size: 45px;
+    }
+
     #home-page div {
         height: 600px
     }
 }  
+
+@media screen and (min-width: 1300px) {
+    /*HomePage*/
+    strong {
+        font-size: 90px
+    }
+    
+    #home-page h2 {
+        font-size: 65px;
+    }
+
+    #home-page div {
+        height: 800px;
+    }
+}
