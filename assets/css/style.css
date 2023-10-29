@@ -527,6 +527,11 @@ th, td {
     top: 0;
 }
 
+#about-image-tal {
+    width: 100%;
+    
+}
+
 #about h3 {
     font-family: 'Bebas Neue', sans-serif;
     color: #527a5a;
