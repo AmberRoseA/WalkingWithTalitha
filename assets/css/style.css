@@ -770,6 +770,10 @@ footer {
 
     }
 
+    #page-titles {
+        font-size: 40px;
+    }
+
     /*HomePage*/
 
     strong {
@@ -788,6 +792,12 @@ footer {
         height: 600px
     }
 }  
+
+@media screen and (min-width: 1245px) {
+    #page-titles h3 {
+        padding-left: 45%;
+    }
+}
 
 @media screen and (min-width: 1300px) {
     /*HomePage*/
