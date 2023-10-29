@@ -257,7 +257,7 @@ header a {
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
-    position: relativea;
+    position: relative;
     margin-top: 5%;
     margin-bottom: 5%;
     
@@ -758,7 +758,7 @@ footer {
       
 }
 /* Media query for larger screens (adjust the max-width to your specific breakpoint) */
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
     #logo {
     min-width: 45%;
     top: 0;
@@ -768,5 +768,17 @@ footer {
         background-position: center;
         background-size:
 
+    }
+
+    strong {
+        font-size: 80px
+    }
+
+    #home-page h2 {
+        font-size: 55px;
+    } 
+
+    #home-page div {
+        height: 600px
     }
 }  
