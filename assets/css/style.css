@@ -308,7 +308,7 @@ header a {
     font-size: 39px;
     text-decoration: underline;
     position: relative;
-    text-align: left;
+    text-align: center;
     padding-left: 6px;
     padding-bottom: 20px;
     word-spacing: 2px;
@@ -419,7 +419,8 @@ th, td {
 #time-side {
     font-family: 'Sarabun ExtraLight 200', sans-serif;
     font-size: large;
-    text-align: end;
+    text-align: right;
+    width: 100%;
     padding-right: 10px;
     text-transform: capitalize;
 }
@@ -755,6 +756,28 @@ footer {
         position: relative;
         z-index: 4;
     }
+
+    strong {
+        font-size: 65px;
+    }
+        
+    /*ServicePage*/
+    #service-head {
+        font-size: 55px;
+    }
+
+    .bonei {
+        left: 45%;
+    }    
+
+    #breakdown div {
+        height: 500px;
+    }
+
+    #breakdown > div p {
+        top: 20%;
+        height: fit-content;
+    }
       
 }
 /* Media query for larger screens (adjust the max-width to your specific breakpoint) */
@@ -791,11 +814,16 @@ footer {
     #home-page div {
         height: 600px
     }
+
 }  
 
 @media screen and (min-width: 1245px) {
     #page-titles h3 {
         padding-left: 45%;
+    }
+
+    p {
+        font-size: 20px;
     }
 }
 
