@@ -468,6 +468,7 @@ th, td {
     background-size: cover;
     background-repeat: no-repeat;
     
+    
 }
 
 .p-img2 {
@@ -815,6 +816,19 @@ footer {
         height: 600px
     }
 
+    /*ServicePage*/
+    #breakdown h2{
+        padding: 3%;
+    }
+
+    #breakdown div {
+        height: 600px;
+    }    
+
+    #breakdown > div p {
+        line-height: normal;
+    }
+
 }  
 
 @media screen and (min-width: 1245px) {
@@ -825,6 +839,11 @@ footer {
     p {
         font-size: 20px;
     }
+
+    #breakdown {
+        width: 80%;
+        padding-left: 15%;
+    }    
 }
 
 @media screen and (min-width: 1300px) {
@@ -839,5 +858,9 @@ footer {
 
     #home-page div {
         height: 800px;
+    }
+
+    #breakdown div {
+        height: 700px;
     }
 }
