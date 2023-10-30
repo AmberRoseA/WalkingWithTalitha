@@ -401,7 +401,7 @@ td {
 
 }
 
-#service-side {
+.service-side {
     font-family: 'Sarabun ExtraLight 200', sans-serif;
     font-size: larger;
     text-align: left;
@@ -411,14 +411,14 @@ td {
     padding-bottom: 10px;
 }
 
-#cost-side {
+.cost-side {
     font-family: 'Sarabun ExtraLight 200', sans-serif;
     font-size: large;
     text-align: center;
 
 }
 
-#time-side {
+.time-side {
     font-family: 'Sarabun ExtraLight 200', sans-serif;
     font-size: large;
     text-align: right;
