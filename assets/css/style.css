@@ -136,7 +136,7 @@ nav {
     width: 100%;
     max-width: 300px;
     position: absolute;
-    top: 7%;
+    top: 15%;
     left: 0;
     z-index: 3;
 }
@@ -809,7 +809,6 @@ footer {
 @media screen and (min-width: 768px) {
     #logo {
     min-width: 45%;
-    top: 0;
   }
 
     #header-img {
@@ -880,13 +879,29 @@ footer {
 
 }  
 
+@media screen and (min-width: 1000px) {
+    #page-titles h3 {
+        padding-left: 35%;
+        transition: all 0.3s ease;
+    }
+}
+
+
+
 @media screen and (min-width: 1200px) {
+    /*Header*/
     #page-titles h3 {
         padding-left: 45%;
     }
 
     p {
         font-size: 20px;
+    }
+
+    /*ServicePage*/
+    #table-container {
+        width: 80%;
+
     }
 
     #breakdown {
