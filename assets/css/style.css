@@ -514,7 +514,7 @@ th, td {
 /*......^^^Servicepage^^^.......*/
 /*.........Aboutpage..........*/
 
-#about h2 {
+#about h1 {
     font-family: 'Bebas Neue', sans-serif;
     color: #527a5a;
     font-size: 49px;
@@ -528,11 +528,12 @@ th, td {
 }
 
 #about-image-tal {
-    width: 100%;
-    
+    position: relative;
+    width: 80%;
+    left: 10%;
 }
 
-#about h3 {
+#about h2 {
     font-family: 'Bebas Neue', sans-serif;
     color: #527a5a;
     letter-spacing: 2px;
@@ -544,6 +545,19 @@ th, td {
     margin-bottom: 30px;
     margin-top: 40px;
 
+}
+
+#about h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #527a5a;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 34px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    margin-top: 40px;
 }
 
 ul strong {
@@ -784,9 +798,15 @@ footer {
         top: 20%;
         height: fit-content;
     }
+
+    /*AboutPage*/
+    #about h3 {
+        padding-top: 15%;
+
+    }
       
 }
-/* Media query for larger screens (adjust the max-width to your specific breakpoint) */
+/* Media query for larger screens (768px) */
 @media screen and (min-width: 768px) {
     #logo {
     min-width: 45%;
@@ -833,6 +853,8 @@ footer {
     #breakdown > div p {
         line-height: normal;
     }
+
+    
 
 }  
 
