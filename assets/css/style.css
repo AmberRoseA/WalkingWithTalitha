@@ -883,6 +883,22 @@ footer {
         width: 80%;
         padding-left: 15%;
     }    
+
+    /*AboutPage*/
+    #about h3 {
+        font-size: 50px;
+    }
+
+    #about ul {
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 35px;
+        line-height: normal;
+    }
+
+    #about p {
+        font-size: 30px;
+    }
 }
 
 @media screen and (min-width: 1300px) {
