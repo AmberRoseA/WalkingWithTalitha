@@ -162,7 +162,7 @@ One of the primary features of the "Contact" page is the inclusion of a user-fri
 
 ### TECHNOLOGIES
 
-* Photoshop --To create wireframes
+* Mockup https://getmockup.app/ --To create wireframes
 * HTML --To create content
 * CSS --To style content
 * Codeanywhere --Integrated Development Environment  (write, edit and develop code)
