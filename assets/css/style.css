@@ -854,7 +854,19 @@ footer {
         line-height: normal;
     }
 
-    
+    /*AboutPage*/
+    #about h2 {
+        font-size: 35px;
+    }
+
+    #about p {
+        font-size: 100%;
+    }
+
+    #about-image-tal {
+        width: 50%;
+        margin-left: 15%;
+    }
 
 }  
 
