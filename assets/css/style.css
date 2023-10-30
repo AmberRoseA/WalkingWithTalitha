@@ -32,6 +32,34 @@ p {
 
 /* Starter styles*/
 
+/*iconStyles*/
+
+.welcome-dog {
+    font-size: 1.5em;
+}
+
+.nav-icon {
+    font-size: 30px;
+    color: #012708;
+
+}
+
+.service-paw {
+    color: gold;
+    font-size: 50px;
+
+}
+
+.bone {
+    color: gold;
+    font-size: 50px;
+    position: relative;
+    left: 40%;
+    top: 20%;
+    padding: 10px 3px 10px 3px;
+
+}
+
 /*...........Header.........*/
 
 #welcome-nav {
@@ -323,20 +351,6 @@ header a {
     position: relative;
     text-align: center;
     word-spacing: 2px;
-}
-
-i {
-    color: gold;
-    font-size: 50px;
-
-}
-
-.bonei {
-    position: relative;
-    left: 40%;
-    top: 20%;
-    padding: 10px 3px 10px 3px;
-
 }
 
 strong {
