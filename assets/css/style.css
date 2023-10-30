@@ -52,15 +52,15 @@ p {
     padding-right: 1rem;
     padding-top: 0.5rem;
     text-decoration: underline;
-    
+
 }
 
 
-#nav-drop:checked > #menu-list {
+#nav-drop:checked>#menu-list {
     display: grid;
     position: absolute;
 
-} 
+}
 
 #menu-list {
     background-color: rgba(215, 242, 221);
@@ -196,7 +196,7 @@ header a {
 }
 
 #home-page h2 {
-    font-family: 'Bebas Neue',sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 39px;
     color: #527a5a;
     text-decoration: underline;
@@ -260,7 +260,7 @@ header a {
     position: relative;
     margin-top: 5%;
     margin-bottom: 5%;
-    
+
 }
 
 .home-img2 {
@@ -328,7 +328,7 @@ header a {
 #service-i {
     color: gold;
     font-size: 50px;
-    
+
 }
 
 .bonei {
@@ -336,13 +336,14 @@ header a {
     left: 40%;
     top: 20%;
     padding: 10px 3px 10px 3px;
-    
+
 }
 
 strong {
     font-size: 50px;
     color: gold;
 }
+
 /*Serviceheader*/
 
 /*Table*/
@@ -392,7 +393,8 @@ td {
     color: #527a5a;
 }
 
-th, td {
+th,
+td {
     border: 1px solid;
     border-color: yellowgreen;
     padding: 8px;
@@ -424,16 +426,17 @@ th, td {
     padding-right: 10px;
     text-transform: capitalize;
 }
+
 /*Table*/
 
 /*Paragraph*/
-#all-service-section > p {
+#all-service-section>p {
     background-color: rgba(255, 217, 0, 0.281);
     color: #2f4834;
-    
+
 }
 
-#breakdown > h3 {
+#breakdown>h3 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 40px;
     font-weight: 900;
@@ -442,24 +445,25 @@ th, td {
     margin: 0 auto;
     padding: 25px 8px 25px 8px;
     color: #074701;
-    background-color: rgba(255, 217, 0, 0.281);;
+    background-color: rgba(255, 217, 0, 0.281);
+    ;
     letter-spacing: 2px;
     word-spacing: 4px;
     width: 98%;
 
 }
 
-#breakdown > div p {
+#breakdown>div p {
     font-family: 'Sarabun ExtraBold 800' sans-serif;
     font-size: 20px;
     font-weight: 900;
-    background-color:rgb(252, 254, 253, 0.5);
+    background-color: rgb(252, 254, 253, 0.5);
     width: 100%;
     text-align: center;
     word-spacing: 4px;
     line-height: 20px;
     padding: 5%;
-    
+
 
 }
 
@@ -467,15 +471,15 @@ th, td {
     background-image: url(../images/dogon-hay.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    
-    
+
+
 }
 
 .p-img2 {
     background-image: url(../images/white-dog.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    
+
 }
 
 .p-img3 {
@@ -511,6 +515,7 @@ th, td {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
 /*......^^^Servicepage^^^.......*/
 /*.........Aboutpage..........*/
 
@@ -580,7 +585,7 @@ ul strong {
 #about ul li {
     margin-bottom: 50px;
     padding: 14px 10px;
-    
+
 }
 
 
@@ -608,7 +613,7 @@ ul strong {
     margin-top: 10px;
     margin-bottom: 50px;
     position: relative;
-} 
+}
 
 .contact-details h3 {
     font-family: 'Lobster', sans-serif;
@@ -620,7 +625,7 @@ ul strong {
     padding-top: 9px;
     text-align: center;
     margin-top: 5%;
-    
+
 
 
 }
@@ -631,7 +636,7 @@ ul strong {
     color: #2f4834;
     font-size: 25px;
     width: 100%;
-    padding-bottom: 10px; 
+    padding-bottom: 10px;
     padding-top: 10px;
     text-align: center;
     margin-bottom: 10%;
@@ -652,7 +657,7 @@ ul strong {
     top: 10%;
     border: 1px solid #ffff;
     border-radius: 5px;
-    
+
 }
 
 form input,
@@ -666,7 +671,8 @@ form textarea {
 
 }
 
-#first-name, #last-name {
+#first-name,
+#last-name {
     width: 30%;
 
 }
@@ -688,7 +694,7 @@ form textarea {
     background-position: left;
     position: relative;
     left: 0;
-    
+
 }
 
 input[type="submit"] {
@@ -712,6 +718,7 @@ input[type="submit"]:active {
     width: 100%;
 
 }
+
 /*.....^^^Contactpage^^^.......*/
 
 /*.......^^^Main^^^........*/
@@ -745,11 +752,13 @@ footer {
 /*.........^^^Footer^^^........*/
 /*Media large or landscape (576px and up)*/
 @media screen and (min-width: 576px) {
+
     /*HEADER*/
-    #customers  {
+    #customers {
         column-count: 2;
         column-gap: 0;
     }
+
     .nav-drop-label {
         display: none;
     }
@@ -757,7 +766,7 @@ footer {
     #menu-list {
         display: flex;
     }
-    
+
     #menu-list li {
         display: flex;
         padding-left: 55px;
@@ -780,7 +789,7 @@ footer {
     strong {
         font-size: 65px;
     }
-        
+
     /*ServicePage*/
     #service-head {
         font-size: 55px;
@@ -788,13 +797,13 @@ footer {
 
     .bonei {
         left: 45%;
-    }    
+    }
 
     #breakdown div {
         height: 500px;
     }
 
-    #breakdown > div p {
+    #breakdown>div p {
         top: 20%;
         height: fit-content;
     }
@@ -804,18 +813,13 @@ footer {
         padding-top: 15%;
 
     }
-      
+
 }
+
 /* Media query for larger screens (768px) */
 @media screen and (min-width: 768px) {
     #logo {
-    min-width: 45%;
-  }
-
-    #header-img {
-        background-position: center;
-        background-size:
-
+        min-width: 45%;
     }
 
     #page-titles {
@@ -830,7 +834,7 @@ footer {
 
     #home-page h2 {
         font-size: 55px;
-    } 
+    }
 
     #home-page h3 {
         font-size: 45px;
@@ -841,15 +845,15 @@ footer {
     }
 
     /*ServicePage*/
-    #breakdown h2{
+    #breakdown h2 {
         padding: 3%;
     }
 
     #breakdown div {
         height: 600px;
-    }    
+    }
 
-    #breakdown > div p {
+    #breakdown>div p {
         line-height: normal;
     }
 
@@ -867,7 +871,7 @@ footer {
         margin-left: 15%;
     }
 
-    /*ContactPage*/ 
+    /*ContactPage*/
     #contact-page h2 {
         font-size: 50px;
     }
@@ -878,7 +882,7 @@ footer {
 
 
 
-}  
+}
 
 @media screen and (min-width: 1000px) {
     #page-titles h3 {
@@ -890,6 +894,7 @@ footer {
 
 
 @media screen and (min-width: 1200px) {
+
     /*Header*/
     #page-titles h3 {
         padding-left: 45%;
@@ -901,8 +906,8 @@ footer {
 
     /*HomePage*/
     #home-page div {
-       width: 80%;
-       left: 10%;
+        width: 80%;
+        left: 10%;
     }
 
     /*ServicePage*/
@@ -914,7 +919,7 @@ footer {
     #breakdown {
         width: 80%;
         padding-left: 15%;
-    }    
+    }
 
     /*AboutPage*/
     #about h3 {
@@ -949,15 +954,16 @@ footer {
     .contact-details h4 {
         font-size: 30px;
     }
-    
+
 }
 
 @media screen and (min-width: 1300px) {
+
     /*HomePage*/
     strong {
         font-size: 90px
     }
-    
+
     #home-page h2 {
         font-size: 65px;
     }
