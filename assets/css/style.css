@@ -605,7 +605,8 @@ ul strong {
     letter-spacing: 2px;
     text-align: center;
     padding-bottom: 10px;
-    margin-top: 1px;
+    margin-top: 10px;
+    margin-bottom: 50px;
     position: relative;
 } 
 
@@ -633,7 +634,7 @@ ul strong {
     padding-bottom: 10px; 
     padding-top: 10px;
     text-align: center;
-    margin-bottom: 20%;
+    margin-bottom: 10%;
     margin-top: 5%;
     box-shadow: 0 6px 20px #527a5a;
 
@@ -898,6 +899,12 @@ footer {
         font-size: 20px;
     }
 
+    /*HomePage*/
+    #home-page div {
+       width: 80%;
+       left: 10%;
+    }
+
     /*ServicePage*/
     #table-container {
         width: 80%;
@@ -932,7 +939,7 @@ footer {
     }
 
     #map {
-        height: 35%;
+        height: 25%;
     }
 
     .contact-details h3 {
