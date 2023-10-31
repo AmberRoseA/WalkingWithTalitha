@@ -577,9 +577,13 @@ footer {
 }
 
 #social-net i {
-    font-size: 2em;
+    font-size: 1.5em;
     color: #012708;
     padding: 15px;
+}
+
+.copyright {
+    font-size: 0.8em;
 }
 
 /*Media large or landscape (576px and up)*/
