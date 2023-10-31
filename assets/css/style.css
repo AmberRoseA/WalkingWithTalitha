@@ -9,7 +9,6 @@
 
 /* Starter styles*/
 body {
-    display: flex;
     width: 100%;
     flex-direction: column;
     min-height: 100vh;
@@ -27,36 +26,6 @@ p {
     position: relative;
     padding: 5% 5% 5% 5%;
     text-align: center;
-}
-
-/* Starter styles*/
-
-/*iconStyles*/
-
-.welcome-dog {
-    font-size: 1.5em;
-}
-
-.nav-icon {
-    font-size: 30px;
-    color: #012708;
-
-}
-
-.service-paw {
-    color: gold;
-    font-size: 50px;
-
-}
-
-.bone {
-    color: gold;
-    font-size: 50px;
-    position: relative;
-    left: 50%;
-    top: 20%;
-    padding: 10px 3px 10px 3px;
-
 }
 
 /*...........Header.........*/
@@ -161,7 +130,7 @@ nav {
 
 #logo {
     width: 75%;
-    max-width: 100px;
+    max-width: 200px;
     position: absolute;
     top: 20%;
     left: 0;
@@ -191,7 +160,7 @@ header a {
     text-transform: capitalize;
     color: #012708;
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 20px;
+    font-size: 1em;
     letter-spacing: 2px;
     word-spacing: 2px;
     padding-left: 15px;
@@ -201,166 +170,127 @@ header a {
 
 }
 
-.fa-solid-fa-paw {
-    color: #527a5a;
+/*iconStyles*/
+.welcome-dog {
+    font-size: 1.5em;
+}
+
+.nav-icon {
+    font-size: 30px;
+    color: #012708;
+
+}
+
+.service-paw {
+    color: gold;
+    font-size: 50px;
+
+}
+
+.bone {
+    color: gold;
+    font-size: 50px;
+    position: relative;
+    left: 50%;
+    top: 20%;
+    padding: 10px 3px 10px 3px;
+
+}
+
+strong {
+    font-size: 40px;
+    color: gold;
 }
 
 /*.......^^..Header.^.^.....*/
 
 /*...........Main..............*/
-#main {
-    display: flex;
-    width: 100%;
-    flex-direction: column;
-    min-height: 100vh;
-    position: relative;
-    margin-top: 15%;
-    margin-bottom: 15%;
-    z-index: 1;
-}
 
-/*.........HomePage..........*/
-#home-page div {
-    box-shadow: 0 4px 10px #527a5a;
-}
-
-#home-page h2 {
+h2 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 39px;
     color: #527a5a;
     text-decoration: underline;
     letter-spacing: 2px;
     text-align: center;
-    padding-bottom: 10px;
-    margin-top: 1px;
-    position: relative;
-    top: 0;
+    padding-top: 10%;
+    padding-bottom: 10%;
 
+}
+
+.h3-styles h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #527a5a;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 34px;
+}
+
+/*HomePage*/
+.home-img1 {
+    background-image: url(../images/crazy-dog.jpg);
+    
+} 
+
+.home-img2 {
+    background-image: url(../images/group-muddogs.jpg);
+   
+}
+
+.home-img3 {
+    background-image: url(../images/beahcwhite-dog.jpg);
+    
+}
+
+.home-img4 {
+    background-image: url(../images/twodogs.jpg);
+    
+}
+
+#home-page div {
+    display: flex;
+    align-items: center;
+    height: 200px;
+    width: 100%;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 #home-page h3 {
     background-color: rgba(12, 80, 2, 0.5);
     color: rgba(253, 240, 167);
     font-family: 'Lobster', sans-serif;
-    font-size: 24px;
+    font-size: 1.25em;
     letter-spacing: 3px;
     word-spacing: 3px;
     text-transform: capitalize;
-
+    position: relative;
 }
 
 #head1 {
     width: 55%;
-    position: relative;
-    top: 45%;
     left: 45%;
     text-align: right;
 }
-
-#head2 {
-    position: relative;
-    padding-left: 20px;
-    top: 20%;
-    width: 70%;
-    text-align: center;
-
-}
-
 #head3 {
-    position: relative;
-    top: 10%;
+    width: 100%;
+    top: -25%;
     text-align: center;
 }
 
 #head4 {
-    position: relative;
+    width: 100%;
+    top: -25%;
     text-align: center;
-    top: 10%;
-
 }
 
-.home-img1 {
-    background-image: url(../images/crazy-dog.jpg);
-    width: 100%;
-    height: 300px;
-    background-position: right;
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    margin-top: 5%;
-    margin-bottom: 5%;
-
-}
-
-.home-img2 {
-    background-image: url(../images/group-muddogs.jpg);
-    width: 100%;
-    height: 300px;
-    background-position: right;
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
-
-.home-img3 {
-    background-image: url(../images/beahcwhite-dog.jpg);
-    width: 100%;
-    height: 300px;
-    background-position: right;
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
-
-.home-img4 {
-    background-image: url(../images/twodogs.jpg);
-    width: 100%;
-    height: 300px;
-    background-position: right;
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
-
-/*......^^^HomePage^^^.......*/
-/*.........Servicepage..........*/
-/*Serviceheader*/
-#service-head {
-    font-family: 'Bebas Neue', sans-serif;
-    color: #527a5a;
-    font-size: 39px;
-    text-decoration: underline;
-    position: relative;
-    text-align: center;
-    padding-left: 6px;
-    padding-bottom: 20px;
-    word-spacing: 2px;
-
-}
-
-#service-breakdown {
-    font-family: 'Bebas Neue', sans-serif;
-    color: #527a5a;
-    font-size: 43px;
-    text-decoration: underline;
-    position: relative;
-    text-align: center;
-    word-spacing: 2px;
-}
-
-strong {
-    font-size: 50px;
-    color: gold;
-}
-
-/*Serviceheader*/
-
+/*ServicePAge*/
 /*Table*/
 #table-container {
     background-color: rgb(220 246 226 / 80%);
@@ -384,16 +314,6 @@ strong {
     text-align: left;
 }
 
-.serv-left {
-    padding-left: 30px;
-    width: 48px;
-}
-
-.c-t-mid {
-    text-align: center;
-}
-
-
 .top-row-table {
     height: 50px;
     width: 100%;
@@ -402,10 +322,7 @@ strong {
 .row {
     padding-top: 10px;
     padding-bottom: 10px;
-}
-
-td {
-    color: #527a5a;
+    font-family: 'Sarabun ExtraLight 200', sans-serif;
 }
 
 th,
@@ -413,12 +330,9 @@ td {
     border: 1px solid;
     border-color: yellowgreen;
     padding: 8px;
-
 }
 
 .service-side {
-    font-family: 'Sarabun ExtraLight 200', sans-serif;
-    font-size: larger;
     text-align: left;
     width: 45%;
     padding-left: 8px;
@@ -427,33 +341,24 @@ td {
 }
 
 .cost-side {
-    font-family: 'Sarabun ExtraLight 200', sans-serif;
-    font-size: large;
     text-align: center;
 
 }
 
 .time-side {
-    font-family: 'Sarabun ExtraLight 200', sans-serif;
-    font-size: large;
     text-align: right;
     width: 100%;
     padding-right: 10px;
     text-transform: capitalize;
 }
 
-/*Table*/
-
-/*Paragraph*/
-#all-service-section>p {
+#service-table>p {
     background-color: rgba(255, 217, 0, 0.281);
     color: #2f4834;
-
 }
 
 #breakdown>h3 {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 40px;
+    font-size: 2.5em;
     font-weight: 900;
     text-align: center;
     text-decoration: underline;
@@ -461,284 +366,24 @@ td {
     padding: 25px 8px 25px 8px;
     color: #074701;
     background-color: rgba(255, 217, 0, 0.281);
-    ;
     letter-spacing: 2px;
     word-spacing: 4px;
     width: 98%;
 
 }
 
-#breakdown>div p {
-    font-family: 'Sarabun ExtraBold 800', sans-serif;
-    font-size: 20px;
-    font-weight: 900;
-    background-color: rgb(252, 254, 253, 0.5);
-    width: 100%;
-    text-align: center;
-    word-spacing: 4px;
-    line-height: 20px;
-    padding: 5%;
+/*AboutPage*/
 
-
-}
-
-.p-img1 {
-    background-image: url(../images/dogon-hay.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-
-
-}
-
-.p-img2 {
-    background-image: url(../images/white-dog.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-
-}
-
-.p-img3 {
-    background-image: url(../images/dogs-inpond.jpg);
-    background-size: cover;
-    background-position: 80%;
-    background-repeat: no-repeat;
-}
-
-.p-img4 {
-    background-image: url(../images/pretty-dog.jpg);
-    background-size: cover;
-    background-position: 20%;
-    background-repeat: no-repeat;
-}
-
-.p-img5 {
-    background-image: url(../images/beachday-dog.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-
-}
-
-.p-img6 {
-    background-image: url(../images/3dogs.jpg);
-    background-size: cover;
-    background-position: 30%;
-    background-repeat: no-repeat;
-}
-
-.p-img7 {
-    background-image: url(../images/tiff.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-/*......^^^Servicepage^^^.......*/
-/*.........Aboutpage..........*/
-
-#about h1 {
-    font-family: 'Bebas Neue', sans-serif;
-    color: #527a5a;
-    font-size: 49px;
-    text-decoration: underline;
-    letter-spacing: 2px;
-    text-align: center;
-    padding-bottom: 50px;
-    margin-top: 30px;
-    position: relative;
-    top: 0;
-}
-
-#about-image-tal {
-    position: relative;
-    width: 80%;
-    left: 10%;
-}
-
-#about h2 {
-    font-family: 'Bebas Neue', sans-serif;
-    color: #527a5a;
-    letter-spacing: 2px;
-    word-spacing: 2px;
-    text-align: center;
-    text-decoration: underline;
-    font-size: 24px;
-    padding-left: 10px;
-
-}
-
-#about h3 {
-    font-family: 'Bebas Neue', sans-serif;
-    color: #527a5a;
-    letter-spacing: 2px;
-    word-spacing: 2px;
-    text-align: center;
-    text-decoration: underline;
-    font-size: 34px;
-    padding-left: 10px;
-    
-}
-
-ul strong {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 45px;
-    letter-spacing: 2px;
-    text-decoration: double;
-}
-
-#about ul {
-    list-style-type: none;
-    background-color: rgba(12, 80, 2, 0.5);
-    color: rgba(253, 240, 167);
-    font-size: 25px;
-    font-weight: 900;
-    line-height: 20px;
-
-}
-
-#about ul li {
-    margin-bottom: 50px;
-    padding: 14px 10px;
-
-}
-
-
-/*Gallery/Reviews*/
-
-#customers img {
-    width: 100%;
-    line-height: 1em;
-
-}
-
-/*......^^^Aboutpage^^^.......*/
-/*........Contactpage..........*/
-
-/*contactInfor*/
-
-#contact-page h2 {
-    display: block;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 38px;
-    color: #527a5a;
-    text-decoration: underline;
-    letter-spacing: 2px;
-    text-align: center;
-    padding-bottom: 10px;
-    margin-top: 10px;
-    margin-bottom: 50px;
-    position: relative;
-}
-
-.contact-details h3 {
-    display: block;
-    font-family: 'Lobster', sans-serif;
-    font-size: 30px;
-    letter-spacing: 2px;
-    word-spacing: 2px;
-    color: #406146;
-    padding-bottom: 5px;
-    padding-top: 9px;
-    text-align: center;
-    margin-top: 5%;
-
-
-
-}
-
-.contact-details h4 {
-    font-family: 'Sarabun 700 Bold Italic';
-    background-color: #83b48dbe;
-    color: #2f4834;
-    font-size: 25px;
-    width: 100%;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    text-align: center;
-    margin-bottom: 10%;
-    margin-top: 5%;
-    box-shadow: 0 6px 20px #527a5a;
-
-}
-
-/*ContactForm*/
-
-.contact-form {
-    background-color: rgba(255, 255, 255, 0.1);
-    width: 100%;
-    margin-bottom: 20px;
-    padding: 9px;
-    padding-left: 10px;
-    position: relative;
-    top: 10%;
-    border: 1px solid #ffff;
-    border-radius: 5px;
-
-}
-
-form input,
-form select,
-form textarea {
-    width: 100%;
-    margin-bottom: 10px;
-    padding: 3px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-
-}
-
-#first-name,
-#last-name {
-    width: 30%;
-
-}
-
-label {
-    background-color: #83b48dbe;
-    color: #ffff;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 25px;
-    letter-spacing: 2px;
-}
-
-.question-form {
-    background-image: url(../images/wow-pupps.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 50vh;
-    background-position: left;
-    position: relative;
-    left: 0;
-
-}
-
-input[type="submit"] {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 15px;
-    letter-spacing: 5px;
-}
-
-input[type="submit"]:active {
-    background-color: #83b48d;
-    color: #ffff;
-}
-
-
-/*Map*/
-#map {
-    position: relative;
-    border-radius: 30px;
-    bottom: 0;
-    height: 18%;
+img {
     width: 100%;
 
 }
 
-/*.....^^^Contactpage^^^.......*/
+/*ContactPage*/
 
-/*.......^^^Main^^^........*/
-
-/*.........Footer......*/
+/*Footer*/
 footer {
+    background-color: rgb(133, 194, 146);
     width: 100%;
     position: fixed;
     bottom: 0;
@@ -746,10 +391,8 @@ footer {
     z-index: 1;
 
 }
-
 #social-net {
-    background-color: #527a5a;
-    color: #ffff;
+    color: #012708;
     text-align: center;
     padding: 1px 0;
     display: flex;
@@ -758,224 +401,7 @@ footer {
 }
 
 #social-net i {
-    font-size: 250%;
-    color: rgb(252, 254, 253);
+    font-size: 150%;
+    color: #012708;
     padding: 15px;
-}
-
-/*.........^^^Footer^^^........*/
-/*Media large or landscape (576px and up)*/
-@media screen and (min-width: 576px) {
-
-    /*HEADER*/
-    #customers {
-        column-count: 2;
-        column-gap: 0;
-    }
-
-    .nav-drop-label {
-        display: none;
-    }
-
-    #menu-list {
-        display: flex;
-    }
-
-    #menu-list li {
-        display: flex;
-        padding-left: 55px;
-
-    }
-
-    nav {
-        display: flex;
-        align-items: stretch;
-        justify-content: space-evenly;
-        flex-wrap: nowrap;
-        width: 100%;
-        left: 0;
-        padding: 0;
-        box-shadow: 0 2px 4px #527a5a;
-        position: relative;
-        z-index: 4;
-    }
-
-    strong {
-        font-size: 65px;
-    }
-
-    /*ServicePage*/
-    #service-head {
-        font-size: 55px;
-    }
-
-    .bonei {
-        left: 45%;
-    }
-
-    #breakdown div {
-        height: 500px;
-    }
-
-    #breakdown>div p {
-        top: 20%;
-        height: fit-content;
-    }
-
-    /*AboutPage*/
-    #about h3 {
-        padding-top: 5%;
-        padding-bottom: 5%;
-
-    }
-
-}
-
-/* Media query for larger screens (768px) */
-@media screen and (min-width: 768px) {
-    #logo {
-        min-width: 35%;
-    }
-
-    #page-titles {
-        font-size: 40px;
-    }
-
-    /*HomePage*/
-
-    strong {
-        font-size: 80px;
-    }
-
-    #home-page h2 {
-        font-size: 55px;
-    }
-
-    #home-page h3 {
-        font-size: 45px;
-    }
-
-    #home-page div {
-        height: 600px
-    }
-
-    /*ServicePage*/
-    #breakdown h2 {
-        padding: 3%;
-    }
-
-    #breakdown div {
-        height: 600px;
-    }
-
-    #breakdown>div p {
-        line-height: normal;
-    }
-
-    /*AboutPage*/
-    #about h2 {
-        font-size: 35px;
-    }
-
-    #about p {
-        font-size: 100%;
-    }
-
-    #about-image-tal {
-        width: 50%;
-        margin-left: 15%;
-    }
-
-    /*ContactPage*/
-    #contact-page h2 {
-        font-size: 50px;
-    }
-
-    #map {
-        height: 25%
-        
-    }
-
-
-
-}
-
-@media screen and (min-width: 1000px) {
-
-    /*Header*/
-    #page-titles h3 {
-        padding-left: 35%;
-        transition: all 0.3s ease;
-    }
-
-    p {
-        font-size: 20px;
-    }
-
-    /*HomePage*/
-    #home-page div {
-        width: 80%;
-        left: 10%;
-    }
-
-    /*ServicePage*/
-    #table-container {
-        width: 80%;
-
-    }
-
-    #breakdown {
-        width: 80%;
-        padding-left: 15%;
-    }
-
-    /*AboutPage*/
-    #about h3 {
-        font-size: 50px;
-    }
-
-    #about ul {
-        margin-left: 10%;
-        margin-right: 10%;
-        font-size: 35px;
-        line-height: normal;
-    }
-
-    #about p {
-        font-size: 30px;
-    }
-
-    /*Contat*/
-    #contact-page {
-        margin-left: 10%;
-        margin-right: 10%;
-    }
-
-    #map {
-        height: 25%;
-    }
-
-    .contact-details h3 {
-        font-size: 40px;
-    }
-
-    .contact-details h4 {
-        font-size: 30px;
-    }
-    /*HomePage*/
-    strong {
-        font-size: 90px
-    }
-
-    #home-page h2 {
-        font-size: 65px;
-    }
-
-    #home-page div {
-        height: 800px;
-    }
-
-    #breakdown div {
-        height: 700px;
-    }
 }
