@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    font-family: 'Bebas Neue' sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 p {
@@ -464,7 +464,7 @@ td {
 }
 
 #breakdown>div p {
-    font-family: 'Sarabun ExtraBold 800' sans-serif;
+    font-family: 'Sarabun ExtraBold 800', sans-serif;
     font-size: 20px;
     font-weight: 900;
     background-color: rgb(252, 254, 253, 0.5);
