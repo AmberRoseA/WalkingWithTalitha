@@ -186,6 +186,7 @@ One of the primary features of the "Contact" page is the inclusion of a user-fri
 * Favicon.io <https://favicon.io/favicon-converter> --Favicon Generator
 * https://developer.mozilla.org/en-US/ --Referancing/ reminding of HTML and CSS codes
 * WomansDay/ "70 Paws-itively Hilarious Dog Puns to Use as Instagram Captions and More" https://www.womansday.com/life/pet-care/a30928651/dog-puns/ --For the great dog pun inspiration.
+* https://www.we-love-pets.co.uk/ --For layout inspo
 * AsiaWi/hygge_life https://github.com/AsiaWi/hygge_life/tree/main --README file
 * Cheat Sheet https://docs.emmet.io/cheat-sheet/ --code shortcuts
 * Talitha Bailey/ Walking With Talitha --Being my muse
