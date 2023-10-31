@@ -130,6 +130,7 @@ nav {
 #logo {
     width: 75%;
     max-width: 250px;
+    display: flex;
     position: absolute;
     top: 20%;
     left: 0;
@@ -500,6 +501,7 @@ form {
 
 .contact-form {
     background-color: rgba(255, 255, 255, 0.1);
+    margin-top: 20%;
 } 
 
 form input,
@@ -658,4 +660,57 @@ footer {
         margin-top: 10%;
     }
 
+}
+
+/*Media large or landscape (768px and up)*/
+@media screen and (min-width: 768px) {
+    /*Header*/
+    #menu-list li {
+        font-size: 1.5em;
+        padding-top: 2%;
+        padding-bottom: 1%;
+    }
+    
+    #logo {
+        top: 30%;
+    }
+
+    main {
+        margin-bottom: 5%;
+    }
+
+    /*About*/
+    #about ul {
+        margin-left: 5%;
+        margin-right: 5%;
+
+    }
+
+    p {
+        font-size: 100%;
+        padding-bottom: 10%;
+    }
+
+    #about-image-tal{
+        margin-left: 20%;
+    }
+
+    /*Contact*/
+    .contact-details h4 {
+        font-size: 2em;
+    }
+    /*Contform*/
+    .contact-form {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    /*Footer*/
+    #social-net i {
+        font-size: 3.5em;
+    }
+
+    #about h3 {
+        padding-bottom: 0;
+    }
 }
