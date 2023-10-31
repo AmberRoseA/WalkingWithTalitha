@@ -54,7 +54,7 @@ p {
     color: gold;
     font-size: 50px;
     position: relative;
-    left: 40%;
+    left: 50%;
     top: 20%;
     padding: 10px 3px 10px 3px;
 
@@ -821,7 +821,8 @@ footer {
 
     /*AboutPage*/
     #about h3 {
-        padding-top: 15%;
+        padding-top: 5%;
+        padding-bottom: 5%;
 
     }
 
