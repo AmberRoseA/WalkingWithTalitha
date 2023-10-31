@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Sarabun:ital,wght@0,200;0,600;0,800;1,700&display=swap');
+
 /*overide default styles*/
 * {
     margin: 0;
@@ -8,6 +10,7 @@
 /* Starter styles*/
 body {
     display: flex;
+    width: 100%;
     flex-direction: column;
     min-height: 100vh;
     font-family: 'Bebas Neue', sans-serif;
@@ -157,10 +160,10 @@ nav {
 }
 
 #logo {
-    width: 100%;
-    max-width: 300px;
+    width: 75%;
+    max-width: 100px;
     position: absolute;
-    top: 15%;
+    top: 20%;
     left: 0;
     z-index: 3;
 }
@@ -206,11 +209,13 @@ header a {
 
 /*...........Main..............*/
 #main {
-    display: inline-block;
-    flex: 1;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    min-height: 100vh;
     position: relative;
     margin-top: 15%;
-    margin-bottom: 20%;
+    margin-bottom: 15%;
     z-index: 1;
 }
 
@@ -610,6 +615,7 @@ ul strong {
 /*contactInfor*/
 
 #contact-page h2 {
+    display: block;
     font-family: 'Bebas Neue', sans-serif;
     font-size: 38px;
     color: #527a5a;
@@ -623,6 +629,7 @@ ul strong {
 }
 
 .contact-details h3 {
+    display: block;
     font-family: 'Lobster', sans-serif;
     font-size: 30px;
     letter-spacing: 2px;
@@ -718,7 +725,7 @@ input[type="submit"]:active {
 
 /*Map*/
 #map {
-    position: fixed;
+    position: relative;
     border-radius: 30px;
     bottom: 0;
     height: 18%;
@@ -827,7 +834,7 @@ footer {
 /* Media query for larger screens (768px) */
 @media screen and (min-width: 768px) {
     #logo {
-        min-width: 45%;
+        min-width: 35%;
     }
 
     #page-titles {
@@ -886,6 +893,7 @@ footer {
 
     #map {
         height: 25%
+        
     }
 
 
@@ -893,19 +901,11 @@ footer {
 }
 
 @media screen and (min-width: 1000px) {
-    #page-titles h3 {
-        padding-left: 35%;
-        transition: all 0.3s ease;
-    }
-}
-
-
-
-@media screen and (min-width: 1200px) {
 
     /*Header*/
     #page-titles h3 {
-        padding-left: 45%;
+        padding-left: 35%;
+        transition: all 0.3s ease;
     }
 
     p {
@@ -962,11 +962,6 @@ footer {
     .contact-details h4 {
         font-size: 30px;
     }
-
-}
-
-@media screen and (min-width: 1300px) {
-
     /*HomePage*/
     strong {
         font-size: 90px
