@@ -189,11 +189,6 @@ header a {
 .bone {
     color: gold;
     font-size: 50px;
-    position: relative;
-    left: 40%;
-    top: 20%;
-    padding: 10px 3px 10px 3px;
-
 }
 
 strong {
@@ -207,6 +202,8 @@ strong {
 
 main {
     flex: 1 0 auto;
+    margin-top: 10%;
+    margin-bottom: 30%;
      
 }
 
@@ -278,8 +275,8 @@ h2 {
 }
 
 #head1 {
-    width: 55%;
-    left: 45%;
+    width: 60%;
+    left: 40%;
     text-align: right;
 }
 #head3 {
@@ -298,7 +295,7 @@ h2 {
 /*Table*/
 #table-container {
     background-color: rgb(220 246 226 / 80%);
-    width: 95%;
+    width: 100%;
     height: fit-content;
     position: relative;
     font-weight: 700;
@@ -311,7 +308,7 @@ h2 {
     background-color: #074701;
     color: #ffff;
     font-family: 'Sarabun 700 Bold Italic', sans-serif;
-    font-size: 120%;
+    font-size: 1em;
     width: 100%;
     text-transform: uppercase;
     text-decoration: underline;
@@ -545,7 +542,7 @@ input[type="submit"]:active {
     font-family: 'Sarabun 700 Bold Italic';
     background-color: #83b48dbe;
     color: #2f4834;
-    font-size: 1.25em;
+    font-size: 1.1em;
     width: 100%;
     text-align: center;
     box-shadow: 0 6px 20px #527a5a;
