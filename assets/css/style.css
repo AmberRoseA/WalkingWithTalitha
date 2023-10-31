@@ -21,7 +21,6 @@ p {
     font-weight: 900;
     font-size: 96%;
     width: 95%;
-    height: 70%;
     margin: 0 auto;
     position: relative;
     padding: 5% 5% 5% 5%;
@@ -130,7 +129,7 @@ nav {
 
 #logo {
     width: 75%;
-    max-width: 200px;
+    max-width: 250px;
     position: absolute;
     top: 20%;
     left: 0;
@@ -205,8 +204,10 @@ strong {
 /*.......^^..Header.^.^.....*/
 
 /*...........Main..............*/
-#main {
-    margin-bottom: 20%;
+
+main {
+    flex: 1 0 auto;
+     
 }
 
 h2 {
@@ -457,6 +458,10 @@ img {
     width: 100%;
 
 }
+#customers img {
+    display: flex;
+    column-gap: 0;
+}
 
 ul strong {
     font-family: 'Bebas Neue', sans-serif;
@@ -583,6 +588,13 @@ footer {
 /*Media large or landscape (576px and up)*/
 @media screen and (min-width: 576px) {
     /*HEADER*/
+
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
     .nav-drop-label {
         display: none;
     }
@@ -607,16 +619,42 @@ footer {
         position: relative;
         z-index: 4;
     }
+
+    h2 {
+        padding-bottom: 0;
+    }
+
+    #page-titles {
+        font-size: 2em;
+    }
      
     /*HomePage*/
     #home-page div {
         height: 20em;
     }
 
-    /*Gallery*/
+    /*Service*/
+    #breakdown div {
+        height: 500px;
+    }
+
+    #breakdown>div p {
+        top: 20%;
+        height: fit-content;
+    }
+
+    /*AboutGallery*/
     #customers {
         column-count: 2;
         column-gap: 0;
+    }
+
+    #about-image-tal {
+        width: 60%;
+    }
+
+    #footer {
+        margin-top: 10%;
     }
 
 }
