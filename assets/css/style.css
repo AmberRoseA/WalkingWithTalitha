@@ -646,15 +646,19 @@ footer {
         height: fit-content;
     }
 
+    /*About*/
+    #about-image-tal {
+        margin-left: 20%;
+        width: 60%;
+    }
+
     /*AboutGallery*/
     #customers {
         column-count: 2;
         column-gap: 0;
     }
 
-    #about-image-tal {
-        width: 60%;
-    }
+    /*Footer*/
 
     #footer {
         margin-top: 10%;
@@ -691,10 +695,6 @@ footer {
         padding-bottom: 10%;
     }
 
-    #about-image-tal{
-        margin-left: 20%;
-    }
-
     /*Contact*/
     .contact-details h4 {
         font-size: 2em;
@@ -714,3 +714,31 @@ footer {
         padding-bottom: 0;
     }
 }
+
+/*Media large or landscape (1200px and up)*/
+@media screen and (min-width: 1200px) {
+    /*Header*/
+    #page-titles {
+        padding-left: 10em;
+    }
+
+    strong {
+        font-size: 2em;
+    }
+
+    /*Home*/
+    #home-page h2{
+        font-size: 5em;
+        padding-top: 0;
+    }
+
+    #home-page h3 {
+        font-size: 3em;
+    }
+
+    #home-page div {
+        width: 70%;
+        height: 30em;
+        margin-left: 15%;
+    }
+}    
