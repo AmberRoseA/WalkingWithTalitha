@@ -741,4 +741,28 @@ footer {
         height: 30em;
         margin-left: 15%;
     }
+
+    /*Service*/
+    #service-head {
+        font-size: 5em;
+        padding-top: 0;
+    }
+
+    #service-table {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    #service-breakdown {
+        font-size: 5em;
+        padding-top:0;
+    }
+
+    #breakdown {
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+    #breakdown div {
+        height: 600px;
+    }
 }    
