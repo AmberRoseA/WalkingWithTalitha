@@ -720,6 +720,7 @@ footer {
     /*Header*/
     #page-titles {
         padding-left: 10em;
+        top: 100%;
     }
 
     strong {
@@ -789,4 +790,24 @@ footer {
     #about p {
         font-size: 1.7em;
     }
+
+    /*Contact*/
+    #contact-page h2 {
+        font-size: 4em;
+        padding-top: 0;
+    }
+
+    /*contactform*/
+    .contact-form {
+        margin-top: 0;
+    }
+
+    .contact-details h3 {
+        font-size: 2em;
+    }
+
+    .contact-details {
+        font-size: xx-large;
+    }
+    
 }    
