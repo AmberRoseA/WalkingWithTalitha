@@ -647,7 +647,7 @@ footer {
     }
 
     /*About*/
-    #about-image-tal {
+    .about-image-tal {
         margin-left: 20%;
         width: 60%;
     }
