@@ -33,21 +33,6 @@ Key Existing Features
 #### Contact Form
 
 
-
-
-      1.  Navigation Bar: The navigation bar provides easy access to Home, Services, About, and Contact sections, featuring a header image of a dog walking in fields and the business logo.
-
-      2.  Home Page: Features a gallery wall with images of happy dog customers and customer reviews to create an immediate sense of trust. Headers include "Welcome to Walking With Talitha," "Dog Walking and Sitting Services," "Fully Insured & DBS Registered," and "Serving Trowbridge and Surrounding Areas."
-
-      3.  Services: A table displays a comprehensive list of services, along with pricing and a reminder that pricing may vary based on unique customer needs. Detailed explanations of each service are also provided.
-
-      4.  About: This section introduces the business owner, her experience, and the personal story behind the business, including a tribute to her own pet. Images are included to create a personal connection.
-
-      5.  Contact: Provides links to the business's Instagram and Facebook accounts, along with icons for easy access. The website also displays the business's phone number and email address. A Google Map shows the business's location. A contact form allows visitors to send messages that get delivered to the owner's email.
-
-      6.  Future Features: The README acknowledges potential future features, such as implementing a booking system for customer convenience.
-
-
    
 ## UX/UI SECTION
 
