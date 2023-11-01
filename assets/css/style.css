@@ -765,4 +765,28 @@ footer {
     #breakdown div {
         height: 600px;
     }
+
+    /*About*/
+    #customers {
+        column-count: 4;
+    }
+    
+    #about h1 {
+        font-size: 5em;
+        padding-top: 0;
+    }
+
+    #about h3 {
+        font-size: 4em;
+        padding-top: 5%;
+    }
+    #about ul {
+        margin-left: 20%;
+        margin-right: 20%;
+        font-size: 3em;
+    }
+
+    #about p {
+        font-size: 1.7em;
+    }
 }    
