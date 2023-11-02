@@ -684,6 +684,15 @@ footer {
     }
 
     /*About*/
+
+    .about-image-tal {
+        width: 60%;
+    }
+
+    #about h3 {
+        padding-bottom: 0;
+    }
+
     #about ul {
         margin-left: 5%;
         margin-right: 5%;
@@ -710,9 +719,6 @@ footer {
         font-size: 3.5em;
     }
 
-    #about h3 {
-        padding-bottom: 0;
-    }
 }
 
 /*Media large or landscape (1200px and up)*/
@@ -768,6 +774,12 @@ footer {
     }
 
     /*About*/
+
+    .about-image-tal {
+        width: 40%;
+        margin-left: 30%;
+    }
+
     #customers {
         column-count: 4;
     }
