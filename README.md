@@ -12,7 +12,8 @@ The business owner, after great success in starting her own business back in 202
 
 ## Key Existing Features
 
-### Navigation 
+### Navigation
+*![Navigation Bar](../WalkingWithTalitha/readme.docs/nav-bar.png)
 
 ### Home Page Header Image & Logo
 
