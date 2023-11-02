@@ -220,7 +220,7 @@ h2 {
 
 }
 
-.h3-styles {
+.third-header {
     font-family: 'Bebas Neue', sans-serif;
     color: #527a5a;
     letter-spacing: 2px;
@@ -264,7 +264,7 @@ h2 {
     margin-bottom: 5%;
 }
 
-.home-page h3 {
+.home-image-header {
     background-color: #0C500280;
     color: #FDF0A7;
     font-family: 'Lobster', sans-serif;
@@ -355,7 +355,7 @@ td {
     color: #2f4834;
 }
 
-.breakdown>h3 {
+.breaktown-title {
     font-size: 2.2em;
     font-weight: 900;
     text-align: center;
@@ -440,7 +440,7 @@ td {
     background-color: #D7F2DD;
 }
 /*AboutPage*/
-.about h1 {
+.about-top-title {
     font-family: 'Bebas Neue', sans-serif;
     color: #527a5a;
     font-size: 49px;
@@ -450,7 +450,7 @@ td {
     padding-top: 10%;
 }
 
-.about h3 {
+.about-headers-three {
     padding-top: 10%;
     padding-bottom: 10%;
 }
@@ -543,7 +543,7 @@ input[type="submit"]:active {
     color: #ffff;
 }
 
-.contact-details h4 {
+.details {
     font-family: 'Sarabun 700 Bold Italic';
     background-color: #83b48dbe;
     color: #2f4834;
@@ -699,7 +699,7 @@ footer {
         width: 100%;
     }
 
-    .about h3 {
+    .about-headers-three {
         padding-bottom: 0;
     }
 
@@ -715,7 +715,7 @@ footer {
     }
 
     /*Contact*/
-    .contact-details h4 {
+    .details {
         font-size: 2em;
     }
     /*Contform*/
@@ -744,12 +744,12 @@ footer {
     }
 
     /*Home*/
-    .home-page h2{
+    .home-header{
         font-size: 5em;
         padding-top: 0;
     }
 
-    .home-page h3 {
+    .home-image-header {
         font-size: 3em;
     }
 
@@ -760,7 +760,7 @@ footer {
     }
 
     /*Service*/
-    .service-table h2 {
+    .service-header {
         font-size: 5em;
         padding-top: 0;
     }
@@ -770,7 +770,7 @@ footer {
         margin-right: 10%;
     }
 
-    .breakdown h2 {
+    .breakdown-header {
         font-size: 5em;
         padding-top:0;
     }
@@ -803,12 +803,12 @@ footer {
         column-count: 4;
     }
     
-    .about h1 {
+    .about-top-title {
         font-size: 5em;
         padding-top: 0;
     }
 
-    .about h3 {
+    .about-headers-three {
         font-size: 4em;
         padding-top: 5%;
     }
@@ -823,7 +823,7 @@ footer {
     }
 
     /*Contact*/
-    .contact-page h2 {
+    .contact-header {
         font-size: 4em;
         padding-top: 0;
     }
@@ -833,7 +833,7 @@ footer {
         margin-top: 0;
     }
 
-    .contact-details h3 {
+    .contact-headers-three {
         font-size: 2em;
     }
 
