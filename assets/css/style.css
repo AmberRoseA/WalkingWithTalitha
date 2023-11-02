@@ -51,7 +51,7 @@ p {
 }
 
 
-#nav-drop:checked>#menu-list {
+#nav-drop:checked>.menu-list {
     display: grid;
     position: absolute;
 
@@ -251,7 +251,7 @@ h2 {
     
 }
 
-#home-page div {
+.home-page div {
     display: flex;
     align-items: center;
     height: 12.5em;
@@ -264,7 +264,7 @@ h2 {
     margin-bottom: 5%;
 }
 
-#home-page h3 {
+.home-page h3 {
     background-color: rgba(12, 80, 2, 0.5);
     color: rgba(253, 240, 167);
     font-family: 'Lobster', sans-serif;
@@ -275,18 +275,18 @@ h2 {
     position: relative;
 }
 
-#head1 {
+.first-header {
     width: 60%;
     left: 40%;
     text-align: right;
 }
-#head3 {
+.third-header {
     width: 100%;
     top: -25%;
     text-align: center;
 }
 
-#head4 {
+.fourth-header {
     width: 100%;
     top: -25%;
     text-align: center;
@@ -350,12 +350,12 @@ td {
     text-transform: capitalize;
 }
 
-#service-table>p {
+.service-table>p {
     background-color: rgba(255, 217, 0, 0.281);
     color: #2f4834;
 }
 
-#breakdown>h3 {
+.breakdown>h3 {
     font-size: 2.2em;
     font-weight: 900;
     text-align: center;
@@ -370,7 +370,7 @@ td {
 
 }
 
-#breakdown>div p {
+.breakdown>div p {
     font-family: 'Sarabun ExtraBold 800', sans-serif;
     font-size: 20px;
     font-weight: 900;
@@ -433,7 +433,7 @@ td {
     background-repeat: no-repeat;
 }
 /*AboutPage*/
-#about h1 {
+.about h1 {
     font-family: 'Bebas Neue', sans-serif;
     color: #527a5a;
     font-size: 49px;
@@ -443,7 +443,7 @@ td {
     padding-top: 10%;
 }
 
-#about h3 {
+.about h3 {
     padding-top: 10%;
     padding-bottom: 10%;
 }
@@ -452,7 +452,7 @@ img {
     width: 100%;
 
 }
-#customers img {
+.customers img {
     display: flex;
     column-gap: 0;
 }
@@ -464,7 +464,7 @@ ul strong {
     text-decoration: double;
 }
 
-#about ul {
+.about ul {
     list-style-type: none;
     background-color: rgba(12, 80, 2, 0.5);
     color: rgba(253, 240, 167);
@@ -473,7 +473,7 @@ ul strong {
 
 }
 
-#about ul li {
+.about ul li {
     margin-bottom: 10%;
     padding: 2%;
 
@@ -549,7 +549,7 @@ input[type="submit"]:active {
 }
 
 /*Maps*/
-#map {
+.map {
     width: 100%;
     height: min-content;
 }
@@ -565,7 +565,7 @@ footer {
     z-index: 1;
 
 }
-#social-net {
+.social-net {
     color: #012708;
     text-align: center;
     padding: 1px 0;
@@ -574,7 +574,7 @@ footer {
     list-style-type: none;
 }
 
-#social-net i {
+.social-net i {
     font-size: 1.5em;
     color: #012708;
     padding: 15px;
@@ -628,16 +628,16 @@ footer {
     }
      
     /*HomePage*/
-    #home-page div {
+    .home-page div {
         height: 20em;
     }
 
     /*Service*/
-    #breakdown div {
+    .breakdown div {
         height: 500px;
     }
 
-    #breakdown>div p {
+    .breakdown>div p {
         top: 20%;
         height: fit-content;
     }
@@ -656,7 +656,7 @@ footer {
     }
 
     /*AboutGallery*/
-    #customers {
+    .customers {
         column-count: 2;
         column-gap: 0;
     }
@@ -692,11 +692,11 @@ footer {
         width: 100%;
     }
 
-    #about h3 {
+    .about h3 {
         padding-bottom: 0;
     }
 
-    #about ul {
+    .about ul {
         margin-left: 5%;
         margin-right: 5%;
 
@@ -718,7 +718,7 @@ footer {
     }
 
     /*Footer*/
-    #social-net i {
+    .social-net i {
         font-size: 3.5em;
     }
 
@@ -737,42 +737,42 @@ footer {
     }
 
     /*Home*/
-    #home-page h2{
+    .home-page h2{
         font-size: 5em;
         padding-top: 0;
     }
 
-    #home-page h3 {
+    .home-page h3 {
         font-size: 3em;
     }
 
-    #home-page div {
+    .home-page div {
         width: 70%;
         height: 30em;
         margin-left: 15%;
     }
 
     /*Service*/
-    #service-head {
+    .service-table h2 {
         font-size: 5em;
         padding-top: 0;
     }
 
-    #service-table {
+    .service-table {
         margin-left: 10%;
         margin-right: 10%;
     }
 
-    #service-breakdown {
+    .breakdown h2 {
         font-size: 5em;
         padding-top:0;
     }
 
-    #breakdown {
+    .breakdown {
         margin-left: 20%;
         margin-right: 20%;
     }
-    #breakdown div {
+    .breakdown div {
         height: 600px;
     }
 
@@ -792,31 +792,31 @@ footer {
 
     }
 
-    #customers {
+    .customers {
         column-count: 4;
     }
     
-    #about h1 {
+    .about h1 {
         font-size: 5em;
         padding-top: 0;
     }
 
-    #about h3 {
+    .about h3 {
         font-size: 4em;
         padding-top: 5%;
     }
-    #about ul {
+    .about ul {
         margin-left: 20%;
         margin-right: 20%;
         font-size: 3em;
     }
 
-    #about p {
+    .about p {
         font-size: 1.7em;
     }
 
     /*Contact*/
-    #contact-page h2 {
+    .contact-page h2 {
         font-size: 4em;
         padding-top: 0;
     }
