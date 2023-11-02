@@ -58,7 +58,7 @@ p {
 }
 
 .menu-list {
-    background-color: rgba(215, 242, 221);
+    background-color: #D7F2DD;
     width: 100%;
     position: relative;
     top: 10%;
@@ -116,7 +116,7 @@ nav {
 
 .nav-drop-label {
     font-size: 30px;
-    background-color: rgb(184, 225, 193);
+    background-color: #B8E1C1;
     width: 100%;
     color: #012708;
     text-align: left;
@@ -155,7 +155,7 @@ header a {
 
 
 .page-titles {
-    background-color: rgb(184, 225, 193);
+    background-color: #B8E1C1;
     box-shadow: 0 2px 4px #527a5a;
     text-transform: capitalize;
     color: #012708;
@@ -182,19 +182,19 @@ header a {
 }
 
 .service-paw {
-    color: gold;
+    color: #FFD700;
     font-size: 50px;
 
 }
 
 .bone {
-    color: gold;
+    color: #FFD700;
     font-size: 50px;
 }
 
 strong {
     font-size: 40px;
-    color: gold;
+    color: #FFD700;
 }
 
 /*.......^^..Header.^.^.....*/
@@ -265,8 +265,8 @@ h2 {
 }
 
 .home-page h3 {
-    background-color: rgba(12, 80, 2, 0.5);
-    color: rgba(253, 240, 167);
+    background-color: #0C500280;
+    color: #FDF0A7;
     font-family: 'Lobster', sans-serif;
     font-size: 1.25em;
     letter-spacing: 3px;
@@ -295,7 +295,7 @@ h2 {
 /*ServicePAge*/
 /*Table*/
 .table-container {
-    background-color: rgb(220 246 226 / 80%);
+    background-color: #DCF6E2CC;
     width: 100%;
     height: fit-content;
     position: relative;
@@ -326,7 +326,7 @@ h2 {
 th,
 td {
     border: 1px solid;
-    border-color: yellowgreen;
+    border-color: #9ACD32;
     padding: 8px;
 }
 
@@ -351,7 +351,7 @@ td {
 }
 
 .service-table>p {
-    background-color: rgba(255, 217, 0, 0.281);
+    background-color: #FFD90047;
     color: #2f4834;
 }
 
@@ -363,7 +363,7 @@ td {
     margin: 0 auto;
     padding: 25px 8px 25px 8px;
     color: #074701;
-    background-color: rgba(255, 217, 0, 0.281);
+    background-color: #FFD90047;
     letter-spacing: 2px;
     word-spacing: 4px;
     width: 98%;
@@ -374,7 +374,7 @@ td {
     font-family: 'Sarabun ExtraBold 800', sans-serif;
     font-size: 20px;
     font-weight: 900;
-    background-color: rgb(252, 254, 253, 0.5);
+    background-color: #FCFEFD80;
     width: 100%;
     text-align: center;
     word-spacing: 4px;
@@ -466,8 +466,8 @@ ul strong {
 
 .about ul {
     list-style-type: none;
-    background-color: rgba(12, 80, 2, 0.5);
-    color: rgba(253, 240, 167);
+    background-color: #0C500280;
+    color: #FDF0A7FF;
     font-size: 25px;
     font-weight: 500;
 
@@ -496,7 +496,7 @@ form {
 }
 
 .contact-form {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: #FFFFFF1A;
     margin-top: 20%;
 } 
 
@@ -556,7 +556,7 @@ input[type="submit"]:active {
 
 /*Footer*/
 footer {
-    background-color: rgb(133, 194, 146);
+    background-color: #85C292;
     width: 100%;
     position: fixed;
     bottom: 0;
