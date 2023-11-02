@@ -678,6 +678,9 @@ footer {
 
 /*Media large or landscape (768px and up)*/
 @media screen and (min-width: 768px) {
+    h2 {
+        padding-top: 0;
+    }
     /*Header*/
     .menu-list li {
         font-size: 1.5em;
@@ -691,6 +694,10 @@ footer {
 
     main {
         margin-bottom: 5%;
+    }
+
+    .breakdown-header {
+        padding-top: 10%;
     }
 
     /*About*/
@@ -722,6 +729,10 @@ footer {
     .contact-form {
         margin-left: 10%;
         margin-right: 10%;
+    }
+
+    .contact-header {
+        padding-top: 5%;
     }
 
     /*Footer*/
