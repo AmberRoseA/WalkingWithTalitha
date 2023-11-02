@@ -251,7 +251,7 @@ h2 {
     
 }
 
-.home-page div {
+.home-page-images {
     display: flex;
     align-items: center;
     height: 12.5em;
@@ -370,7 +370,7 @@ td {
 
 }
 
-.breakdown>div p {
+.breakdown-images p {
     font-family: 'Sarabun ExtraBold 800', sans-serif;
     font-size: 20px;
     font-weight: 900;
@@ -635,16 +635,16 @@ footer {
     }
      
     /*HomePage*/
-    .home-page div {
+    .home-page-images {
         height: 20em;
     }
 
     /*Service*/
-    .breakdown div {
+    .breakdown-images {
         height: 500px;
     }
 
-    .breakdown>div p {
+    .breakdown-images p {
         top: 20%;
         height: fit-content;
     }
@@ -753,7 +753,7 @@ footer {
         font-size: 3em;
     }
 
-    .home-page div {
+    .home-page-images {
         width: 70%;
         height: 30em;
         margin-left: 15%;
@@ -779,7 +779,7 @@ footer {
         margin-left: 20%;
         margin-right: 20%;
     }
-    .breakdown div {
+    .breakdown-images {
         height: 600px;
     }
 
