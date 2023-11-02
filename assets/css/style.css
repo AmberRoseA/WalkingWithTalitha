@@ -744,6 +744,7 @@ footer {
 
 /*Media large or landscape (1200px and up)*/
 @media screen and (min-width: 1200px) {
+
     /*Header*/
     .page-titles {
         padding-left: 10em;

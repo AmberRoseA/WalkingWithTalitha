@@ -13,7 +13,21 @@ The business owner, after great success in starting her own business back in 202
 ## Key Existing Features
 
 ### Navigation
+The navigation bar is a consistent feature located at the top of every page on our website. It provides users with easy access to key sections of the site. Here are some important details about the navigation bar:
+Welcome Message: In the top right corner of the navigation bar, you'll find a "Welcome" text accompanied by a charming dog icon. This "Welcome" message also serves as an anchor link, allowing users to quickly return to the home page by clicking on it. - This element stays the same for all screen sizes.
+
+Menu Options: The navigation bar includes the following menu options and links:
+Home: Takes you to the main page of the website.
+Services: Link directs user to services page.
+About: Link directs user to about page.
+Contact: Link directs user to contact information and form.
+
+Visual Feedback: When a menu option is selected, the text will transform to white, with a dark green background, and will be underlined. This visual feedback is designed to enhance the user experience, making it clear which page you are currently on.
+
+Fixed Position: The navigation bar is "fixed," which means it remains at the top of the screen even as users scroll down the page. This design feature ensures that users don't have to scroll back to the top when they want to access a different page, providing a seamless and convenient browsing experience.
 *![Navigation Bar](../WalkingWithTalitha/readme.docs/nav-bar.png)
+
+*![Navigation Bar Close](../WalkingWithTalitha/readme.docs/navbar-closed.png) *![Navigation Bar Close](../WalkingWithTalitha/readme.docs/navbar-open.png)
 
 ### Home Page Header Image & Logo
 
