@@ -387,6 +387,7 @@ td {
     background-size: cover;
     background-position: 80%;
     background-repeat: no-repeat;
+    background-color: #D7F2DD;
 
 
 }
@@ -395,6 +396,7 @@ td {
     background-image: url(../images/white-dog.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: #D7F2DD;
 
 }
 
@@ -403,6 +405,7 @@ td {
     background-size: cover;
     background-position: 80%;
     background-repeat: no-repeat;
+    background-color: #D7F2DD;
 }
 
 .service-fourth-image {
@@ -410,6 +413,7 @@ td {
     background-size: cover;
     background-position: 20%;
     background-repeat: no-repeat;
+    background-color: #D7F2DD;
 }
 
 .service-fifth-image {
@@ -417,6 +421,7 @@ td {
     background-size: cover;
     background-position: 50%;
     background-repeat: no-repeat;
+    background-color: #D7F2DD;
 
 }
 
@@ -425,12 +430,14 @@ td {
     background-size: cover;
     background-position: 30%;
     background-repeat: no-repeat;
+    background-color: #D7F2DD;
 }
 
 .service-seventh-image {
     background-image: url(../images/tiff.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: #D7F2DD;
 }
 /*AboutPage*/
 .about h1 {
