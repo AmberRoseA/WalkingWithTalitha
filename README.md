@@ -6,9 +6,11 @@ Welcome to the README for "Walking With Talitha". This web design aims to create
 
 The business owner, after great success in starting her own business back in 2020 has decided the next evolutionary stage for this continuously expanding business – a brand-new, high-quality website!
 
+*![Responsive Screen](../WalkingWithTalitha/readme.docs/responsivescreen.png)
+
 ## FEAUTURES
 
-Key Existing Features
+## Key Existing Features
 
 ### Navigation 
 
@@ -93,25 +95,31 @@ Typography and Color Scheme
 The website's color scheme is inspired by the business logo, emphasizing greens and pastel light colors for a visually appealing contrast. The font choice, "Wellfleet," is both readable and gentle, in line with the nurturing image the business aims to project.
 ---INSERT MOOD BORED WITH COLORS IMAGES AND TYPOGRapghy----
 
+## FUTURE FEATURES
+
+* Booking or Scheduling System: An optional feature that allows clients to book and schedule services online. This can include a calendar, availability, and payment options. Saving time on the owner doing manual admin.
+* Testimonials and Reviews page: A dedicated section for client testimonials and reviews that they can put straight on the site.
+* Blog or News Section: Articles, updates, or blog posts related to dog care, training tips, or pet health. Regularly updated content to engage visitors and position the dog walker as an expert. Also gets the viewers/customers enaging with the site on a social level not just a consumer level.
+
 ### WIREFRAMES
 
 #### Mobile Screens
 
 ##### Home Screen 
 
-*![home_page](assets/doc/home-page-mobile-wireframe.JPG)
+*![home_page](../WalkingWithTalitha/readme.docs/home-page-mobile-wireframe.JPG)
         
 Included two essential anchors on all screen sizes:
 Logo Anchor: The website logo, when clicked, serves as an anchor to bring the viewer back to the index.html page, offering a convenient way to return to the homepage.
 Top Right Welcome Sign: In the top right corner of the navigation bar, you will find a welcome sign. Clicking this sign also acts as an anchor to return to the homepage, ensuring easy and intuitive navigation.
 
-*![home_page~nav](assets/doc/home-page-navtoggle-wireframe.jpg)
+*![home_page~nav](../WalkingWithTalitha/readme.docs/home-page-navtoggle-wireframe.jpg)
         
  The navigation toggle bar is positioned at the top of the mobile screen. Placing it at the top ensures it's the first element a viewer sees when they access the website. This prominent placement enhances accessibility and encourages users to interact with the navigation options.
 
 ##### Service Screen
 
-*![service_page](assets/doc/service-page-mobile-wireframe.jpg)
+*![service_page](../WalkingWithTalitha/readme.docs/service-page-mobile-wireframe.jpg)
 
 Please note at this point that the wireframe images, specifically the nav and footer do not match the previous wireframes, they would still have the same layout on the web doc. 
 The nav and footer would move as the screen scrolls being in a fixed or sticky positions. The heading elements and image would also be on this page like all the other pages but would not be visable as we scroll down.
@@ -122,7 +130,7 @@ The service page is a vital one in this site as has all the importan information
 Aim to make this section more intimate by allowing viewers to get to know the owner on a personal level. Through a brief and friendly introduction, we provide insights into her background, passion for the business, and what drives her commitment to providing exceptional services. This personal touch is a key factor in securing viewers' trust to create a sense of familiarity and relatability, building trust and rapport with the audience.
 Incorporating images of reviews from satisfied customers adds authenticity and credibility through the gallery showcasing these qualities. To add an endearing and charming element to our "About" section, we include images of our happy dog customers. This not only showcases the love and care we provide to our furry clients but also brings a smile to the viewer's face. It's a delightful way to create an emotional connection with our audience.
 
-*![about_page, contact_page](assets/doc/about-contact-mobile-wireframe.jpg)
+*![about_page, contact_page](../WalkingWithTalitha/readme.docs/about-contact-mobile-wireframe.jpg)
         
 ##### Contact Screen
 
@@ -131,7 +139,20 @@ One of the primary features of the "Contact" page is the inclusion of a user-fri
 
 #### Medium to Large screens Wireframes
 
-### Database structure(PP3, PP4, PP5)
+### TECHNOLOGIES
+
+* Mockup https://getmockup.app/ --To create wireframes
+* HTML --To create content
+* CSS --To style content
+* Codeanywhere --Integrated Development Environment  (write, edit and develop code)
+* Github --Host source code and deploy
+* Chrome DevTools --inspect/ lighthouse
+* Favicon.io --Favicon Generator
+* Replit --First coding platform I practiced with
+* Wave Evaluation Tool --WILL USe
+* W2C validator --WILL USE
+* Am I Responsive? - ui.dev <https://ui.dev/amiresponsive> --showcasing sites responsiveness on multiple screens
+* ChatGBT --Explaining elements in more detail/ reminding me on how create the code I want/ giving me examples of good content for my site ext.
 
 
 ## TESTING
@@ -144,20 +165,6 @@ One of the primary features of the "Contact" page is the inclusion of a user-fri
 
 
 ## SOURCE CITATION
-
-### TECHNOLOGIES
-
-* Mockup https://getmockup.app/ --To create wireframes
-* HTML --To create content
-* CSS --To style content
-* Codeanywhere --Integrated Development Environment  (write, edit and develop code)
-* Github --Host source code and deploy
-* ChatGBT --Explaining elements in more detail/ reminding me on how create the code I want/ giving me examples of good content for my site ext.
-* Favicon.io --Favicon Generator
-* Replit --First coding platform I practiced with
-* Wave Evaluation Tool --WILL USe
-* W2C validator --WILL USE
-
 
 ### CREDITS
 
@@ -174,20 +181,13 @@ One of the primary features of the "Contact" page is the inclusion of a user-fri
 * https://www.we-love-pets.co.uk/ --For layout inspo
 * AsiaWi/hygge_life https://github.com/AsiaWi/hygge_life/tree/main --README file
 * Cheat Sheet https://docs.emmet.io/cheat-sheet/ --code shortcuts
+* Rohit Sharma (Mentor) -- For guidence and edvice.
 * Talitha Bailey/ Walking With Talitha --Being my muse
 
 ### MEDIA
 
 * Walking With Talitha Logo --Designed by Amber Andrews (me) intellectual property of Talitha Bailey, the owner of 'Walking with Talitha'.
-* The Header image --featuring the dog, is the intellectual property of Talitha Bailey. It has been edited with an AI-generated background from Pixelcut [Link to Pixelcut: https://www.pixelcut.ai/]."
-* All images on this website, including those on the Home Page, About page gallery, Services page background, etc., are used with permission and are the intellectual property of Talitha Bailey, the owner of 'Walking with Talitha' [Link to Facebook page: https://www.facebook.com/WalkingwithTalitha.]
+* All images on this website, including those on the Header,Home Page, About page gallery, Services page background, etc., are used with permission and are the intellectual property of Talitha Bailey, the owner of 'Walking with Talitha' [Link to Facebook page: https://www.facebook.com/WalkingwithTalitha.]
 * Font Awesome --Icons used
-* Favicon.io <https://favicon.io/favicon-converter> --Favicon Generator
-
-## FUTURE FEATURES
-
-
-* Booking or Scheduling System: An optional feature that allows clients to book and schedule services online. This can include a calendar, availability, and payment options. Saving time on the owner doing manual admin.
-* Testimonials and Reviews page: A dedicated section for client testimonials and reviews that they can put straight on the site.
-* Blog or News Section: Articles, updates, or blog posts related to dog care, training tips, or pet health. Regularly updated content to engage visitors and position the dog walker as an expert. Also gets the viewers/customers enaging with the site on a social level not just a consumer level.
-    
+* Favicon.io https://favicon.io/favicon-converter --Favicon Generator
+* Typography -- Google Fonts
