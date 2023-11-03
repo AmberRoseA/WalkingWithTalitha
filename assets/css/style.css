@@ -237,21 +237,25 @@ h2 {
 /*HomePage*/
 .first-home-img {
     background-image: url(../images/crazy-dog.jpg);
+    background-color: #ADD8E6;
     
 } 
 
 .second-home-img {
     background-image: url(../images/group-muddogs.jpg);
+    background-color: #ADD8E6;
    
 }
 
 .third-home-img {
     background-image: url(../images/beahcwhite-dog.jpg);
+    background-color: #ADD8E6;
     
 }
 
 .fourth-home-img {
     background-image: url(../images/twodogs.jpg);
+    background-color: #ADD8E6;
     
 }
 
