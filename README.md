@@ -27,13 +27,24 @@ Visual Feedback: When a menu option is selected, the text will transform to whit
 Fixed Position: The navigation bar is "fixed," which means it remains at the top of the screen even as users scroll down the page. This design feature ensures that users don't have to scroll back to the top when they want to access a different page, providing a seamless and convenient browsing experience.
 *![Navigation Bar](../WalkingWithTalitha/readme.docs/nav-bar.png)
 
+### Responsive Navigation Bar
+Our website features a responsive navigation bar to ensure an optimal viewing experience on smaller screens, such as mobile devices. Here's how it adapts:
+Mobile-Friendly Design: On smaller screens, the navigation bar undergoes a transformation. Instead of displaying all pages simultaneously, we utilize a menu icon, conserving screen space while keeping the font size intact.
+Dropdown Menu: When users click the menu icon, a dropdown menu appears, presenting the available options in a clear and user-friendly manner. This makes it easy for users to select the page they wish to visit.
+Auto-Collapse: The dropdown menu automatically collapses once a page has been selected, maintaining a tidy and uncluttered interface.
+Consistent Styling: Just like in the desktop version, the selected page on the mobile navigation bar maintains the same styling, distinguishing it from the other available options. This ensures a seamless and visually consistent user experience across all screen sizes.
+
 *![Navigation Bar Close](../WalkingWithTalitha/readme.docs/navbar-closed.png) *![Navigation Bar Close](../WalkingWithTalitha/readme.docs/navbar-open.png)
 
-### Home Page Header Image & Logo
+### Header Image & Logo
+
+*![Header](../WalkingWithTalitha/readme.docs/header-img.png)
 
 ### Home Page 'Your Trusted Dog Walking Companion' - 
 
 ### Footer
+
+*![Footer](../WalkingWithTalitha/readme.docs/footer.png)
 
 ### Services Page
 
@@ -43,13 +54,37 @@ Fixed Position: The navigation bar is "fixed," which means it remains at the top
 
 ### About Page
 
-#### Happy Customer Gallery
+#### Happy Customer Gallery on About Page
 
-### Contact Page 
+*![Happy Customers Gallery](../WalkingWithTalitha/readme.docs/aboutpage-gallery.png)
+
+#### Responsive Happy Customer Gallery on About Page
+
+*![Happy Customers Gallery iPad Screens](../WalkingWithTalitha/readme.docs/aboutpage-gallery-ipad.png)
+*![Happy Customers Gallery Mobile Screens](../WalkingWithTalitha/readme.docs/aboutpage-gallery-mobile.png)
+
+### Contact Page
+
+*![Contact Details](../WalkingWithTalitha/readme.docs/contactpage-details.png)
 
 #### Contact Form
 
+*![Contact Form](../WalkingWithTalitha/readme.docs/contactpage-form.png)
 
+#### Responsive Contact Form
+
+*![Contact Form Ipad Screen](../WalkingWithTalitha/readme.docs/contactpage-form-ipad.png)
+*![Contact Form Mobile Screen](../WalkingWithTalitha/readme.docs/contactpage-form-mobile.png)
+
+#### Maps
+
+*![Maps](../WalkingWithTalitha/readme.docs/contactpage-maps.png)
+
+#### Responsive Maps
+
+*![Maps iPad Screens](../WalkingWithTalitha/readme.docs/contactpage-detail-maps-ipad.png) 
+
+*![Maps Mobile screens](../WalkingWithTalitha/readme.docs/contactpage-details-maps-mobile.png)
    
 ## UX/UI SECTION
 
