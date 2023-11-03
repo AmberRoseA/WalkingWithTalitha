@@ -27,6 +27,10 @@ p {
     text-align: center;
 }
 
+.header-top-title {
+    display: none;
+}
+
 /*...........Header.........*/
 
 .welcome-nav {
@@ -165,7 +169,7 @@ header a {
     word-spacing: 2px;
     padding-left: 15px;
     position: relative;
-    top: 350px;
+    top: 80%;
     width: 100%;
 
 }
