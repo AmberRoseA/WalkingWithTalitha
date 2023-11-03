@@ -6,7 +6,7 @@ Welcome to the README for "Walking With Talitha". This web design aims to create
 
 The business owner, after great success in starting her own business back in 2020 has decided the next evolutionary stage for this continuously expanding business – a brand-new, high-quality website!
 
-*![responsive_screen](../readme.docs/responsivescreen.png)
+*![responsive_screen](assets/images/responsivescreen.png)
 
 ## FEAUTURES
 
@@ -25,7 +25,8 @@ Contact: Link directs user to contact information and form.
 Visual Feedback: When a menu option is selected, the text will transform to white, with a dark green background, and will be underlined. This visual feedback is designed to enhance the user experience, making it clear which page you are currently on.
 
 Fixed Position: The navigation bar is "fixed," which means it remains at the top of the screen even as users scroll down the page. This design feature ensures that users don't have to scroll back to the top when they want to access a different page, providing a seamless and convenient browsing experience.
-*![navigation_Bar](../readme.docs/nav-bar.png)
+
+*![navigation_Bar](assets/readme.docs/nav-bar.png)
 
 ### Responsive Navigation Bar
 Our website features a responsive navigation bar to ensure an optimal viewing experience on smaller screens, such as mobile devices. Here's how it adapts:
@@ -34,17 +35,17 @@ Dropdown Menu: When users click the menu icon, a dropdown menu appears, presenti
 Auto-Collapse: The dropdown menu automatically collapses once a page has been selected, maintaining a tidy and uncluttered interface.
 Consistent Styling: Just like in the desktop version, the selected page on the mobile navigation bar maintains the same styling, distinguishing it from the other available options. This ensures a seamless and visually consistent user experience across all screen sizes.
 
-*![navigation_bar_close](../readme.docs/navbar-closed.png) *![navigation_bar_close](../readme.docs/navbar-open.png)
+*![navigation_bar_close](assets/readme.docs/navbar-closed.png) *![navigation_bar_close](assets/readme.docs/navbar-open.png)
 
 ### Header Image & Logo
 
-![header](..//readme.docs/header-img.png)
+![header](assets/readme.docs/header-img.png)
 
 ### Home Page 'Your Trusted Dog Walking Companion' - 
 
 ### Footer
 
-![footer](../readme.docs/footer.png)
+![footer](assets/readme.docs/footer.png)
 
 ### Services Page
 
@@ -56,37 +57,37 @@ Consistent Styling: Just like in the desktop version, the selected page on the m
 
 #### Happy Customer Gallery on About Page
 
-![happy_customers_gallery](../readme.docs/aboutpage-gallery.png)
+![happy_customers_gallery](assets/readme.docs/aboutpage-gallery.png)
 
 #### Responsive Happy Customer Gallery on About Page
 
-![happy_customers_gallery_ipad_screens](../readme.docs/aboutpage-gallery-ipad.png)
+![happy_customers_gallery_ipad_screens](assets/readme.docs/aboutpage-gallery-ipad.png)
 
-![happy_customers_gallery_mobile_screens](../readme.docs/aboutpage-gallery-mobile.png)
+![happy_customers_gallery_mobile_screens](assets/readme.docs/aboutpage-gallery-mobile.png)
 
 ### Contact Page
 
-![contact_details](../readme.docs/contactpage-details.png)
+![contact_details](assets/readme.docs/contactpage-details.png)
 
 #### Contact Form
 
-![contact_form](../readme.docs/contactpage-form.png)
+![contact_form](assets/readme.docs/contactpage-form.png)
 
 #### Responsive Contact Form
 
-![contact_form_ipad_screen](../readme.docs/contactpage-form-ipad.png)
+![contact_form_ipad_screen](assets/readme.docs/contactpage-form-ipad.png)
 
-![contact_form_mobile_screen](../readme.docs/contactpage-form-mobile.png)
+![contact_form_mobile_screen](assets/readme.docs/contactpage-form-mobile.png)
 
 #### Maps
 
-![maps](../readme.docs/contactpage-maps.png)
+![maps](assets/readme.docs/contactpage-maps.png)
 
 #### Responsive Maps
 
-![Maps_iPad_Screens](../readme.docs/contactpage-detail-maps-ipad.png) 
+![maps_ipad_screens](assets/readme.docs/contactpage-detail-maps-ipad.png) 
 
-![Maps_Mobile_Screens](../readme.docs/contactpage-details-maps-mobile.png)
+![maps_mobile_screens](assets/readme.docs/contactpage-details-maps-mobile.png)
    
 ## UX/UI SECTION
 
@@ -106,13 +107,13 @@ Targeting the Right Audience:  potential clients aren't just on social media –
 
 ### Who This Website Is Intended For:
 
-Local Pet Parents: For those seeking a trustworthy dog walking and sitting service, in their area. Also, those who are looking to treat their pets to day trips out, or those who are looking to socials their dogs.
+* Local Pet Parents: For those seeking a trustworthy dog walking and sitting service, in their area. Also, those who are looking to treat their pets to day trips out, or those who are looking to socials their dogs.
 
-Busy Professionals: People with demanding schedules will appreciate the convenience of a dedicated professional tending to their pet’s needs.
+* Busy Professionals: People with demanding schedules will appreciate the convenience of a dedicated professional tending to their pet’s needs.
 
-Holiday Goers: The worries of leaving your pet behind made at ease with services of house sitting so pets can keep to the comfort of their house with a trusted friend to keep them company and safe while the owners can relax while away.
+* Holiday Goers: The worries of leaving your pet behind made at ease with services of house sitting so pets can keep to the comfort of their house with a trusted friend to keep them company and safe while the owners can relax while away.
 
-Those with injuries or disabilities: Those that may not be physically able to keep up with the demand of their energetic pooch.
+* Those with injuries or disabilities: Those that may not be physically able to keep up with the demand of their energetic pooch.
 
 ### USER Stories-
 
@@ -159,19 +160,19 @@ The website's color scheme is inspired by the business logo, emphasizing greens 
 
 ##### Home Screen 
 
-![home_page](../readme.docs/home-page-mobile-wireframe.JPG)
+![home_page](assets/readme.docs/home-page-mobile-wireframe.JPG)
         
 Included two essential anchors on all screen sizes:
 Logo Anchor: The website logo, when clicked, serves as an anchor to bring the viewer back to the index.html page, offering a convenient way to return to the homepage.
 Top Right Welcome Sign: In the top right corner of the navigation bar, you will find a welcome sign. Clicking this sign also acts as an anchor to return to the homepage, ensuring easy and intuitive navigation.
 
-![home_page_nav](../readme.docs/home-page-navtoggle-wireframe.jpg)
+![home_page_nav](assets/readme.docs/home-page-navtoggle-wireframe.jpg)
         
  The navigation toggle bar is positioned at the top of the mobile screen. Placing it at the top ensures it's the first element a viewer sees when they access the website. This prominent placement enhances accessibility and encourages users to interact with the navigation options.
 
 ##### Service Screen
 
-![service_page](../readme.docs/service-page-mobile-wireframe.jpg)
+![service_page](assets/readme.docs/service-page-mobile-wireframe.jpg)
 
 Please note at this point that the wireframe images, specifically the nav and footer do not match the previous wireframes, they would still have the same layout on the web doc. 
 The nav and footer would move as the screen scrolls being in a fixed or sticky positions. The heading elements and image would also be on this page like all the other pages but would not be visable as we scroll down.
@@ -182,7 +183,7 @@ The service page is a vital one in this site as has all the importan information
 Aim to make this section more intimate by allowing viewers to get to know the owner on a personal level. Through a brief and friendly introduction, we provide insights into her background, passion for the business, and what drives her commitment to providing exceptional services. This personal touch is a key factor in securing viewers' trust to create a sense of familiarity and relatability, building trust and rapport with the audience.
 Incorporating images of reviews from satisfied customers adds authenticity and credibility through the gallery showcasing these qualities. To add an endearing and charming element to our "About" section, we include images of our happy dog customers. This not only showcases the love and care we provide to our furry clients but also brings a smile to the viewer's face. It's a delightful way to create an emotional connection with our audience.
 
-![about_page_contact_page](../readme.docs/about-contact-mobile-wireframe.jpg)
+![about_page_contact_page](assets/readme.docs/about-contact-mobile-wireframe.jpg)
         
 ##### Contact Screen
 
@@ -233,33 +234,33 @@ Fix
 ISsues
 Fix
 
-With the use of Chrome Devtools able to check differant device sizes
-1. Right click on web
-2. Select inspect
-3. Select device of choice, top left of screen.
+* With the use of Chrome Devtools able to check differant device sizes
 
-Also with the help of this dool can choose option for responsive to change the height and width manually
+    * Right click on web
+    * Select inspect
+    * Select device of choice, top left of screen.
 
-1. Right click on web
-2. Select inspect
-3. Select Responsive, top left of screen.
+* Also with the help of this dool can choose option for responsive to change the height and width manually
+
+    * Right click on web
+    * Select inspect
+    * Select Responsive, top left of screen.
 
 #### Function Testing
 
-*Anchor to Home page LinK
+* Anchor to Home page LinK
 
-    *Checked when either anchor is clicked page goes to home page. Checked each html file for both Anchors. All links work as expected.
+    * Checked when either anchor is clicked page goes to home page. Checked each html file for both Anchors. All links work as expected.
 
 |ANCHOR LINK | DESTINATION PAGE|
 |------------|-----------------|
 |Welcome     |  index.html     |
 |Logo        |  index.html     |
-|------------|-----------------|
 
 
-*Navigation Links
+* Navigation Links
 
-    *All links have been checked from each page to make sure they take us to correct page. All links work as expected.
+    * All links have been checked from each page to make sure they take us to correct page. All links work as expected.
 
 |NAVIGATION LINK| DESTINATION PAGE|
 |---------------|-----------------|
@@ -267,9 +268,9 @@ Also with the help of this dool can choose option for responsive to change the h
 |Services       | service.html    |
 |About          | about.html      |
 |Contact        | contact.html    |
-|---------------|-----------------|
 
-*Footer Social Media Icon Links
+
+* Footer Social Media Icon Links
 
     * Both icons have the correct link and both links open in a new tab to the correct webpage. Every html page was tested manually
 
@@ -277,96 +278,100 @@ Also with the help of this dool can choose option for responsive to change the h
 |-------------------------|------------------------------------------------|-----------------------------|
 |Facebook icon            |  https://www.facebook.com/WalkingwithTalitha   |            Yes              |
 |Instagram icon           |  https://www.instagram.com/walkingwithtalitha/ |            Yes              |
-|-------------------------|------------------------------------------------|-----------------------------|
 
-*Contact page -- Form
 
-All inputs, including those with "type=text" and "type=email" attributes, have been set to "required." If one or more fields are left incomplete, the "send message" option does not function, which aligns with the expected behavior.
+* Contact page -- Form
 
-    [form_names](../readme.docs/form-missingfirst-name-testing.png) [form_names](../WalkingWithTalitha/readme.docs/form-missinglast-name-testing.png)
+    * All inputs, including those with "type=text" and "type=email" attributes, have been set to "required." If one or more fields are left incomplete, the "send message" option does not function, which aligns with the expected behavior.
 
-In the case of the email field, it is designed to reject incorrect email formats, as anticipated.
+        [form_names](assets/readme.docs/form-missingfirst-name-testing.png) [form_names](assets/readme.docs/form-missinglast-name-testing.png)
 
-    [form_email](../readme.docs/form-missingemail-testing.png)
+    * In the case of the email field, it is designed to reject incorrect email formats, as anticipated.
 
-All input fields, with the exception of the message box, are equipped with an autocomplete attribute, tailored to ensure accessibility for users with specific needs.
+        [form_email](assets/readme.docs/form-missingemail-testing.png)
 
-    ![form_auto](../readme.docs/form-autofill.png)
+    * All input fields, with the exception of the message box, are equipped with an autocomplete attribute, tailored to ensure accessibility for users with specific needs.
 
-When all fields are submitted correctly, the user is directed to the "confirmation.html" page, this page opens in a new tab,which is in line with the expected outcome.
+        ![form_auto](assets/readme.docs/form-autofill.png)
 
-    ![confimation-page](../readme.docs/confimation-page.png)
+    * When all fields are submitted correctly, the user is directed to the "confirmation.html" page, this page opens in a new tab,which is in line with the expected outcome.
+
+        ![confimation-page](assets/readme.docs/confimation-page.png)
 
 
 
 ### Validator Testing
 
-HTMl -- No errors were found when code inputted through official WSC Validator. --https://validator.w3.org/#validate_by_input
+* HTMl -- No errors were found when code inputted through official WSC Validator. --https://validator.w3.org/#validate_by_input
 
-*![html_validator](../readme.docs/html-validator.jpg)
+    *![html_validator](assets/readme.docs/html-validator.jpg)
 
-Steps -- 
-1. Open deployed document
-2. Right click page
-3. View page source / Ctrl+U
-4. (Page Html code will open in next tab) Copy all Ctrl+A Ctrl+C
-5. Open <https://validator.w3.org/>
-6. Click the third option ‘Validate by direct input’
-7. In text field paste code/ Ctrl+V
-8. Click button below labelled ‘Check’
-9. See for any errors in code/ No errors in document message.
-10. Repeat process for each html file.
+    * Steps -- 
+        * Open deployed document
+        * Right click page
+        * View page source / Ctrl+U
+        * (Page Html code will open in next tab) Copy all Ctrl+A Ctrl+C
+        * Open <https://validator.w3.org/>
+        * Click the third option ‘Validate by direct input’
+        * In text field paste code/ Ctrl+V
+        * Click button below labelled ‘Check’
+        * See for any errors in code/ No errors in document message.
+        * Repeat process for each html file.
 
 
-CSS -- No errors were found when code inputted through official WSC Validator. (JIGSAW) --https://jigsaw.w3.org/css-validator
+* CSS -- No errors were found when code inputted through official WSC Validator. (JIGSAW) --https://jigsaw.w3.org/css-validator
 
-![css_validator](../readme.docs/css-validator.jpg)
+    ![css_validator](assets/readme.docs/css-validator.jpg)
 
-Steps --
+    * Steps --
 
-1. Open deployed document
-2. Right click page
-3. View page source / Ctrl+U
-4. (Page Html code will open in next tab) click on stylesheet css path <link rel="stylesheet" href="assets/css/style.css">
-5. Copy all Ctrl+A Ctrl+C
-6. Open <https://jigsaw.w3.org/css-validator/>
-7. Click the third option ‘Validate by direct input’
-8. In text field paste code/ Ctrl+V
-9. Click button below labelled ‘Check’
-10. See for any errors in code/ No errors in document message.
+        * Open deployed document
+        * Right click page
+        * View page source / Ctrl+U
+        * (Page Html code will open in next tab) click on stylesheet css path <link rel="stylesheet" href="assets/css/style.css">
+        * Copy all Ctrl+A Ctrl+C
+        * Open <https://jigsaw.w3.org/css-validator/>
+        * Click the third option ‘Validate by direct input’
+        * In text field paste code/ Ctrl+V
+        * Click button below labelled ‘Check’
+        * See for any errors in code/ No errors in document message.
 
 
 
 ### Lighthouse 
 Home--Desktop & Mobile
 
-![lightHouse_home_desktop](../readme.docs/lighthouse-home-desktop.jpg)
+![lightHouse_home_desktop](assets/readme.docs/lighthouse-home-desktop.jpg)
 
-![lightHouse_home_mobile](../readme.docs/lighthouse-home-mobile.jpg)
+![lightHouse_home_mobile](assets/readme.docs/lighthouse-home-mobile.jpg)
 
 Services--Desktop & Mobile
 
-![lightHouse_services_desktop](../readme.docs/lighthouse-services-desktop.jpg)
+![lightHouse_services_desktop](assets/readme.docs/lighthouse-services-desktop.jpg)
 
-![LightHouse_Services_Mobile](../readme.docs/lighthouse-services-mobile.jpg)
+![LightHouse_Services_Mobile](assets/readme.docs/lighthouse-services-mobile.jpg)
 
 About--Desktop & Mobile
 
-![lightHouse_about_desktop](../readme.docs/lighthouse-about-desktop.jpg)
+![lightHouse_about_desktop](assets/readme.docs/lighthouse-about-desktop.jpg)
 
-![lighthouse_about_mobile](../readme.docs/lighthouse-about-mobile.jpg)
+![lighthouse_about_mobile](assets/readme.docs/lighthouse-about-mobile.jpg)
 
 Contact--Desktop & Mobile
 
-![lighthouse_contact_desktop](../readme.docs/lighthouse-contact-desktop.jpg)
+![lighthouse_contact_desktop](assets/readme.docs/lighthouse-contact-desktop.jpg)
 
-![lighthouse_contact_mobile](../readme.docs/lighthouse-contact-mobile.jpg)
+![lighthouse_contact_mobile](assets/readme.docs/lighthouse-contact-mobile.jpg)
+
+Confirmation-- Desktop & Mobile
+
 
 
 
 ### Unfixed Bugs
 
 ## DEPLOYMENT
+
 The Walking With Talitha site was deployed to GitHub Pages.
 
 ### Steps
