@@ -206,8 +206,28 @@ One of the primary features of the "Contact" page is the inclusion of a user-fri
 
 
 ## TESTING
+
+### Manual Testing
 ### Validator Testing
 (W3C VALIDATOR AND JISSAW VALIDATOR INCLUDE IMG)
+
+### Lighthouse 
+Home--Desktop & Mobile
+*![LightHouse Home Desktop](../WalkingWithTalitha/readme.docs/lighthouse-home-desktop.jpg)
+*![LightHouse Home Mobile](../WalkingWithTalitha/readme.docs/lighthouse-home-mobile.jpg)
+
+Services--Desktop & Mobile
+*![LightHouse Services Desktop](../WalkingWithTalitha/readme.docs/lighthouse-services-desktop.jpg)
+*![LightHouse Services Mobile](../WalkingWithTalitha/readme.docs/lighthouse-services-mobile.jpg)
+
+About--Desktop & Mobile
+*![LightHouse About Desktop](../WalkingWithTalitha/readme.docs/lighthouse-about-desktop.jpg)
+*![LightHouse About Mobile](../WalkingWithTalitha/readme.docs/lighthouse-about-mobile.jpg)
+
+Contact--Desktop & Mobile
+*![LightHouse Contact Desktop]
+*![LightHouse Contact Mobile]
+
 ### Unfixed Bugs
 
 ## DEPLOYMENT
