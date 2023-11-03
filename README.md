@@ -153,7 +153,7 @@ explore for those who love seeing lots of pictures of adorable dogs
 
 #### Responsive Happy Customer Gallery on About Page
 
-*This section is designed to be screen-responsive, gracefully adjusting its layout as the screen size 
+* This section is designed to be screen-responsive, gracefully adjusting its layout as the screen size 
 decreases, all while maintaining the visual proportions and overall presentation.
 
 ![happy_customers_gallery_ipad_screens](assets/readme.docs/aboutpage-gallery-ipad.png)
@@ -235,6 +235,28 @@ Targeting the Right Audience:  potential clients aren't just on social media –
 
 ### USER Stories-
 
+#### As A Site Viewer
+
+* I want an easily navigated menu and content display
+* I want clear information of the services provided and the corresponding costs
+* I want clear information about the services im looking at
+* I want to be able to see reviews and know a business credibility
+* I want to be able to see where the business is located
+* I want to be able to find business contact details easily
+* I want to be able to see information about the owner
+* I want to see the owners social media pages
+* I want to be able to send a message to the business owner through the website
+* I want to be notified if my message has been sent successfully
+* I want visually appealing content to look at while I'm browsing the site
+
+#### As Business Owner
+
+* I want to have a professional and informative website that showcases my services, experience, and testimonials, so I can attract potential clients and build trust with them.
+* As a business owner, I want to have an easy-to-use content management system on my website, allowing me to update my services, pricing, and availability in real-time, so I can keep my clients informed and my website up-to-date.
+* I want to include a contact form on my website, enabling potential clients to reach out to me easily, so I can quickly respond to inquiries and schedule dog walking appointments.
+* I want to integrate a scheduling and booking system into my website, allowing clients to request and book dog walks online, streamlining the appointment process and reducing administrative tasks.
+* I want to utilize analytics and reporting tools on my website to track user engagement, monitor the effectiveness of marketing efforts, and gather data to make informed decisions to grow and improve my dog walking business and attract more customers.
+
 #### As A Pet Owner:
 
 * I want to find a local dog walker service to care for my gog while I'm at work.
@@ -249,15 +271,7 @@ Targeting the Right Audience:  potential clients aren't just on social media –
 * I want to locate a reliable local dog walker company that provides on-demand services for my unpredictable work schedule.
 * As a dog owner, I want to visit the individual dog walker's website to learn about their experience, services, and pricing, so I can make an informed decision about hiring them to walk my dog.
 * As a dog owner, I want to access a calendar on the website to check the available time slots for dog walks and choose a convenient time for my dog's exercise.
-* As a dog owner, I want to read reviews and testimonials from other clients on the website to gain confidence in the dog walker's reliability and the quality of their service.
-         
-#### As Business Owner:
-
-* I want to have a professional and informative website that showcases my services, experience, and testimonials, so I can attract potential clients and build trust with them.
-* As a business owner, I want to have an easy-to-use content management system on my website, allowing me to update my services, pricing, and availability in real-time, so I can keep my clients informed and my website up-to-date.
-* I want to include a contact form on my website, enabling potential clients to reach out to me easily, so I can quickly respond to inquiries and schedule dog walking appointments.
-* I want to integrate a scheduling and booking system into my website, allowing clients to request and book dog walks online, streamlining the appointment process and reducing administrative tasks.
-* I want to utilize analytics and reporting tools on my website to track user engagement, monitor the effectiveness of marketing efforts, and gather data to make informed decisions to grow and improve my dog walking business and attract more customers. 
+* As a dog owner, I want to read reviews and testimonials from other clients on the website to gain confidence in the dog walker's reliability and the quality of their services. 
 
 ### DESIGN
 Typography and Color Scheme
