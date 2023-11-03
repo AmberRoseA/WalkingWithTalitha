@@ -141,7 +141,7 @@ Targeting the Right Audience:  potential clients aren't just on social media –
 
 #### As A Pet Owner:
 
-* I want to find a local dog walker service to care for my pup while I'm at work.
+* I want to find a local dog walker service to care for my gog while I'm at work.
 * I want to discover a local dog walker business to ensure my dog's well-being during my vacation.
 * I want to connect with a local dog walker for my puppy's exercise and socialization.
 * I want to find a local dog walker service for my dog's exercise needs due to my limited mobility.
