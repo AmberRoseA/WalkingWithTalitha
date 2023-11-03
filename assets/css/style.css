@@ -448,16 +448,6 @@ td {
     background-color: #D7F2DD;
 }
 /*AboutPage*/
-.about-top-title {
-    font-family: 'Bebas Neue', sans-serif;
-    color: #527a5a;
-    font-size: 49px;
-    text-decoration: underline;
-    letter-spacing: 2px;
-    text-align: center;
-    padding-top: 10%;
-}
-
 .about-headers-three {
     padding-top: 10%;
     padding-bottom: 10%;
@@ -878,6 +868,7 @@ footer {
     .about-image-tal {
         margin-right: 10%;
         padding-left: 0;
+        width: 40%;
 
     }
 
@@ -885,23 +876,25 @@ footer {
         column-count: 4;
     }
     
-    .about-top-title {
-        font-size: 5em;
-        padding-top: 0;
-    }
-
     .about-headers-three {
         font-size: 4em;
         padding-top: 5%;
     }
     .about ul {
-        margin-left: 20%;
+        margin-left: 10%;
         margin-right: 20%;
         font-size: 3em;
+        width: 80%;
+    }
+
+    .about ul li {
+        padding: 0 0 0 7px;
+        margin-bottom: 2%;
     }
 
     .about p {
         font-size: 1.7em;
+        padding-left: 15%;
     }
 
     /*Contact*/

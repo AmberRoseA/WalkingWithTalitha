@@ -6,7 +6,7 @@ Welcome to the README for "Walking With Talitha". This web design aims to create
 
 The business owner, after great success in starting her own business back in 2020 has decided the next evolutionary stage for this continuously expanding business – a brand-new, high-quality website!
 
-*![responsive_screen](assets/images/responsivescreen.png)
+![responsive_screen](assets/readme.docs/responsivescreen.png)
 
 ## FEAUTURES
 
@@ -26,7 +26,7 @@ Visual Feedback: When a menu option is selected, the text will transform to whit
 
 Fixed Position: The navigation bar is "fixed," which means it remains at the top of the screen even as users scroll down the page. This design feature ensures that users don't have to scroll back to the top when they want to access a different page, providing a seamless and convenient browsing experience.
 
-*![navigation_Bar](assets/readme.docs/nav-bar.png)
+![navigation_Bar](assets/readme.docs/nav-bar.png)
 
 ### Responsive Navigation Bar
 Our website features a responsive navigation bar to ensure an optimal viewing experience on smaller screens, such as mobile devices. Here's how it adapts:
@@ -43,6 +43,8 @@ Consistent Styling: Just like in the desktop version, the selected page on the m
 
 ### Home Page 'Your Trusted Dog Walking Companion' - 
 
+![home_page](assets/readme.docs/home-feat.jpg)
+
 ### Footer
 
 ![footer](assets/readme.docs/footer.png)
@@ -51,9 +53,25 @@ Consistent Styling: Just like in the desktop version, the selected page on the m
 
 #### 'Su-Paw-Star Service' table section
 
+![service_table](assets/readme.docs/service-feat.png)
+
 #### 'Paw-sibilities: Our Service in Bone-fide Detail' service breakdown section
 
+![service_breakdown](assets/readme.docs/service-breakdown-feat.png)
+
 ### About Page
+
+#### Business Owner Intro (section on About Page)
+
+![about_intro](assets/readme.docs/about-feat.png)
+
+#### Reasons Why (section on About Page)
+
+![reasons_why](assets/readme.docs/about-why-feat.png)
+
+#### Responsive About page
+
+
 
 #### Happy Customer Gallery on About Page
 
@@ -78,6 +96,10 @@ Consistent Styling: Just like in the desktop version, the selected page on the m
 ![contact_form_ipad_screen](assets/readme.docs/contactpage-form-ipad.png)
 
 ![contact_form_mobile_screen](assets/readme.docs/contactpage-form-mobile.png)
+
+#### Confirmation Page- New Tab upon Correct Completion Of Form
+
+![cofirmation_page](assets/readme.docs/completed-feat.png)
 
 #### Maps
 
@@ -140,8 +162,6 @@ Targeting the Right Audience:  potential clients aren't just on social media –
 * I want to include a contact form on my website, enabling potential clients to reach out to me easily, so I can quickly respond to inquiries and schedule dog walking appointments.
 * I want to integrate a scheduling and booking system into my website, allowing clients to request and book dog walks online, streamlining the appointment process and reducing administrative tasks.
 * I want to utilize analytics and reporting tools on my website to track user engagement, monitor the effectiveness of marketing efforts, and gather data to make informed decisions to grow and improve my dog walking business and attract more customers. 
-
-
 
 ### DESIGN
 Typography and Color Scheme
@@ -284,11 +304,11 @@ Fix
 
     * All inputs, including those with "type=text" and "type=email" attributes, have been set to "required." If one or more fields are left incomplete, the "send message" option does not function, which aligns with the expected behavior.
 
-        [form_names](assets/readme.docs/form-missingfirst-name-testing.png) [form_names](assets/readme.docs/form-missinglast-name-testing.png)
+        ![form_names](assets/readme.docs/form-missingfirst-name-testing.png) ![form_names](assets/readme.docs/form-missinglast-name-testing.png)
 
     * In the case of the email field, it is designed to reject incorrect email formats, as anticipated.
 
-        [form_email](assets/readme.docs/form-missingemail-testing.png)
+        ![form_email](assets/readme.docs/form-missingemail-testing.png)
 
     * All input fields, with the exception of the message box, are equipped with an autocomplete attribute, tailored to ensure accessibility for users with specific needs.
 
@@ -376,15 +396,15 @@ The Walking With Talitha site was deployed to GitHub Pages.
 
 ### Steps
 
-1.	Go to Github repositories.
-2.	Click on "Settings" in the top right of screen.
-3.	Click on "Pages"(tab on the left sidebar under ‘Code and automation’ eight option down)
-4.	Scroll to ‘Build and deployment’ section.
-5.	Find sub-section ‘Branch’
-6.	From drop-down menu "none"/"select branch" choose source "main" (or "master")
-7.	Click "Save"
-8.	Wait until you can see a link for deployed page within Github Page section, wait as this can take a while.
-9.	Once the page updates you will see a message: Your site is live at https://amberrosea.github.io/walkingwithtalitha/
+* Go to Github repositories.
+* Click on "Settings" in the top right of screen.
+* Click on "Pages"(tab on the left sidebar under ‘Code and automation’ eight option down)
+* Scroll to ‘Build and deployment’ section.
+* Find sub-section ‘Branch’
+* From drop-down menu "none"/"select branch" choose source "main" (or "master")
+* Click "Save"
+* Wait until you can see a link for deployed page within Github Page section, wait as this can take a while.
+* Once the page updates you will see a message: Your site is live at https://amberrosea.github.io/walkingwithtalitha/
 
 
 
