@@ -509,7 +509,8 @@ Contact--Desktop & Mobile
 
 Confirmation-- Desktop & Mobile
 
-![lighthous_confirm_]
+![lighthouse_confirm_desktop](assets/readme.docs/lighthouse-confirm-desktop.jpg)
+![lighthouse_fonrim_desktop](assets/readme.docs/lighthouse-confirm-desktop.jpg)
 
 
 
