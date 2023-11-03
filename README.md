@@ -513,14 +513,12 @@ Confirmation-- Desktop & Mobile
 ![lighthouse_fonrim_desktop](readme_files/lighthouse-confirm-desktop.jpg)
 
 
-
-### Unfixed Bugs
-
 ## DEPLOYMENT
 
 The Walking With Talitha site was deployed to GitHub Pages.
+The Walking With Talitha site was deployed with GIT on Codeanywhere
 
-### Steps
+### Steps to Deploying on GitHub
 
 * Go to Github repositories.
 * Click on "Settings" in the top right of screen.
@@ -532,6 +530,22 @@ The Walking With Talitha site was deployed to GitHub Pages.
 * Wait until you can see a link for deployed page within Github Page section, wait as this can take a while.
 * Once the page updates you will see a message: Your site is live at https://amberrosea.github.io/walkingwithtalitha/
 
+### Steps to Deploying on GIT
+
+* Open workspace in codeanywhere 
+* Wait for workspace to load 
+* If terminal is not showing at the bottom of the screen click on 'Terminal' on the top left of page
+* Click the first option 'New Terminal'
+* in Terminal input field type 'python3 -m http.server'
+* A pop up window should appear in bottom, right  of the screen with the option to 'preview' or 'open in browser'
+* Click 'open in broswer' and in a new tab will be the launched website.
+* If this window does not pop up click port in bottom right corner.
+* This will open a window for you to click 'open in browser'
+
+
+* git add . enter
+* git commit -m "notes on changes" enter-- When added content or making changes use these above commands
+* git push enter-- to save changes onto the server 
 
 
 ## SOURCE CITATION
