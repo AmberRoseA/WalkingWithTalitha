@@ -217,10 +217,59 @@ Devices --
 
 * Galaxy Fold
 * iPhone 4
-* iPhone 12 pro
+* iPhone 12 Pro
+* iPhone 14 Pro Max
 * iPad
 * iPad mini
-* 
+* iPad pro
+* Galaxy Note 3
+* Galaxy 9+
+* Nest Hub
+* Microsoft Lumia 950
+* Kindle Fire HDX
+
+Issues
+Fix
+ISsues
+Fix
+
+With the use of Chrome Devtools able to check differant device sizes
+1. Right click on web
+2. Select inspect
+3. Select device of choice, top left of screen.
+
+Also with the help of this dool can choose option for responsive to change the height and width manually
+
+1. Right click on web
+2. Select inspect
+3. Select Responsive, top left of screen.
+
+#### Function Testing
+
+Anchor to Home page LinK
+
+    *Checked when either anchor is clicked page goes to home page. Checked each html file for both Anchors. All links work as expected.
+
+|ANCHOR LINK | DESTINATION PAGE|
+|------------|-----------------|
+|Welcome     |  index.html     |
+|Logo        |  index.html     |
+|------------|-----------------|
+
+
+Navigation Links
+
+    *All links have been checked from each page to make sure they take us to correct page. All links work as expected.
+
+|NAVIGATION LINK| DESTINATION PAGE|
+|---------------|-----------------|
+|Home           | index.html      |
+|Services       | service.html    |
+|About          | about.html      |
+|Contact        | contact.html    |
+|---------------|-----------------|
+
+
 
 ### Validator Testing
 
