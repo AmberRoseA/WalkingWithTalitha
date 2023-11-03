@@ -181,7 +181,7 @@ an error message will appear, preventing users from submitting their message unt
 ![contact_form_mobile_screen](readme_files/contactpage-form-mobile.png)
 
 *Once the user has correctly filled in all form elements and their message has been sent, 
-a new tab will automatically open, leading them to a confirmation page. This page is specifically designed 
+a new page will load, leading them to a confirmation page. This page is specifically designed 
 to notify the user that their message has been successfully sent and acknowledged, and it features an image of a 
 friendly border collie to warmly greet them.
 
@@ -571,7 +571,8 @@ The Walking With Talitha site was deployed with GIT on Codeanywhere
 ### MEDIA
 
 * Walking With Talitha Logo --Designed by Amber Andrews (me) intellectual property of Talitha Bailey, the owner of 'Walking with Talitha'.
-* All images on this website, including those on the Header,Home Page, About page gallery, Services page background, etc., are used with permission and are the intellectual property of Talitha Bailey, the owner of 'Walking with Talitha' [Link to Facebook page: https://www.facebook.com/WalkingwithTalitha.]
+* Header image -- Border collie catching frisbee-- Adobe Stock -- https://stock.adobe.com/uk/search?
+* All other images on this website, including those on the Home Page, About page gallery, Services page background, etc., are used with permission and are the intellectual property of Talitha Bailey, the owner of 'Walking with Talitha' [Link to Facebook page: https://www.facebook.com/WalkingwithTalitha.]
 * Font Awesome --Icons used
 * Favicon.io https://favicon.io/favicon-converter --Favicon Generator
 * Typography -- Google Fonts
