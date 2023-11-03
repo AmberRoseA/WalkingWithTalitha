@@ -133,11 +133,11 @@ nav {
 
 .logo {
     width: 75%;
-    max-width: 250px;
+    max-width: 20em;
     display: flex;
     position: absolute;
     top: 20%;
-    left: 0;
+    left: -2em;
     z-index: 3;
 }
 
@@ -634,12 +634,6 @@ footer {
 @media screen and (min-width: 576px) {
     /*HEADER*/
 
-    .logo {
-        font-size: 280%;
-        line-height: 75px;
-        margin: 0 0.5rem;
-    }
-
     .nav-drop-label {
         display: none;
     }
@@ -733,7 +727,7 @@ footer {
     }
     
     .logo {
-        top: 30%;
+        top: 20%;
     }
 
     main {
@@ -817,6 +811,10 @@ footer {
 
     strong {
         font-size: 2em;
+    }
+
+    .logo {
+        max-width: 40em;
     }
 
     /*Home*/
