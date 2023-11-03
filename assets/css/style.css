@@ -142,12 +142,12 @@ nav {
 }
 
 .header-img {
-    background-image: url(../images/beau-header.jpg);
+    background-image: url(../images/header-new.jpeg);
     width: 100%;
     height: 460px;
     box-shadow: 0 6px 20px #527a5a;
     background-position: center;
-    background-size: cover;
+    background-size: cover;    
     background-repeat: no-repeat;
     position: relative;
 }
@@ -820,6 +820,10 @@ footer {
     }
 
     /*Home*/
+    .header-img {
+        padding-top: 30%;
+    }
+
     .home-header{
         font-size: 5em;
         padding-top: 0;
