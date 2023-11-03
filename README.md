@@ -6,7 +6,7 @@ Welcome to the README for "Walking With Talitha". This web design aims to create
 
 The business owner, after great success in starting her own business back in 2020 has decided the next evolutionary stage for this continuously expanding business – a brand-new, high-quality website!
 
-*![Responsive Screen](../WalkingWithTalitha/readme.docs/responsivescreen.png)
+*![Responsive_Screen](../WalkingWithTalitha/readme.docs/responsivescreen.png)
 
 ## FEAUTURES
 
@@ -25,7 +25,7 @@ Contact: Link directs user to contact information and form.
 Visual Feedback: When a menu option is selected, the text will transform to white, with a dark green background, and will be underlined. This visual feedback is designed to enhance the user experience, making it clear which page you are currently on.
 
 Fixed Position: The navigation bar is "fixed," which means it remains at the top of the screen even as users scroll down the page. This design feature ensures that users don't have to scroll back to the top when they want to access a different page, providing a seamless and convenient browsing experience.
-*![Navigation Bar](../WalkingWithTalitha/readme.docs/nav-bar.png)
+*![Navigation_Bar](../WalkingWithTalitha/readme.docs/nav-bar.png)
 
 ### Responsive Navigation Bar
 Our website features a responsive navigation bar to ensure an optimal viewing experience on smaller screens, such as mobile devices. Here's how it adapts:
@@ -34,7 +34,7 @@ Dropdown Menu: When users click the menu icon, a dropdown menu appears, presenti
 Auto-Collapse: The dropdown menu automatically collapses once a page has been selected, maintaining a tidy and uncluttered interface.
 Consistent Styling: Just like in the desktop version, the selected page on the mobile navigation bar maintains the same styling, distinguishing it from the other available options. This ensures a seamless and visually consistent user experience across all screen sizes.
 
-*![Navigation Bar Close](../WalkingWithTalitha/readme.docs/navbar-closed.png) *![Navigation Bar Close](../WalkingWithTalitha/readme.docs/navbar-open.png)
+*![Navigation_Bar_Close](../WalkingWithTalitha/readme.docs/navbar-closed.png) *![Navigation_Bar_Close](../WalkingWithTalitha/readme.docs/navbar-open.png)
 
 ### Header Image & Logo
 
@@ -56,25 +56,25 @@ Consistent Styling: Just like in the desktop version, the selected page on the m
 
 #### Happy Customer Gallery on About Page
 
-*![Happy Customers Gallery](../WalkingWithTalitha/readme.docs/aboutpage-gallery.png)
+*![Happy_Customers_Gallery](../WalkingWithTalitha/readme.docs/aboutpage-gallery.png)
 
 #### Responsive Happy Customer Gallery on About Page
 
-*![Happy Customers Gallery iPad Screens](../WalkingWithTalitha/readme.docs/aboutpage-gallery-ipad.png)
-*![Happy Customers Gallery Mobile Screens](../WalkingWithTalitha/readme.docs/aboutpage-gallery-mobile.png)
+*![Happy_Customers_Gallery_iPad_Screens](../WalkingWithTalitha/readme.docs/aboutpage-gallery-ipad.png)
+*![Happy_Customers_Gallery_Mobile_Screens](../WalkingWithTalitha/readme.docs/aboutpage-gallery-mobile.png)
 
 ### Contact Page
 
-*![Contact Details](../WalkingWithTalitha/readme.docs/contactpage-details.png)
+*![Contact_Details](../WalkingWithTalitha/readme.docs/contactpage-details.png)
 
 #### Contact Form
 
-*![Contact Form](../WalkingWithTalitha/readme.docs/contactpage-form.png)
+*![Contact_Form](../WalkingWithTalitha/readme.docs/contactpage-form.png)
 
 #### Responsive Contact Form
 
-*![Contact Form Ipad Screen](../WalkingWithTalitha/readme.docs/contactpage-form-ipad.png)
-*![Contact Form Mobile Screen](../WalkingWithTalitha/readme.docs/contactpage-form-mobile.png)
+*![Contact_Form_Ipad_Screen](../WalkingWithTalitha/readme.docs/contactpage-form-ipad.png)
+*![Contact_Form_Mobile_Screen](../WalkingWithTalitha/readme.docs/contactpage-form-mobile.png)
 
 #### Maps
 
@@ -82,9 +82,9 @@ Consistent Styling: Just like in the desktop version, the selected page on the m
 
 #### Responsive Maps
 
-*![Maps iPad Screens](../WalkingWithTalitha/readme.docs/contactpage-detail-maps-ipad.png) 
+![Maps_iPad_Screens](../WalkingWithTalitha/readme.docs/contactpage-detail-maps-ipad.png) 
 
-*![Maps Mobile screens](../WalkingWithTalitha/readme.docs/contactpage-details-maps-mobile.png)
+![Maps_Mobile_Screens](../WalkingWithTalitha/readme.docs/contactpage-details-maps-mobile.png)
    
 ## UX/UI SECTION
 
@@ -163,7 +163,7 @@ Included two essential anchors on all screen sizes:
 Logo Anchor: The website logo, when clicked, serves as an anchor to bring the viewer back to the index.html page, offering a convenient way to return to the homepage.
 Top Right Welcome Sign: In the top right corner of the navigation bar, you will find a welcome sign. Clicking this sign also acts as an anchor to return to the homepage, ensuring easy and intuitive navigation.
 
-*![home_page~nav](../WalkingWithTalitha/readme.docs/home-page-navtoggle-wireframe.jpg)
+*![home_page_nav](../WalkingWithTalitha/readme.docs/home-page-navtoggle-wireframe.jpg)
         
  The navigation toggle bar is positioned at the top of the mobile screen. Placing it at the top ensures it's the first element a viewer sees when they access the website. This prominent placement enhances accessibility and encourages users to interact with the navigation options.
 
@@ -180,7 +180,7 @@ The service page is a vital one in this site as has all the importan information
 Aim to make this section more intimate by allowing viewers to get to know the owner on a personal level. Through a brief and friendly introduction, we provide insights into her background, passion for the business, and what drives her commitment to providing exceptional services. This personal touch is a key factor in securing viewers' trust to create a sense of familiarity and relatability, building trust and rapport with the audience.
 Incorporating images of reviews from satisfied customers adds authenticity and credibility through the gallery showcasing these qualities. To add an endearing and charming element to our "About" section, we include images of our happy dog customers. This not only showcases the love and care we provide to our furry clients but also brings a smile to the viewer's face. It's a delightful way to create an emotional connection with our audience.
 
-*![about_page, contact_page](../WalkingWithTalitha/readme.docs/about-contact-mobile-wireframe.jpg)
+*![about_page_contact_page](../WalkingWithTalitha/readme.docs/about-contact-mobile-wireframe.jpg)
         
 ##### Contact Screen
 
@@ -212,7 +212,7 @@ One of the primary features of the "Contact" page is the inclusion of a user-fri
 
 HTMl -- No errors were found when code inputted through official WSC Validator. --https://validator.w3.org/#validate_by_input
 
-*![HTML-Validator](../WalkingWithTalitha/readme.docs/html-validator.jpg)
+*![HTML_Validator](../WalkingWithTalitha/readme.docs/html-validator.jpg)
 
 Steps -- 
 1. Open deployed document
@@ -229,7 +229,7 @@ Steps --
 
 CSS -- No errors were found when code inputted through official WSC Validator. (JIGSAW) --https://jigsaw.w3.org/css-validator
 
-*![CSS-Validator](../WalkingWithTalitha/readme.docs/css-validator.jpg)
+![CSS_Validator](../WalkingWithTalitha/readme.docs/css-validator.jpg)
 
 Steps --
 
@@ -249,25 +249,27 @@ Steps --
 ### Lighthouse 
 Home--Desktop & Mobile
 
-*![LightHouse Home Desktop](../WalkingWithTalitha/readme.docs/lighthouse-home-desktop.jpg)
+![LightHouse_Home_Desktop](../WalkingWithTalitha/readme.docs/lighthouse-home-desktop.jpg)
 
-*![LightHouse Home Mobile](../WalkingWithTalitha/readme.docs/lighthouse-home-mobile.jpg)
+![LightHouse_Home_Mobile](../WalkingWithTalitha/readme.docs/lighthouse-home-mobile.jpg)
 
 Services--Desktop & Mobile
 
-*![LightHouse Services Desktop](../WalkingWithTalitha/readme.docs/lighthouse-services-desktop.jpg)
+![LightHouse_Services_Desktop](../WalkingWithTalitha/readme.docs/lighthouse-services-desktop.jpg)
 
-*![LightHouse Services Mobile](../WalkingWithTalitha/readme.docs/lighthouse-services-mobile.jpg)
+![LightHouse_Services_Mobile](../WalkingWithTalitha/readme.docs/lighthouse-services-mobile.jpg)
 
 About--Desktop & Mobile
 
-*![LightHouse About Desktop](../WalkingWithTalitha/readme.docs/lighthouse-about-desktop.jpg)
+![LightHouse_About_Desktop](../WalkingWithTalitha/readme.docs/lighthouse-about-desktop.jpg)
 
-*![LightHouse About Mobile](../WalkingWithTalitha/readme.docs/lighthouse-about-mobile.jpg)
+![LightHouse_About_Mobile](../WalkingWithTalitha/readme.docs/lighthouse-about-mobile.jpg)
 
 Contact--Desktop & Mobile
-*![LightHouse Contact Desktop]
-*![LightHouse Contact Mobile]
+
+![LightHouse_Contact_Desktop](../WalkingWithTalitha/readme.docs/lighthouse-contact-desktop.jpg)
+
+![LightHouse_Contact_Mobile](../WalkingWithTalitha/readme.docs/lighthouse-contact-mobile.jpg)
 
 
 
@@ -285,8 +287,8 @@ The Walking With Talitha site was deployed to GitHub Pages.
 5.	Find sub-section ‘Branch’
 6.	From drop-down menu "none"/"select branch" choose source "main" (or "master")
 7.	Click "Save"
-8.	Wait until you can see a link for deployed page within Github Page section (right side of screen) wait as this can take a while.
-9.	Once the page updates you will see a message:
+8.	Wait until you can see a link for deployed page within Github Page section, wait as this can take a while.
+9.	Once the page updates you will see a message: Your site is live at https://amberrosea.github.io/walkingwithtalitha/
 
 
 
