@@ -69,7 +69,7 @@ allowing the headers to occupy more space and the logo to increase in size, fitt
 
 #### Responsive Home Page 'Your Trusted Dog Walking Companion'
 
-
+![home_mobile](assets/readme.docs/home-mobile.png)
 
 ### Footer
 
@@ -101,7 +101,16 @@ prominent, clearly labeled as 'Service Cost' and 'Times'
 
 #### 'Paw-sibilities: Our Service in Bone-fide Detail' service breakdown section
 
+* The "Breakdown of Services" section on the service page provides a detailed explanation of 
+each service listed in the table. Each section is accompanied by a background image, and the text background has a slight 
+opacity, allowing the description to be visible while still enjoying the images.
+
 ![service_breakdown](assets/readme.docs/service-breakdown-feat.png)
+
+* The breakdown sections adapt to different screen sizes, adapting so that the images span the width of the screen 
+while maintaining their required height.
+
+![service_breakdown_mobile](assets/readme.docs/service-breakdown-feat-mobile.png)
 
 ### About Page
 
@@ -132,46 +141,71 @@ text for high contrast against the green background
 
 ![reasons_why](assets/readme.docs/about-why-feat.png)
 
-#### Responsive About page
-
-
 
 #### Happy Customer Gallery on About Page
+
+* The "Happy Customer" section on the about page offers a visual representation of the business owner's 
+current clientele and their feedback on her services. This section highlights the outstanding reviews and 
+testimonials, both from satisfied human clients and her delighted canine companions. It's a delightful place to 
+explore for those who love seeing lots of pictures of adorable dogs
 
 ![happy_customers_gallery](assets/readme.docs/aboutpage-gallery.png)
 
 #### Responsive Happy Customer Gallery on About Page
 
+*This section is designed to be screen-responsive, gracefully adjusting its layout as the screen size 
+decreases, all while maintaining the visual proportions and overall presentation.
+
 ![happy_customers_gallery_ipad_screens](assets/readme.docs/aboutpage-gallery-ipad.png)
 
 ![happy_customers_gallery_mobile_screens](assets/readme.docs/aboutpage-gallery-mobile.png)
 
-### Contact Page
 
-![contact_details](assets/readme.docs/contactpage-details.png)
+#### Contact Page --Form
 
-#### Contact Form
+* Upon the initial loading of the contact page, a stylish picture of two dogs sitting on a log serves as the 
+background for the contact form. The form includes fields for first name, last name, email, and a message, 
+with ample spacing to prevent crowding, labels and placeholder text for guidance. Names and email types also have autofil values for easier user experiance.
+
+*The submit button will change to a green color when selected. If the fields are filled in incorrectly or left blank, 
+an error message will appear, preventing users from submitting their message until the issues are resolved.
 
 ![contact_form](assets/readme.docs/contactpage-form.png)
 
-#### Responsive Contact Form
+#### Responsive Contact Page --Form
+
+* This design is responsive and compatible with all screen types.
 
 ![contact_form_ipad_screen](assets/readme.docs/contactpage-form-ipad.png)
 
 ![contact_form_mobile_screen](assets/readme.docs/contactpage-form-mobile.png)
 
+*Once the user has correctly filled in all form elements and their message has been sent, 
+a new tab will automatically open, leading them to a confirmation page. This page is specifically designed 
+to notify the user that their message has been successfully sent and acknowledged, and it features an image of a 
+friendly border collie to warmly greet them.
+
 #### Confirmation Page- New Tab upon Correct Completion Of Form
 
 ![cofirmation_page](assets/readme.docs/completed-feat.png)
 
+
+### Contact Page
+
+* Below the contact form on the contact page, you'll find the business owner's email and phone number for 
+those who prefer to use these contact methods. The color theme remains consistent and prominently displayed in a big 
+and bold format to ensure it catches your attention.
+
+![contact_details](assets/readme.docs/contactpage-details.png)
+
 #### Maps
+
+* Display maps at the bottom of the contact page, serving as a visual guide to the business's operating areas. 
+When users click on these maps, a new tab will open, leading them directly to Google Maps with the location visible on the 
+screen. These maps are also equipped with an "aria-label" for enhanced accessibility.
 
 ![maps](assets/readme.docs/contactpage-maps.png)
 
-#### Responsive Maps
- 
-
-![maps_mobile_screens](assets/readme.docs/contactpage-details-maps-mobile.png)
    
 ## UX/UI SECTION
 
