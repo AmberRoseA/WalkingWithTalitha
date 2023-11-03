@@ -269,12 +269,25 @@ Contact--Desktop & Mobile
 *![LightHouse Contact Desktop]
 *![LightHouse Contact Mobile]
 
-#### steps
+
 
 ### Unfixed Bugs
 
 ## DEPLOYMENT
+The Walking With Talitha site was deployed to GitHub Pages.
+
 ### Steps
+
+1.	Go to Github repositories.
+2.	Click on "Settings" in the top right of screen.
+3.	Click on "Pages"(tab on the left sidebar under ‘Code and automation’ eight option down)
+4.	Scroll to ‘Build and deployment’ section.
+5.	Find sub-section ‘Branch’
+6.	From drop-down menu "none"/"select branch" choose source "main" (or "master")
+7.	Click "Save"
+8.	Wait until you can see a link for deployed page within Github Page section (right side of screen) wait as this can take a while.
+9.	Once the page updates you will see a message:
+
 
 
 ## SOURCE CITATION
