@@ -209,24 +209,67 @@ One of the primary features of the "Contact" page is the inclusion of a user-fri
 
 ### Manual Testing
 ### Validator Testing
-(W3C VALIDATOR AND JISSAW VALIDATOR INCLUDE IMG)
+
+HTMl -- No errors were found when code inputted through official WSC Validator. --https://validator.w3.org/#validate_by_input
+
+*![HTML-Validator](../WalkingWithTalitha/readme.docs/html-validator.jpg)
+
+Steps -- 
+1. Open deployed document
+2. Right click page
+3. View page source / Ctrl+U
+4. (Page Html code will open in next tab) Copy all Ctrl+A Ctrl+C
+5. Open <https://validator.w3.org/>
+6. Click the third option ‘Validate by direct input’
+7. In text field paste code/ Ctrl+V
+8. Click button below labelled ‘Check’
+9. See for any errors in code/ No errors in document message.
+10. Repeat process for each html file.
+
+
+CSS -- No errors were found when code inputted through official WSC Validator. (JIGSAW) --https://jigsaw.w3.org/css-validator
+
+*![CSS-Validator](../WalkingWithTalitha/readme.docs/css-validator.jpg)
+
+Steps --
+
+1. Open deployed document
+2. Right click page
+3. View page source / Ctrl+U
+4. (Page Html code will open in next tab) click on stylesheet css path <link rel="stylesheet" href="assets/css/style.css">
+5. Copy all Ctrl+A Ctrl+C
+6. Open <https://jigsaw.w3.org/css-validator/>
+7. Click the third option ‘Validate by direct input’
+8. In text field paste code/ Ctrl+V
+9. Click button below labelled ‘Check’
+10. See for any errors in code/ No errors in document message.
+
+
 
 ### Lighthouse 
 Home--Desktop & Mobile
+
 *![LightHouse Home Desktop](../WalkingWithTalitha/readme.docs/lighthouse-home-desktop.jpg)
+
 *![LightHouse Home Mobile](../WalkingWithTalitha/readme.docs/lighthouse-home-mobile.jpg)
 
 Services--Desktop & Mobile
+
 *![LightHouse Services Desktop](../WalkingWithTalitha/readme.docs/lighthouse-services-desktop.jpg)
+
 *![LightHouse Services Mobile](../WalkingWithTalitha/readme.docs/lighthouse-services-mobile.jpg)
 
 About--Desktop & Mobile
+
 *![LightHouse About Desktop](../WalkingWithTalitha/readme.docs/lighthouse-about-desktop.jpg)
+
 *![LightHouse About Mobile](../WalkingWithTalitha/readme.docs/lighthouse-about-mobile.jpg)
 
 Contact--Desktop & Mobile
 *![LightHouse Contact Desktop]
 *![LightHouse Contact Mobile]
+
+#### steps
 
 ### Unfixed Bugs
 
