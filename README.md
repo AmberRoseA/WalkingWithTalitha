@@ -269,7 +269,15 @@ Navigation Links
 |Contact        | contact.html    |
 |---------------|-----------------|
 
+Footer Social Media Icon Links
 
+    * Both icons have the correct link and both links open in a new tab to the correct webpage. Every html page was tested manually
+
+|SOCIAL MEDIA LINK/ ICON  |               DESTINATION PAGE                 |   PAGE OPENS IN NEW TAB     |
+|-------------------------|------------------------------------------------|-----------------------------|
+|Facebook icon            |  https://www.facebook.com/WalkingwithTalitha   |            Yes              |
+|Instagram icon           |  https://www.instagram.com/walkingwithtalitha/ |            Yes              |
+|-------------------------|------------------------------------------------|-----------------------------|
 
 ### Validator Testing
 
