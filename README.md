@@ -29,23 +29,51 @@ Fixed Position: The navigation bar is "fixed," which means it remains at the top
 ![navigation_Bar](assets/readme.docs/nav-bar.png)
 
 ### Responsive Navigation Bar
-Our website features a responsive navigation bar to ensure an optimal viewing experience on smaller screens, such as mobile devices. Here's how it adapts:
-Mobile-Friendly Design: On smaller screens, the navigation bar undergoes a transformation. Instead of displaying all pages simultaneously, we utilize a menu icon, conserving screen space while keeping the font size intact.
-Dropdown Menu: When users click the menu icon, a dropdown menu appears, presenting the available options in a clear and user-friendly manner. This makes it easy for users to select the page they wish to visit.
-Auto-Collapse: The dropdown menu automatically collapses once a page has been selected, maintaining a tidy and uncluttered interface.
-Consistent Styling: Just like in the desktop version, the selected page on the mobile navigation bar maintains the same styling, distinguishing it from the other available options. This ensures a seamless and visually consistent user experience across all screen sizes.
+
+This website features a responsive navigation bar to ensure an optimal viewing experience on smaller screens, such as mobile devices. Here's how it adapts:
+
+* Mobile-Friendly Design: On smaller screens, the navigation bar undergoes a transformation. Instead of displaying all pages simultaneously, we utilize a menu icon, conserving screen space while keeping the font size intact.
+* Dropdown Menu: When users click the menu icon, a dropdown menu appears, presenting the available options in a clear and user-friendly manner. This makes it easy for users to select the page they wish to visit.
+* Auto-Collapse: The dropdown menu automatically collapses once a page has been selected, maintaining a tidy and uncluttered interface.
+* Consistent Styling: Just like in the desktop version, the selected page on the mobile navigation bar maintains the same styling, distinguishing it from the other available options. This ensures a seamless and visually consistent user experience across all screen sizes.
 
 *![navigation_bar_close](assets/readme.docs/navbar-closed.png) *![navigation_bar_close](assets/readme.docs/navbar-open.png)
 
+### Web Tab
+
+When you open the website in a browser tab, you will immediately notice the presence of the business name
+'Walking With Talitha' along with a favicon displaying the logo of the business owner. This design element ensures that viewers can easily identify the tab and contributes to a polished and professional appearance.
+
+![fitcon](assets/readme.docs/fitcon-logo.png)
+
 ### Header Image & Logo
+
+The header, featuring a border collie set against a green field backdrop that matches the color scheme of the web page, 
+provides an immediate visual cue about the site's theme. Underneath the header, you'll find information that clarifies the 
+site's purpose, which is dog walking and sitting services. It also highlights the business owner's qualifications in the 
+industry and provides the location of the business. These elements are thoughtfully arranged to ensure a clean and uncluttered 
+appearance.
+
+The logo, which serves as a home page link, is subtly positioned in the corner of the header image. It doesn't overpower the 
+design but remains noticeable, akin to a brand label.
+
+As demonstrated in the responsive navigation elements shown in previous images, the header image adapts to smaller screens, 
+allowing the headers to occupy more space and the logo to increase in size, fitting nicely within the curve of the dog's back.
 
 ![header](assets/readme.docs/header-img.png)
 
-### Home Page 'Your Trusted Dog Walking Companion' - 
+### Home Page 'Your Trusted Dog Walking Companion'
 
 ![home_page](assets/readme.docs/home-feat.jpg)
 
+
+#### Responsive Home Page 'Your Trusted Dog Walking Companion'
+
+
+
 ### Footer
+
+
 
 ![footer](assets/readme.docs/footer.png)
 
