@@ -246,7 +246,7 @@ Also with the help of this dool can choose option for responsive to change the h
 
 #### Function Testing
 
-Anchor to Home page LinK
+*Anchor to Home page LinK
 
     *Checked when either anchor is clicked page goes to home page. Checked each html file for both Anchors. All links work as expected.
 
@@ -257,7 +257,7 @@ Anchor to Home page LinK
 |------------|-----------------|
 
 
-Navigation Links
+*Navigation Links
 
     *All links have been checked from each page to make sure they take us to correct page. All links work as expected.
 
@@ -269,7 +269,7 @@ Navigation Links
 |Contact        | contact.html    |
 |---------------|-----------------|
 
-Footer Social Media Icon Links
+*Footer Social Media Icon Links
 
     * Both icons have the correct link and both links open in a new tab to the correct webpage. Every html page was tested manually
 
@@ -278,6 +278,13 @@ Footer Social Media Icon Links
 |Facebook icon            |  https://www.facebook.com/WalkingwithTalitha   |            Yes              |
 |Instagram icon           |  https://www.instagram.com/walkingwithtalitha/ |            Yes              |
 |-------------------------|------------------------------------------------|-----------------------------|
+
+*Contact page -- Form
+
+
+
+*Contact page -- Form Send button
+
 
 ### Validator Testing
 
