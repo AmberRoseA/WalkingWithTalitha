@@ -323,9 +323,7 @@ Incorporating images of reviews from satisfied customers adds authenticity and c
 ##### Contact Screen
 
 * One of the primary features of the "Contact" page is the inclusion of a user-friendly contact form. This form is designed to allow visitors to email the owner directly through the website. It provides an efficient and convenient means of communication, particularly for those who prefer not to phone or navigate through various social media channels. With all fields classed as REQUIRED, no accidental email will be sent without all the require information being keyed in.
-For those who prefer to explore the owner's social media accounts, we've placed prominent links in the footer of the website. These links are designed to open in a new tab, ensuring that users don't lose access to the website
-
-#### Medium to Large screens Wireframes
+For those who prefer to explore the owner's social media accounts, we've placed prominent links in the footer of the website. These links are designed to open in a new tab, ensuring that users don't lose access to the website.
 
 ### TECHNOLOGIES
 
@@ -484,6 +482,7 @@ Fix
 
 
 ### Lighthouse 
+
 Home--Desktop & Mobile
 
 ![lightHouse_home_desktop](assets/readme.docs/lighthouse-home-desktop.jpg)
@@ -510,6 +509,7 @@ Contact--Desktop & Mobile
 
 Confirmation-- Desktop & Mobile
 
+![lighthous_confirm_]
 
 
 
