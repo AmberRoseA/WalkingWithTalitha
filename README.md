@@ -107,9 +107,28 @@ prominent, clearly labeled as 'Service Cost' and 'Times'
 
 #### Business Owner Intro (section on About Page)
 
+* In the "About" section, we first encounter a brief introduction to the business owner, accompanied by an image of her 
+alongside her loyal border collie, a recurring presence throughout the website. This personal touch reinforces the independent 
+nature of the business and allows viewers to develop a sense of the person they may entrust with their cherished pets.
+
+* On larger screens, the image is positioned beside the introductory text, with a background color resembling the navigation 
+bar. This design choice serves to break up the page layout, eliminating unnecessary white space and preventing the page from 
+appearing overly empty.
+
 ![about_intro](assets/readme.docs/about-feat.png)
 
+##### Responsive Business Owner Intro (section on About Page)
+
+* On smaller screens, the introductory text seamlessly overlays the full-width image, eliminating the need for a color background, 
+creating a more compact and aesthetically pleasing display.
+
+![about_intro_mobile](assets/readme.docs/about-tal-mobile.png)
+
 #### Reasons Why (section on About Page)
+
+* The "Reasons Why" section on the About page features concise, punchy sentences designed to provide viewers with compelling 
+reasons to choose her as their dog walker/sitter. Key buzz words are highlighted in bold to make them stand out, with yellow 
+text for high contrast against the green background
 
 ![reasons_why](assets/readme.docs/about-why-feat.png)
 
@@ -150,8 +169,7 @@ prominent, clearly labeled as 'Service Cost' and 'Times'
 ![maps](assets/readme.docs/contactpage-maps.png)
 
 #### Responsive Maps
-
-![maps_ipad_screens](assets/readme.docs/contactpage-detail-maps-ipad.png) 
+ 
 
 ![maps_mobile_screens](assets/readme.docs/contactpage-details-maps-mobile.png)
    
@@ -344,7 +362,16 @@ Fix
 |Instagram icon           |  https://www.instagram.com/walkingwithtalitha/ |            Yes              |
 
 
-* Contact page -- Form
+* Contact Page -- Maps 
+
+    * Visually can see map and map location on Contact Page on all screen sizes. When selected new tab is open of the Google maps link of Trowbridge, as expected.
+
+|GOOGLE MAP IFRAME          |               DESTINATION PAGE                                                                                                                                                       |   PAGE OPENS IN NEW TAB     |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+|   Map of Trowbridge          https://www.google.com/maps/place/Trowbridge/@51.319138,-2.205962,11z/data=!4m6!3m5!1s0x48717d0a13b4a533:0xfcf81a2e9c24722d!8m2!3d51.319664!4d-2.208853!16zL20vMDE4eWxi?hl=en&gl=GB |            Yes              |
+
+
+* Contact Page -- Form
 
     * All inputs, including those with "type=text" and "type=email" attributes, have been set to "required." If one or more fields are left incomplete, the "send message" option does not function, which aligns with the expected behavior.
 
