@@ -8,7 +8,7 @@ The business owner, after great success in starting her own business back in 202
 
 ![responsive_screen](readme_files/responsivescreen.png)
 
-## FEAUTURES
+## FEATURES
 
 ## Key Existing Features
 
@@ -363,10 +363,9 @@ Devices --
 * Microsoft Lumia 950
 * Kindle Fire HDX
 
-Issues
-Fix
-ISsues
-Fix
+Recent Issues -- New header img disrupted logo display/ couldnt see writing 
+Fix -- editied a new one with white feathered background so can see the writiting 
+
 
 * With the use of Chrome Devtools able to check differant device sizes
 
@@ -418,10 +417,8 @@ Fix
 
     * Visually can see map and map location on Contact Page on all screen sizes. When selected new tab is open of the Google maps link of Trowbridge, as expected.
 
-|GOOGLE MAP IFRAME          |               DESTINATION PAGE                                                                                                                                                       |   PAGE OPENS IN NEW TAB     |
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-|   Map of Trowbridge          https://www.google.com/maps/place/Trowbridge/@51.319138,-2.205962,11z/data=!4m6!3m5!1s0x48717d0a13b4a533:0xfcf81a2e9c24722d!8m2!3d51.319664!4d-2.208853!16zL20vMDE4eWxi?hl=en&gl=GB |            Yes              |
-
+        
+GOOGLE MAP IFRAME= Map of Trowbridge---DESTINATION PAGE~ clicked= https://www.google.com/maps/placeTrowbridgegl=GB----PAGE OPENS IN NEW TAB= YES
 
 * Contact Page -- Form
 
