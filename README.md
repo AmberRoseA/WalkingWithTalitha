@@ -261,8 +261,13 @@ Targeting the Right Audience:  potential clients aren't just on social media –
 
 ### DESIGN
 Typography and Color Scheme
-The website's color scheme is inspired by the business logo, emphasizing greens and pastel light colors for a visually appealing contrast. The font choice, "Wellfleet," is both readable and gentle, in line with the nurturing image the business aims to project.
----INSERT MOOD BORED WITH COLORS IMAGES AND TYPOGRapghy----
+
+![design](assets/readme.docs/visionboard.png)
+
+The website's color scheme is inspired by the business logo, emphasizing greens and pastel light colors for a visually appealing contrast. 
+The font choice, Lobster, and Bebas Neue mixture of both bold and cursive, readable and both gentle and bold, in line with the nurturing image the business aims to project.
+And also in your face like an excited dog would be.
+
 
 ## FUTURE FEATURES
 
@@ -311,6 +316,7 @@ For those who prefer to explore the owner's social media accounts, we've placed 
 ### TECHNOLOGIES
 
 * Mockup https://getmockup.app/ --To create wireframes
+* Photoshop --Create Desing board (color themes, typography)
 * HTML --To create content
 * CSS --To style content
 * Codeanywhere --Integrated Development Environment  (write, edit and develop code)
