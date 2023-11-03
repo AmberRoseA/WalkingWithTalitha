@@ -490,6 +490,7 @@ ul strong {
 /*ContactForm*/
 .question-form {
     background-image: url(../images/wow-pupps.jpg);
+    background-color: #074701;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
