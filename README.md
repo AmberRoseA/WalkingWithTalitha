@@ -283,21 +283,20 @@ Also with the help of this dool can choose option for responsive to change the h
 
 All inputs, including those with "type=text" and "type=email" attributes, have been set to "required." If one or more fields are left incomplete, the "send message" option does not function, which aligns with the expected behavior.
 
-    *! [form_names](../WalkingWithTalitha/readme.docs/form-missingfirst-name-testing.png) *! [form_names](../WalkingWithTalitha/readme.docs/form-missinglast-name-testing.png)
+    [form_names](../readme.docs/form-missingfirst-name-testing.png) [form_names](../WalkingWithTalitha/readme.docs/form-missinglast-name-testing.png)
 
 In the case of the email field, it is designed to reject incorrect email formats, as anticipated.
 
-    *! [form_email](../WalkingWithTalitha/readme.docs/form-missingemail-testing.png)
+    [form_email](../readme.docs/form-missingemail-testing.png)
 
 All input fields, with the exception of the message box, are equipped with an autocomplete attribute, tailored to ensure accessibility for users with specific needs.
 
-    *! [form_auto](../readme.docs/form-autofill.png)
+    ![form_auto](../readme.docs/form-autofill.png)
 
 When all fields are submitted correctly, the user is directed to the "confirmation.html" page, this page opens in a new tab,which is in line with the expected outcome.
 
-    *! [form_confimration](../WalkingWithTalitha/readme.docs/confimation-page.png)
+    ![confimation-page](../readme.docs/confimation-page.png)
 
-*Contact page -- Form Send button
 
 
 ### Validator Testing
