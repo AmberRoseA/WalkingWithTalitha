@@ -6,7 +6,7 @@ Welcome to the README for "Walking With Talitha". This web design aims to create
 
 The business owner, after great success in starting her own business back in 2020 has decided the next evolutionary stage for this continuously expanding business – a brand-new, high-quality website!
 
-![responsive_screen](assets/readme.docs/responsivescreen.png)
+![responsive_screen](readme_files/responsivescreen.png)
 
 ## FEAUTURES
 
@@ -26,7 +26,7 @@ Visual Feedback: When a menu option is selected, the text will transform to whit
 
 Fixed Position: The navigation bar is "fixed," which means it remains at the top of the screen even as users scroll down the page. This design feature ensures that users don't have to scroll back to the top when they want to access a different page, providing a seamless and convenient browsing experience.
 
-![navigation_Bar](assets/readme.docs/nav-bar.png)
+![navigation_Bar](readme_files/nav-bar.png)
 
 ### Responsive Navigation Bar
 
@@ -37,14 +37,14 @@ This website features a responsive navigation bar to ensure an optimal viewing e
 * Auto-Collapse: The dropdown menu automatically collapses once a page has been selected, maintaining a tidy and uncluttered interface.
 * Consistent Styling: Just like in the desktop version, the selected page on the mobile navigation bar maintains the same styling, distinguishing it from the other available options. This ensures a seamless and visually consistent user experience across all screen sizes.
 
-*![navigation_bar_close](assets/readme.docs/navbar-closed.png) *![navigation_bar_close](assets/readme.docs/navbar-open.png)
+*![navigation_bar_close](readme_files/navbar-closed.png) *![navigation_bar_close](readme_files/navbar-open.png)
 
 ### Web Tab
 
 When you open the website in a browser tab, you will immediately notice the presence of the business name
 'Walking With Talitha' along with a favicon displaying the logo of the business owner. This design element ensures that viewers can easily identify the tab and contributes to a polished and professional appearance.
 
-![fitcon](assets/readme.docs/fitcon-logo.png)
+![fitcon](readme_files/fitcon-logo.png)
 
 ### Header Image & Logo
 
@@ -60,16 +60,16 @@ design but remains noticeable, akin to a brand label.
 * As demonstrated in the responsive navigation elements shown in previous images, the header image adapts to smaller screens, 
 allowing the headers to occupy more space and the logo to increase in size, fitting nicely within the curve of the dog's back.
 
-![header](assets/readme.docs/header-img.png)
+![header](readme_files/header-img.png)
 
 ### Home Page 'Your Trusted Dog Walking Companion'
 
-![home_page](assets/readme.docs/home-feat.jpg)
+![home_page](readme_files/home-feat.jpg)
 
 
 #### Responsive Home Page 'Your Trusted Dog Walking Companion'
 
-![home_mobile](assets/readme.docs/home-mobile.png)
+![home_mobile](readme_files/home-mobile.png)
 
 ### Footer
 
@@ -81,7 +81,7 @@ copyright notice, are constantly visible to the visitors. The business owner mai
 Instagram. When users click on the icons, the corresponding social media sites open in separate tabs, clearly indicated by 
 Arial labels to convey this action.
 
-![footer](assets/readme.docs/footer.png)
+![footer](readme_files/footer.png)
 
 ### Services Page
 
@@ -97,7 +97,7 @@ the owner's offerings and pricing structure.
 hints of yellow, enhancing the visual appeal. The table is neatly outlined with a yellow border, and the top row is made more 
 prominent, clearly labeled as 'Service Cost' and 'Times'
 
-![service_table](assets/readme.docs/service-feat.png)
+![service_table](readme_files/service-feat.png)
 
 #### 'Paw-sibilities: Our Service in Bone-fide Detail' service breakdown section
 
@@ -105,12 +105,12 @@ prominent, clearly labeled as 'Service Cost' and 'Times'
 each service listed in the table. Each section is accompanied by a background image, and the text background has a slight 
 opacity, allowing the description to be visible while still enjoying the images.
 
-![service_breakdown](assets/readme.docs/service-breakdown-feat.png)
+![service_breakdown](readme_files/service-breakdown-feat.png)
 
 * The breakdown sections adapt to different screen sizes, adapting so that the images span the width of the screen 
 while maintaining their required height.
 
-![service_breakdown_mobile](assets/readme.docs/service-breakdown-feat-mobile.png)
+![service_breakdown_mobile](readme_files/service-breakdown-feat-mobile.png)
 
 ### About Page
 
@@ -124,14 +124,14 @@ nature of the business and allows viewers to develop a sense of the person they 
 bar. This design choice serves to break up the page layout, eliminating unnecessary white space and preventing the page from 
 appearing overly empty.
 
-![about_intro](assets/readme.docs/about-feat.png)
+![about_intro](readme_files/about-feat.png)
 
 ##### Responsive Business Owner Intro (section on About Page)
 
 * On smaller screens, the introductory text seamlessly overlays the full-width image, eliminating the need for a color background, 
 creating a more compact and aesthetically pleasing display.
 
-![about_intro_mobile](assets/readme.docs/about-tal-mobile.png)
+![about_intro_mobile](readme_files/about-tal-mobile.png)
 
 #### Reasons Why (section on About Page)
 
@@ -139,7 +139,7 @@ creating a more compact and aesthetically pleasing display.
 reasons to choose her as their dog walker/sitter. Key buzz words are highlighted in bold to make them stand out, with yellow 
 text for high contrast against the green background
 
-![reasons_why](assets/readme.docs/about-why-feat.png)
+![reasons_why](readme_files/about-why-feat.png)
 
 
 #### Happy Customer Gallery on About Page
@@ -149,16 +149,16 @@ current clientele and their feedback on her services. This section highlights th
 testimonials, both from satisfied human clients and her delighted canine companions. It's a delightful place to 
 explore for those who love seeing lots of pictures of adorable dogs
 
-![happy_customers_gallery](assets/readme.docs/aboutpage-gallery.png)
+![happy_customers_gallery](readme_files/aboutpage-gallery.png)
 
 #### Responsive Happy Customer Gallery on About Page
 
 * This section is designed to be screen-responsive, gracefully adjusting its layout as the screen size 
 decreases, all while maintaining the visual proportions and overall presentation.
 
-![happy_customers_gallery_ipad_screens](assets/readme.docs/aboutpage-gallery-ipad.png)
+![happy_customers_gallery_ipad_screens](readme_files/aboutpage-gallery-ipad.png)
 
-![happy_customers_gallery_mobile_screens](assets/readme.docs/aboutpage-gallery-mobile.png)
+![happy_customers_gallery_mobile_screens](readme_files/aboutpage-gallery-mobile.png)
 
 
 #### Contact Page --Form
@@ -170,15 +170,15 @@ with ample spacing to prevent crowding, labels and placeholder text for guidance
 *The submit button will change to a green color when selected. If the fields are filled in incorrectly or left blank, 
 an error message will appear, preventing users from submitting their message until the issues are resolved.
 
-![contact_form](assets/readme.docs/completed-feat.png)
+![contact_form](readme_files/completed-feat.png)
 
 #### Responsive Contact Page --Form
 
 * This design is responsive and compatible with all screen types.
 
-![contact_form_ipad_screen](assets/readme.docs/contactpage-form-ipad.png)
+![contact_form_ipad_screen](readme_files/contactpage-form-ipad.png)
 
-![contact_form_mobile_screen](assets/readme.docs/contactpage-form-mobile.png)
+![contact_form_mobile_screen](readme_files/contactpage-form-mobile.png)
 
 *Once the user has correctly filled in all form elements and their message has been sent, 
 a new tab will automatically open, leading them to a confirmation page. This page is specifically designed 
@@ -187,7 +187,7 @@ friendly border collie to warmly greet them.
 
 #### Confirmation Page- New Tab upon Correct Completion Of Form
 
-![cofirmation_page](assets/readme.docs/completed-feat.png)
+![cofirmation_page](readme_files/completed-feat.png)
 
 
 ### Contact Page
@@ -196,7 +196,7 @@ friendly border collie to warmly greet them.
 those who prefer to use these contact methods. The color theme remains consistent and prominently displayed in a big 
 and bold format to ensure it catches your attention.
 
-![contact_details](assets/readme.docs/contactpage-details.png)
+![contact_details](readme_files/contactpage-details.png)
 
 #### Maps
 
@@ -204,7 +204,7 @@ and bold format to ensure it catches your attention.
 When users click on these maps, a new tab will open, leading them directly to Google Maps with the location visible on the 
 screen. These maps are also equipped with an "aria-label" for enhanced accessibility.
 
-![maps](assets/readme.docs/contactpage-maps.png)
+![maps](readme_files/contactpage-maps.png)
 
    
 ## UX/UI SECTION
@@ -276,7 +276,7 @@ Targeting the Right Audience:  potential clients aren't just on social media –
 ### DESIGN
 Typography and Color Scheme
 
-![design](assets/readme.docs/visionboard.png)
+![design](readme_files/visionboard.png)
 
 The website's color scheme is inspired by the business logo, emphasizing greens and pastel light colors for a visually appealing contrast. 
 The font choice, Lobster, and Bebas Neue mixture of both bold and cursive, readable and both gentle and bold, in line with the nurturing image the business aims to project.
@@ -295,19 +295,19 @@ And also in your face like an excited dog would be.
 
 ##### Home Screen 
 
-![home_page](assets/readme.docs/home-page-mobile-wireframe.JPG)
+![home_page](readme_files/home-page-mobile-wireframe.JPG)
         
 Included two essential anchors on all screen sizes:
 Logo Anchor: The website logo, when clicked, serves as an anchor to bring the viewer back to the index.html page, offering a convenient way to return to the homepage.
 Top Right Welcome Sign: In the top right corner of the navigation bar, you will find a welcome sign. Clicking this sign also acts as an anchor to return to the homepage, ensuring easy and intuitive navigation.
 
-![home_page_nav](assets/readme.docs/home-page-navtoggle-wireframe.jpg)
+![home_page_nav](readme_files/home-page-navtoggle-wireframe.jpg)
         
  The navigation toggle bar is positioned at the top of the mobile screen. Placing it at the top ensures it's the first element a viewer sees when they access the website. This prominent placement enhances accessibility and encourages users to interact with the navigation options.
 
 ##### Service Screen
 
-![service_page](assets/readme.docs/service-page-mobile-wireframe.jpg)
+![service_page](readme_files/service-page-mobile-wireframe.jpg)
 
 * Please note at this point that the wireframe images, specifically the nav and footer do not match the previous wireframes, they would still have the same layout on the web doc. 
 The nav and footer would move as the screen scrolls being in a fixed or sticky positions. The heading elements and image would also be on this page like all the other pages but would not be visable as we scroll down.
@@ -318,7 +318,7 @@ The service page is a vital one in this site as has all the importan information
 *Aim to make this section more intimate by allowing viewers to get to know the owner on a personal level. Through a brief and friendly introduction, we provide insights into her background, passion for the business, and what drives her commitment to providing exceptional services. This personal touch is a key factor in securing viewers' trust to create a sense of familiarity and relatability, building trust and rapport with the audience.
 Incorporating images of reviews from satisfied customers adds authenticity and credibility through the gallery showcasing these qualities. To add an endearing and charming element to our "About" section, we include images of our happy dog customers. This not only showcases the love and care we provide to our furry clients but also brings a smile to the viewer's face. It's a delightful way to create an emotional connection with our audience.
 
-![about_page_contact_page](assets/readme.docs/about-contact-mobile-wireframe.jpg)
+![about_page_contact_page](readme_files/about-contact-mobile-wireframe.jpg)
         
 ##### Contact Screen
 
@@ -427,19 +427,19 @@ Fix
 
     * All inputs, including those with "type=text" and "type=email" attributes, have been set to "required." If one or more fields are left incomplete, the "send message" option does not function, which aligns with the expected behavior.
 
-        ![form_names](assets/readme.docs/form-missingfirst-name-testing.png) ![form_names](assets/readme.docs/form-missinglast-name-testing.png)
+        ![form_names](readme_files/form-missingfirst-name-testing.png) ![form_names](readme_files/form-missinglast-name-testing.png)
 
     * In the case of the email field, it is designed to reject incorrect email formats, as anticipated.
 
-        ![form_email](assets/readme.docs/form-missingemail-testing.png)
+        ![form_email](readme_files/form-missingemail-testing.png)
 
     * All input fields, with the exception of the message box, are equipped with an autocomplete attribute, tailored to ensure accessibility for users with specific needs.
 
-        ![form_auto](assets/readme.docs/form-autofill.png)
+        ![form_auto](readme_files/form-autofill.png)
 
     * When all fields are submitted correctly, the user is directed to the "confirmation.html" page, this page opens in a new tab,which is in line with the expected outcome.
 
-        ![confimation-page](assets/readme.docs/confimation-page.png)
+        ![confimation-page](readme_files/confimation-page.png)
 
 
 
@@ -447,7 +447,7 @@ Fix
 
 * HTMl -- No errors were found when code inputted through official WSC Validator. --https://validator.w3.org/#validate_by_input
 
-    *![html_validator](assets/readme.docs/html-validator.jpg)
+    *![html_validator](readme_files/html-validator.jpg)
 
     * Steps -- 
         * Open deployed document
@@ -464,7 +464,7 @@ Fix
 
 * CSS -- No errors were found when code inputted through official WSC Validator. (JIGSAW) --https://jigsaw.w3.org/css-validator
 
-    ![css_validator](assets/readme.docs/css-validator.jpg)
+    ![css_validator](/css-validator.jpg)
 
     * Steps --
 
@@ -485,32 +485,32 @@ Fix
 
 Home--Desktop & Mobile
 
-![lightHouse_home_desktop](assets/readme.docs/lighthouse-home-desktop.jpg)
+![lightHouse_home_desktop](readme_files/lighthouse-home-desktop.jpg)
 
-![lightHouse_home_mobile](assets/readme.docs/lighthouse-home-mobile.jpg)
+![lightHouse_home_mobile](readme_files/lighthouse-home-mobile.jpg)
 
 Services--Desktop & Mobile
 
-![lightHouse_services_desktop](assets/readme.docs/lighthouse-services-desktop.jpg)
+![lightHouse_services_desktop](readme_files/lighthouse-services-desktop.jpg)
 
-![LightHouse_Services_Mobile](assets/readme.docs/lighthouse-services-mobile.jpg)
+![LightHouse_Services_Mobile](readme_files/lighthouse-services-mobile.jpg)
 
 About--Desktop & Mobile
 
-![lightHouse_about_desktop](assets/readme.docs/lighthouse-about-desktop.jpg)
+![lightHouse_about_desktop](readme_files/lighthouse-about-desktop.jpg)
 
-![lighthouse_about_mobile](assets/readme.docs/lighthouse-about-mobile.jpg)
+![lighthouse_about_mobile](readme_files/lighthouse-about-mobile.jpg)
 
 Contact--Desktop & Mobile
 
-![lighthouse_contact_desktop](assets/readme.docs/lighthouse-contact-desktop.jpg)
+![lighthouse_contact_desktop](readme_files/lighthouse-contact-desktop.jpg)
 
-![lighthouse_contact_mobile](assets/readme.docs/lighthouse-contact-mobile.jpg)
+![lighthouse_contact_mobile](readme_files/lighthouse-contact-mobile.jpg)
 
 Confirmation-- Desktop & Mobile
 
-![lighthouse_confirm_desktop](assets/readme.docs/lighthouse-confirm-desktop.jpg)
-![lighthouse_fonrim_desktop](assets/readme.docs/lighthouse-confirm-desktop.jpg)
+![lighthouse_confirm_desktop](readme_files/lighthouse-confirm-desktop.jpg)
+![lighthouse_fonrim_desktop](readme_files/lighthouse-confirm-desktop.jpg)
 
 
 
