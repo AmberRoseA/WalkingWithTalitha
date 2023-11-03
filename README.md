@@ -48,16 +48,16 @@ When you open the website in a browser tab, you will immediately notice the pres
 
 ### Header Image & Logo
 
-The header, featuring a border collie set against a green field backdrop that matches the color scheme of the web page, 
+* The header, featuring a border collie set against a green field backdrop that matches the color scheme of the web page, 
 provides an immediate visual cue about the site's theme. Underneath the header, you'll find information that clarifies the 
 site's purpose, which is dog walking and sitting services. It also highlights the business owner's qualifications in the 
 industry and provides the location of the business. These elements are thoughtfully arranged to ensure a clean and uncluttered 
 appearance.
 
-The logo, which serves as a home page link, is subtly positioned in the corner of the header image. It doesn't overpower the 
+* The logo, which serves as a home page link, is subtly positioned in the corner of the header image. It doesn't overpower the 
 design but remains noticeable, akin to a brand label.
 
-As demonstrated in the responsive navigation elements shown in previous images, the header image adapts to smaller screens, 
+* As demonstrated in the responsive navigation elements shown in previous images, the header image adapts to smaller screens, 
 allowing the headers to occupy more space and the logo to increase in size, fitting nicely within the curve of the dog's back.
 
 ![header](assets/readme.docs/header-img.png)
@@ -73,13 +73,29 @@ allowing the headers to occupy more space and the logo to increase in size, fitt
 
 ### Footer
 
+* In line with the green-themed design, the footer takes on a slightly darker shade compared to the navigation and header. 
+This subtle contrast enhances the page's sharpness against the white background of the main content.
 
+* The footer remains a fixed element throughout, ensuring that social media icons and links, as well as the 
+copyright notice, are constantly visible to the visitors. The business owner maintains active profiles on Facebook and 
+Instagram. When users click on the icons, the corresponding social media sites open in separate tabs, clearly indicated by 
+Arial labels to convey this action.
 
 ![footer](assets/readme.docs/footer.png)
 
 ### Services Page
 
 #### 'Su-Paw-Star Service' table section
+
+* On the services page, the primary feature is a table that outlines the different service types, their associated costs, 
+and the typical timeframes. This table serves as an informative section of the site, enabling visitors to easily understand 
+the owner's offerings and pricing structure.
+
+* Beneath the table, it is explained that the prices and durations of services can vary based on individual dog characteristics
+ and the owner's specific requirements, emphasises the highly personalized nature of the service. 
+* This information is presented in keeping with the current color theme, which incorporates dark and light greens with subtle 
+hints of yellow, enhancing the visual appeal. The table is neatly outlined with a yellow border, and the top row is made more 
+prominent, clearly labeled as 'Service Cost' and 'Times'
 
 ![service_table](assets/readme.docs/service-feat.png)
 
