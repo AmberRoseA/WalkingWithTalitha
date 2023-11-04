@@ -913,8 +913,15 @@ footer {
     .contact-form {
         margin-top: 0;
         margin-left: 25%;
+        padding-left: 2%;
+        padding-bottom: 2%;
         width: 55%;
     }
+
+    .text-input {
+        margin: 5%;
+    }
+
 
     .contact-headers-three {
         font-size: 2em;
