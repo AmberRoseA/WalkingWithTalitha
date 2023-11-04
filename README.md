@@ -461,7 +461,7 @@ GOOGLE MAP IFRAME= Map of Trowbridge---DESTINATION PAGE~ clicked= https://www.go
 
 * CSS -- No errors were found when code inputted through official WSC Validator. (JIGSAW) --https://jigsaw.w3.org/css-validator
 
-    ![css_validator](/css-validator.jpg)
+    ![css_validator](readme_files/css-validator.jpg)
 
     * Steps --
 
